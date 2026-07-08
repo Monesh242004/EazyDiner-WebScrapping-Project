@@ -1,0 +1,2401 @@
+Restaurants_Name,Cuisine,area,region,Discount,cost_of_two,ratings
+ Hamza Express - Since 1918,Multicuisine,Shivajinagar,Central Bengaluru,35,650,4.0
+ Hamza Express - Since 1918,Multicuisine,Shivajinagar,Central Bengaluru,35,650,4.0
+Savera Lassi Shop,"Beverages, Ice Cream",Shivajinagar,Central Bengaluru,35,2000,4.7
+Savera Lassi Shop,"Beverages, Ice Cream",Shivajinagar,Central Bengaluru,35,2000,4.7
+My Breakfast,Multicuisine,Shivajinagar,Central Bengaluru,35,2000,4.0
+My Breakfast,Multicuisine,Shivajinagar,Central Bengaluru,35,2000,4.0
+Nawabi Chai,Cafe,Shivajinagar,Central Bengaluru,35,200,4.0
+Nawabi Chai,Cafe,Shivajinagar,Central Bengaluru,35,200,4.0
+Tipsy Cafe,Fast Food,Shivajinagar,Central Bengaluru,35,2000,4.0
+Tipsy Cafe,Fast Food,Shivajinagar,Central Bengaluru,35,2000,4.0
+Shahi Restaurant,Multicuisine,Shivajinagar,Central Bengaluru,35,2000,3.0
+Shahi Restaurant,Multicuisine,Shivajinagar,Central Bengaluru,35,2000,3.0
+Main Lassi Shop,Multicuisine,Shivajinagar,Central Bengaluru,35,2000,1.0
+Main Lassi Shop,Multicuisine,Shivajinagar,Central Bengaluru,35,2000,1.0
+Maggi Baba,Beverages,Shivajinagar,Central Bengaluru,25,200,5.0
+Maggi Baba,Beverages,Shivajinagar,Central Bengaluru,25,200,5.0
+Romeo Cafe,Multicuisine,Shivajinagar,Central Bengaluru,25,2000,4.0
+Romeo Cafe,Multicuisine,Shivajinagar,Central Bengaluru,25,2000,4.0
+CBD Central Bar District,Multicuisine,MSR Nagar,Bengaluru,50,1200,4.8
+CBD Central Bar District,Multicuisine,MSR Nagar,Bengaluru,50,1200,4.8
+Flo,"Multicuisine, Cocktail Menu",Church Street,Central Bengaluru,55,2000,3.3
+Flo,"Multicuisine, Cocktail Menu",Church Street,Central Bengaluru,55,2000,3.3
+ShakesBierre,"Cocktail Menu, Multicuisine",MG Road,Central Bengaluru,35,2000,4.4
+ShakesBierre,"Cocktail Menu, Multicuisine",MG Road,Central Bengaluru,35,2000,4.4
+Paradox Pub,"Chinese, Finger Food, Continental",Ashok Nagar,Bengaluru,55,1200,5.0
+Paradox Pub,"Chinese, Finger Food, Continental",Ashok Nagar,Bengaluru,55,1200,5.0
+Navya Samrat Restaurant,Multicuisine,Infantry Road,Central Bengaluru,35,2500,5.0
+Navya Samrat Restaurant,Multicuisine,Infantry Road,Central Bengaluru,35,2500,5.0
+Coastal Machali Co.,"Indian Coastal Cuisine, Chinese",Residency Road,Central Bengaluru,40,1500,4.6
+Coastal Machali Co.,"Indian Coastal Cuisine, Chinese",Residency Road,Central Bengaluru,40,1500,4.6
+SMOOR,European,Lavelle Road,Central Bengaluru,35,2000,4.6
+SMOOR,European,Lavelle Road,Central Bengaluru,35,2000,4.6
+Rolls On Wheels,"Chinese, Fast Food",Cunningham Road,Central Bengaluru,40,500,4.0
+Rolls On Wheels,"Chinese, Fast Food",Cunningham Road,Central Bengaluru,40,500,4.0
+Hatti Kaapi,Multicuisine,Infantry Road,Central Bengaluru,35,400,5.0
+Hatti Kaapi,Multicuisine,Infantry Road,Central Bengaluru,35,400,5.0
+Tiamo,"Italian, Mediterranean",Conrad,Bengaluru,40,3000,4.4
+Tiamo,"Italian, Mediterranean",Conrad,Bengaluru,40,3000,4.4
+Punjab Grill,North Indian,Ashok Nagar,Bengaluru,40,2000,4.2
+Punjab Grill,North Indian,Ashok Nagar,Bengaluru,40,2000,4.2
+Alchemy,"Fusion, Indian",The Chancery Pavilion,Bengaluru,35,2500,4.5
+Alchemy,"Fusion, Indian",The Chancery Pavilion,Bengaluru,35,2500,4.5
+JW Kitchen,Multicuisine,JW Marriott,Bengaluru,50,2500,4.4
+JW Kitchen,Multicuisine,JW Marriott,Bengaluru,50,2500,4.4
+Maayaa,South Indian,The Courtyard by Sublime,Bengaluru,40,2000,4.4
+Maayaa,South Indian,The Courtyard by Sublime,Bengaluru,40,2000,4.4
+Purpose Matcha + Coffee House,Coffee,Ashok Nagar,Bengaluru,25,550,4.7
+Purpose Matcha + Coffee House,Coffee,Ashok Nagar,Bengaluru,25,550,4.7
+Muro India,"Thai, Cantonese","Museum Road, Ashok Nagar",Bengaluru,25,5000,4.5
+Muro India,"Thai, Cantonese","Museum Road, Ashok Nagar",Bengaluru,25,5000,4.5
+Zed The Baker,"Italian, French",Church Street,Central Bengaluru,35,2000,4.5
+Zed The Baker,"Italian, French",Church Street,Central Bengaluru,35,2000,4.5
+Yauatcha,Multicuisine,,,25,3000,4.6
+Yauatcha,Multicuisine,,,25,3000,4.6
+Spice It,Multicuisine,,,55,2000,3.5
+Spice It,Multicuisine,,,55,2000,3.5
+Scottish Pub,Multicuisine,St. Marks Road,Central Bengaluru,35,2000,4.9
+Scottish Pub,Multicuisine,St. Marks Road,Central Bengaluru,35,2000,4.9
+Monsoon,Multicuisine,The Park,Bengaluru,50,2000,3.9
+Monsoon,Multicuisine,The Park,Bengaluru,50,2000,3.9
+Church Street Social,Multicuisine,Church Street,Central Bengaluru,25,2000,4.2
+Church Street Social,Multicuisine,Church Street,Central Bengaluru,25,2000,4.2
+Toca Terrace,Multicuisine,Brigade Road,Central Bengaluru,25,2000,4.0
+Toca Terrace,Multicuisine,Brigade Road,Central Bengaluru,25,2000,4.0
+SkyDeck By Sherlock's,Multicuisine,MG Road,Central Bengaluru,40,2000,4.1
+SkyDeck By Sherlock's,Multicuisine,MG Road,Central Bengaluru,40,2000,4.1
+Ishaara,Multicuisine,St. Marks Road,Central Bengaluru,35,1800,5.0
+Ishaara,Multicuisine,St. Marks Road,Central Bengaluru,35,1800,5.0
+Ta'aam,"Arabian, North Indian",Cunningham Road,Central Bengaluru,25,600,5.0
+Ta'aam,"Arabian, North Indian",Cunningham Road,Central Bengaluru,25,600,5.0
+Cafe Noir,European,UB City,Central Bengaluru,35,1000,4.4
+Cafe Noir,European,UB City,Central Bengaluru,35,1000,4.4
+Sable Cafe,"Desserts, European, Cafe",Indiranagar,East Bengaluru,40,600,4.0
+Sable Cafe,"Desserts, European, Cafe",Indiranagar,East Bengaluru,40,600,4.0
+New Kudla Family Restaurant,"North Indian, Chinese",MG Road,Central Bengaluru,75,2000,4.0
+New Kudla Family Restaurant,"North Indian, Chinese",MG Road,Central Bengaluru,75,2000,4.0
+Monarch Cafe,Multicuisine,Infantry Road,Central Bengaluru,25,2000,4.0
+Monarch Cafe,Multicuisine,Infantry Road,Central Bengaluru,25,2000,4.0
+Cafe Adams,European,Shivajinagar,Central Bengaluru,25,2000,4.0
+Cafe Adams,European,Shivajinagar,Central Bengaluru,25,2000,4.0
+Atlas World Cafe,Multicuisine,Vividus Hotel,Bengaluru,40,2000,4.2
+Atlas World Cafe,Multicuisine,Vividus Hotel,Bengaluru,40,2000,4.2
+Chianti,Multicuisine,MG Road,Central Bengaluru,35,2000,4.3
+Chianti,Multicuisine,MG Road,Central Bengaluru,35,2000,4.3
+Toscano,Italian,UB City,Central Bengaluru,25,2000,5.0
+Toscano,Italian,UB City,Central Bengaluru,25,2000,5.0
+Pasta Street,Multicuisine,Cunningham Road,Central Bengaluru,25,2000,4.6
+Pasta Street,Multicuisine,Cunningham Road,Central Bengaluru,25,2000,4.6
+Cahoots Classic Bar House,Multicuisine,Brigade Road,Central Bengaluru,35,4000,4.9
+Cahoots Classic Bar House,Multicuisine,Brigade Road,Central Bengaluru,35,4000,4.9
+Full Peg,"Finger Food, Cocktail Menu",Nagarbhavi,West Bengaluru,75,1000,4.0
+Full Peg,"Finger Food, Cocktail Menu",Nagarbhavi,West Bengaluru,75,1000,4.0
+The Biere Club,"Cocktail Menu, Multicuisine",Lavelle Road,Central Bengaluru,35,2000,4.4
+The Biere Club,"Cocktail Menu, Multicuisine",Lavelle Road,Central Bengaluru,35,2000,4.4
+Citrus Cafe,Multicuisine,,,35,1500,4.0
+Citrus Cafe,Multicuisine,,,35,1500,4.0
+Ssaffron,Indian,Shangri-La,Bengaluru,35,2500,4.5
+Ssaffron,Indian,Shangri-La,Bengaluru,35,2500,4.5
+Chin Lung Resto Bar,Multicuisine,Residency Road,Central Bengaluru,25,2000,4.5
+Chin Lung Resto Bar,Multicuisine,Residency Road,Central Bengaluru,25,2000,4.5
+Altitude Kitchen & Bar,"Cocktail Menu, Multicuisine",Basaveshwara Nagar,West Bengaluru,45,2000,3.4
+Altitude Kitchen & Bar,"Cocktail Menu, Multicuisine",Basaveshwara Nagar,West Bengaluru,45,2000,3.4
+Pixi,Continental,Ashok Nagar,Bengaluru,25,1600,5.0
+Pixi,Continental,Ashok Nagar,Bengaluru,25,1600,5.0
+Kari Theory,"Cocktail Menu, Multicuisine",Radisson,Bengaluru,45,2500,3.9
+Kari Theory,"Cocktail Menu, Multicuisine",Radisson,Bengaluru,45,2500,3.9
+B Cafe,Multicuisine,Shangri-La,Bengaluru,35,2500,4.6
+B Cafe,Multicuisine,Shangri-La,Bengaluru,35,2500,4.6
+Zest,Multicuisine,Southern Star,Bengaluru,40,2100,4.3
+Zest,Multicuisine,Southern Star,Bengaluru,40,2100,4.3
+Just Blr,Multicuisine,Brigade Road,Central Bengaluru,25,3000,4.5
+Just Blr,Multicuisine,Brigade Road,Central Bengaluru,25,3000,4.5
+Dindigul Thalappakatti,Multicuisine,MG Road,Central Bengaluru,25,950,4.9
+Dindigul Thalappakatti,Multicuisine,MG Road,Central Bengaluru,25,950,4.9
+Smoke House Deli,European,Lavelle Road,Central Bengaluru,25,2000,4.4
+Smoke House Deli,European,Lavelle Road,Central Bengaluru,25,2000,4.4
+24/7,Multicuisine,The Lalit Ashok,Bengaluru,40,2500,3.9
+24/7,Multicuisine,The Lalit Ashok,Bengaluru,40,2500,3.9
+Caraway Kitchen,"Continental, Asian, Indian",Conrad,Bengaluru,35,3000,4.4
+Caraway Kitchen,"Continental, Asian, Indian",Conrad,Bengaluru,35,3000,4.4
+Juliet,"European, Asian",,,35,3000,3.9
+Juliet,"European, Asian",,,35,3000,3.9
+Gufha Restaurant,Multicuisine,Guttahalli,North Bengaluru,35,2000,4.6
+Gufha Restaurant,Multicuisine,Guttahalli,North Bengaluru,35,2000,4.6
+"Salt - Indian Restaurant, Bar & Grill","Indian, Cocktail Menu",UB City,Central Bengaluru,25,2000,4.4
+"Salt - Indian Restaurant, Bar & Grill","Indian, Cocktail Menu",UB City,Central Bengaluru,25,2000,4.4
+Hype,Cocktail Menu,Shangri-La,Bengaluru,35,2500,4.1
+Hype,Cocktail Menu,Shangri-La,Bengaluru,35,2500,4.1
+T'art Cafe,Fast Food,Brigade Road,Central Bengaluru,35,2000,4.4
+T'art Cafe,Fast Food,Brigade Road,Central Bengaluru,35,2000,4.4
+Foo Brigade Road,"Asian, Chinese, Sushi",Brigade Road,Central Bengaluru,25,2500,4.4
+Foo Brigade Road,"Asian, Chinese, Sushi",Brigade Road,Central Bengaluru,25,2500,4.4
+Nasi and Mee,Asian,Richmond Town,Central Bengaluru,25,2000,4.7
+Nasi and Mee,Asian,Richmond Town,Central Bengaluru,25,2000,4.7
+Heyou,"Pan Asian, Asian, Continental",Ashok Nagar,Bengaluru,25,1800,4.0
+Heyou,"Pan Asian, Asian, Continental",Ashok Nagar,Bengaluru,25,1800,4.0
+Sana-Di-Ge ,"Biryani, Seafood, Regional Indian",,,35,2000,4.4
+Sana-Di-Ge ,"Biryani, Seafood, Regional Indian",,,35,2000,4.4
+URU - JP Nagar,"Cocktail Menu, Multicuisine",JP Nagar,South Bengaluru,35,2000,4.5
+URU - JP Nagar,"Cocktail Menu, Multicuisine",JP Nagar,South Bengaluru,35,2000,4.5
+The Foodstories Garden Cafe,Global Cuisine,Ashok Nagar,Bengaluru,25,1500,5.0
+The Foodstories Garden Cafe,Global Cuisine,Ashok Nagar,Bengaluru,25,1500,5.0
+Beijing Bites,Pan Asian,Richmond Road,Central Bengaluru,40,450,5.0
+Beijing Bites,Pan Asian,Richmond Road,Central Bengaluru,40,450,5.0
+Mikusu,"Chinese, Thai, Japanese",Conrad,Bengaluru,40,3000,4.5
+Mikusu,"Chinese, Thai, Japanese",Conrad,Bengaluru,40,3000,4.5
+1522 - The Pub,Multicuisine,Residency Road,Central Bengaluru,25,1500,4.2
+1522 - The Pub,Multicuisine,Residency Road,Central Bengaluru,25,1500,4.2
+Caprese,Italian,Shangri-La,Bengaluru,35,2500,4.7
+Caprese,Italian,Shangri-La,Bengaluru,35,2500,4.7
+Loco Lane,Multicuisine,Ashok Nagar,Bengaluru,25,2500,5.0
+Loco Lane,Multicuisine,Ashok Nagar,Bengaluru,25,2500,5.0
+Lumara Bar & Kitchen,Multicuisine,Old Madras Road,East Bengaluru,35,2500,4.1
+Lumara Bar & Kitchen,Multicuisine,Old Madras Road,East Bengaluru,35,2500,4.1
+Proxy - Rooftop Bar & Kitchen,"Finger Food, Cocktail Menu"," Icon Select By Bhagini, Mahadevpura",Bengaluru,50,2000,3.9
+Proxy - Rooftop Bar & Kitchen,"Finger Food, Cocktail Menu"," Icon Select By Bhagini, Mahadevpura",Bengaluru,50,2000,3.9
+Homiga,Korean,,,25,2000,4.3
+Homiga,Korean,,,25,2000,4.3
+House of Dopamine- HOD,Multicuisine,Koramangala,South Bengaluru,35,2500,3.0
+House of Dopamine- HOD,Multicuisine,Koramangala,South Bengaluru,35,2500,3.0
+LIT Gastropub,Multicuisine,Church Street,Central Bengaluru,50,2000,3.5
+LIT Gastropub,Multicuisine,Church Street,Central Bengaluru,50,2000,3.5
+Toscano,Italian,"Museum Road, Ashok Nagar",Bengaluru,25,1600,4.4
+Toscano,Italian,"Museum Road, Ashok Nagar",Bengaluru,25,1600,4.4
+The Kabab Studio,"North Indian, North Eastern, North West Frontier",,,35,2000,3.9
+The Kabab Studio,"North Indian, North Eastern, North West Frontier",,,35,2000,3.9
+Puran Da Dhaba,Indian,The Pride Hotel,Bengaluru,40,2000,3.9
+Puran Da Dhaba,Indian,The Pride Hotel,Bengaluru,40,2000,3.9
+Spice Terrace,North Indian,JW Marriott,Bengaluru,40,2800,4.5
+Spice Terrace,North Indian,JW Marriott,Bengaluru,40,2800,4.5
+Cafe G Holiday inn Bengaluru Racecourse,Multicuisine,Holiday inn,Bengaluru,35,2500,4.1
+Cafe G Holiday inn Bengaluru Racecourse,Multicuisine,Holiday inn,Bengaluru,35,2500,4.1
+Shokudo Select,"Japanese, Korean, Pan Asian",Banaswadi,North Bengaluru,35,2000,4.7
+Shokudo Select,"Japanese, Korean, Pan Asian",Banaswadi,North Bengaluru,35,2000,4.7
+AnTeRa Kitchen and Bar - Indiranagar,"Andhra, Multicuisine",100 Feet Road,East Bengaluru,35,1200,4.3
+AnTeRa Kitchen and Bar - Indiranagar,"Andhra, Multicuisine",100 Feet Road,East Bengaluru,35,1200,4.3
+Mainland China,Chinese,Church Street,Central Bengaluru,40,1600,4.4
+Mainland China,Chinese,Church Street,Central Bengaluru,40,1600,4.4
+Feast,Multicuisine,,,40,2500,4.5
+Feast,Multicuisine,,,40,2500,4.5
+Shiro,"Japanese, Pan Asian, Asian",UB City,Central Bengaluru,25,2500,4.3
+Shiro,"Japanese, Pan Asian, Asian",UB City,Central Bengaluru,25,2500,4.3
+No Limmits Lounge & Club,Multicuisine,Brigade Road,Central Bengaluru,45,2000,3.5
+No Limmits Lounge & Club,Multicuisine,Brigade Road,Central Bengaluru,45,2000,3.5
+Le Rock,Multicuisine,Brigade Road,Central Bengaluru,35,1200,4.2
+Le Rock,Multicuisine,Brigade Road,Central Bengaluru,35,1200,4.2
+Green Theory,Multicuisine,Residency Road,Central Bengaluru,25,2000,4.3
+Green Theory,Multicuisine,Residency Road,Central Bengaluru,25,2000,4.3
+Queens Restaurant,North Indian,Church Street,Central Bengaluru,35,2000,4.7
+Queens Restaurant,North Indian,Church Street,Central Bengaluru,35,2000,4.7
+Amaravathi Palace,Andhra,JP Nagar,South Bengaluru,35,600,4.4
+Amaravathi Palace,Andhra,JP Nagar,South Bengaluru,35,600,4.4
+Dishkeyaun The Bollywood Restaurant & Bar,"Indian, Modern Indian",,,35,1800,3.6
+Dishkeyaun The Bollywood Restaurant & Bar,"Indian, Modern Indian",,,35,1800,3.6
+Platform 65,Multicuisine,Bannerghatta Road,South Bengaluru,35,2000,4.0
+Platform 65,Multicuisine,Bannerghatta Road,South Bengaluru,35,2000,4.0
+Badmaash UB City,Indian,UB City,Central Bengaluru,35,2000,4.3
+Badmaash UB City,Indian,UB City,Central Bengaluru,35,2000,4.3
+Molly's Courtyard,"Indian, Japanese, Continental",Vasanth Nagar,Central Bengaluru,25,2000,3.5
+Molly's Courtyard,"Indian, Japanese, Continental",Vasanth Nagar,Central Bengaluru,25,2000,3.5
+Zodiac - The Fortune Palace,Multicuisine,Fortune Select JP Cosmos,Bengaluru,50,1800,4.0
+Zodiac - The Fortune Palace,Multicuisine,Fortune Select JP Cosmos,Bengaluru,50,1800,4.0
+Mannheim Craft Brewery,Multicuisine,Whitefield,East Bengaluru,40,2500,4.5
+Mannheim Craft Brewery,Multicuisine,Whitefield,East Bengaluru,40,2500,4.5
+Barbecue by Punjab Grill,"Beverages, Biryani, Finger Food",,,45,2000,4.0
+Barbecue by Punjab Grill,"Beverages, Biryani, Finger Food",,,45,2000,4.0
+NASHA The Resto Bar,Multicuisine,BTM,South Bengaluru,35,1200,4.0
+NASHA The Resto Bar,Multicuisine,BTM,South Bengaluru,35,1200,4.0
+Kenzai - Asian Kitchen And Lounge,Asian,Brigade Road,Central Bengaluru,40,2000,4.4
+Kenzai - Asian Kitchen And Lounge,Asian,Brigade Road,Central Bengaluru,40,2000,4.4
+One Atria Cafe,"Multicuisine, Biryani",Radisson Blu Atria,Bengaluru,35,2000,4.2
+One Atria Cafe,"Multicuisine, Biryani",Radisson Blu Atria,Bengaluru,35,2000,4.2
+Matsuri,"Japanese, Sushi",The Chancery Hotel,Bengaluru,40,2000,4.6
+Matsuri,"Japanese, Sushi",The Chancery Hotel,Bengaluru,40,2000,4.6
+Ging,"oriental, Cocktail Menu",Royal Orchid Central,Bengaluru,35,2500,4.3
+Ging,"oriental, Cocktail Menu",Royal Orchid Central,Bengaluru,35,2500,4.3
+Kake Di Hatti,North Indian,Brigade Road,Central Bengaluru,25,2000,4.5
+Kake Di Hatti,North Indian,Brigade Road,Central Bengaluru,25,2000,4.5
+Whispers Pub (Big Barn),Multicuisine,Banashankari,South Bengaluru,50,2000,4.4
+Whispers Pub (Big Barn),Multicuisine,Banashankari,South Bengaluru,50,2000,4.4
+Barbeque Nation,Multicuisine,,,25,2000,4.6
+Barbeque Nation,Multicuisine,,,25,2000,4.6
+Kudla,Multicuisine,Sampangi Rama Nagar,Bengaluru,40,2500,5.0
+Kudla,Multicuisine,Sampangi Rama Nagar,Bengaluru,40,2500,5.0
+Espressoulster Coffee,"Pasta, Sandwiches, Coffee",Koramangala,South Bengaluru,35,500,4.0
+Espressoulster Coffee,"Pasta, Sandwiches, Coffee",Koramangala,South Bengaluru,35,500,4.0
+Dolci - Lavelle Road,European,Lavelle Road,Central Bengaluru,55,800,5.0
+Dolci - Lavelle Road,European,Lavelle Road,Central Bengaluru,55,800,5.0
+Levels Pub & Kitchen,Multicuisine,JP Nagar,South Bengaluru,35,2000,4.3
+Levels Pub & Kitchen,Multicuisine,JP Nagar,South Bengaluru,35,2000,4.3
+ The Yard,Multicuisine,Doddanekkundi,Bengaluru,35,2000,3.8
+ The Yard,Multicuisine,Doddanekkundi,Bengaluru,35,2000,3.8
+Öz By Kebapci,Turkish,UB City,Central Bengaluru,25,2000,4.5
+Öz By Kebapci,Turkish,UB City,Central Bengaluru,25,2000,4.5
+Street Storyss,Multicuisine,Brigade Road,Central Bengaluru,35,1500,4.3
+Street Storyss,Multicuisine,Brigade Road,Central Bengaluru,35,1500,4.3
+Glass Kitchen & Bar,"Indian, Cocktail Menu",Holiday inn,Bengaluru,35,2500,4.1
+Glass Kitchen & Bar,"Indian, Cocktail Menu",Holiday inn,Bengaluru,35,2500,4.1
+Watson's,Multicuisine,Ulsoor,East Bengaluru,25,1500,4.4
+Watson's,Multicuisine,Ulsoor,East Bengaluru,25,1500,4.4
+Cha HongKong Eating House,"Chinese, Japanese, Asian",St. Marks Road,Central Bengaluru,35,1400,4.7
+Cha HongKong Eating House,"Chinese, Japanese, Asian",St. Marks Road,Central Bengaluru,35,1400,4.7
+Sea Rock Family Restaurant & Bar,Multicuisine,Seshadripuram,Central Bengaluru,35,2000,4.8
+Sea Rock Family Restaurant & Bar,Multicuisine,Seshadripuram,Central Bengaluru,35,2000,4.8
+Plan B,American,Brigade Road,Central Bengaluru,40,2000,3.8
+Plan B,American,Brigade Road,Central Bengaluru,40,2000,3.8
+Just BLR Arena,Multicuisine,Ashok Nagar,Bengaluru,35,1000,4.0
+Just BLR Arena,Multicuisine,Ashok Nagar,Bengaluru,35,1000,4.0
+Taal Bar at Ishaara,Modern Indian,Ashok Nagar,Bengaluru,35,2000,4.0
+Taal Bar at Ishaara,Modern Indian,Ashok Nagar,Bengaluru,35,2000,4.0
+Aqua,Multicuisine,The Park,Bengaluru,45,2500,4.1
+Aqua,Multicuisine,The Park,Bengaluru,45,2500,4.1
+Kohinoor - Rooftop Pan Indian Restaurant,"Indian, South Indian, Kebabs",s Hotel,Bengaluru,35,950,5.0
+Kohinoor - Rooftop Pan Indian Restaurant,"Indian, South Indian, Kebabs",s Hotel,Bengaluru,35,950,5.0
+Blah Bla (Indigo XP),Multicuisine,Koramangala,South Bengaluru,50,2000,3.7
+Blah Bla (Indigo XP),Multicuisine,Koramangala,South Bengaluru,50,2000,3.7
+Mirage,"Cocktail Menu, Multicuisine",Church Street,Central Bengaluru,40,2800,4.2
+Mirage,"Cocktail Menu, Multicuisine",Church Street,Central Bengaluru,40,2800,4.2
+Pinocchio Ristorante,Italian,Ashok Nagar,Bengaluru,25,700,4.5
+Pinocchio Ristorante,Italian,Ashok Nagar,Bengaluru,25,700,4.5
+Republic Of Noodles,Pan Asian,,,35,1500,4.7
+Republic Of Noodles,Pan Asian,,,35,1500,4.7
+Shooketts,"European, French",Ulsoor,East Bengaluru,25,2000,4.0
+Shooketts,"European, French",Ulsoor,East Bengaluru,25,2000,4.0
+The Golden Circle Brewery ,Multicuisine,Doddakannelli,Bengaluru,40,2000,4.2
+The Golden Circle Brewery ,Multicuisine,Doddakannelli,Bengaluru,40,2000,4.2
+Topic Craft Bar & Kitchen,"North Indian, Pan Asian, Continental",kengeri,South Bengaluru,35,2000,4.7
+Topic Craft Bar & Kitchen,"North Indian, Pan Asian, Continental",kengeri,South Bengaluru,35,2000,4.7
+Kai Bar and Kitchen,"Sushi, Global Cuisine",Ashok Nagar,Bengaluru,35,4400,4.1
+Kai Bar and Kitchen,"Sushi, Global Cuisine",Ashok Nagar,Bengaluru,35,4400,4.1
+Kaavu,Multicuisine,Brookefield,East Bengaluru,40,2000,4.4
+Kaavu,Multicuisine,Brookefield,East Bengaluru,40,2000,4.4
+Tottos Pizza,Multicuisine,"5th Avenue, Brigade Road",Central Bengaluru,35,2000,3.3
+Tottos Pizza,Multicuisine,"5th Avenue, Brigade Road",Central Bengaluru,35,2000,3.3
+Cafe Lazy Lad,Cafe,Cooke Town,North Bengaluru,35,2000,4.0
+Cafe Lazy Lad,Cafe,Cooke Town,North Bengaluru,35,2000,4.0
+1947 Restaurant - Rajajinagar,"Indian, Chinese",Rajajinagar,West Bengaluru,35,2000,4.4
+1947 Restaurant - Rajajinagar,"Indian, Chinese",Rajajinagar,West Bengaluru,35,2000,4.4
+Al Obediah Restaurant,Multicuisine,Frazer Town,Central Bengaluru,35,700,2.0
+Al Obediah Restaurant,Multicuisine,Frazer Town,Central Bengaluru,35,700,2.0
+The Fixx,"Cocktail Menu, Multicuisine",Koramangala,South Bengaluru,50,2000,4.0
+The Fixx,"Cocktail Menu, Multicuisine",Koramangala,South Bengaluru,50,2000,4.0
+"KICO Community, Cocktail, Coffee",Cocktail Menu,Ashok Nagar,Bengaluru,25,2000,3.0
+"KICO Community, Cocktail, Coffee",Cocktail Menu,Ashok Nagar,Bengaluru,25,2000,3.0
+Anupam's Coast II Coast,Multicuisine,Church Street,Central Bengaluru,35,2000,4.8
+Anupam's Coast II Coast,Multicuisine,Church Street,Central Bengaluru,35,2000,4.8
+Eight,Pan Asian,"Phoenix Mall Of Asia, Yelahanka",Bengaluru,40,2500,4.6
+Eight,Pan Asian,"Phoenix Mall Of Asia, Yelahanka",Bengaluru,40,2500,4.6
+Vapour Pub & Brewery,Multicuisine,100 Feet Road,East Bengaluru,45,2000,3.9
+Vapour Pub & Brewery,Multicuisine,100 Feet Road,East Bengaluru,45,2000,3.9
+Tyd Kitchen + Bar,Multicuisine,Hennur,North Bengaluru,45,2000,4.1
+Tyd Kitchen + Bar,Multicuisine,Hennur,North Bengaluru,45,2000,4.1
+Vapour Brewpub & Diner,Multicuisine,Sarjapur Road,South Bengaluru,45,2000,4.4
+Vapour Brewpub & Diner,Multicuisine,Sarjapur Road,South Bengaluru,45,2000,4.4
+Tandoor | A Heritage Indian Restaurant & Bar,North Indian,MG Road,Central Bengaluru,25,2000,4.7
+Tandoor | A Heritage Indian Restaurant & Bar,North Indian,MG Road,Central Bengaluru,25,2000,4.7
+Yazu Pan Asian Supper Club,"Japanese, Korean, Pan Asian",Ashok Nagar,Bengaluru,25,2000,4.0
+Yazu Pan Asian Supper Club,"Japanese, Korean, Pan Asian",Ashok Nagar,Bengaluru,25,2000,4.0
+Pizza Stop,"Fast Food, Italian",Lavelle Road,Central Bengaluru,40,700,4.0
+Pizza Stop,"Fast Food, Italian",Lavelle Road,Central Bengaluru,40,700,4.0
+MoMo Cafe,Multicuisine,Courtyard by Marriott,Bengaluru,45,2500,4.5
+MoMo Cafe,Multicuisine,Courtyard by Marriott,Bengaluru,45,2500,4.5
+The Roof - Asian Grill & Bar,"Asian, Pan Asian, Japanese",Marriott Executive Apartments,Bengaluru,25,5000,4.0
+The Roof - Asian Grill & Bar,"Asian, Pan Asian, Japanese",Marriott Executive Apartments,Bengaluru,25,5000,4.0
+Zodiac,Multicuisine,Fortune Select JP Cosmos,Bengaluru,40,2000,4.2
+Zodiac,Multicuisine,Fortune Select JP Cosmos,Bengaluru,40,2000,4.2
+Kathe - Speciality Coffee,"Cafe, Coffee",HSR,South Bengaluru,35,1000,4.0
+Kathe - Speciality Coffee,"Cafe, Coffee",HSR,South Bengaluru,35,1000,4.0
+The Lounge Cafe,"Iranian, Finger Food",Holiday inn,Bengaluru,35,2000,1.0
+The Lounge Cafe,"Iranian, Finger Food",Holiday inn,Bengaluru,35,2000,1.0
+OKO,Pan Asian,The Lalit Ashok,Bengaluru,40,2200,4.0
+OKO,Pan Asian,The Lalit Ashok,Bengaluru,40,2200,4.0
+Continuum,"Indian, Asian, European",JP Nagar,South Bengaluru,25,1500,4.8
+Continuum,"Indian, Asian, European",JP Nagar,South Bengaluru,25,1500,4.8
+Uptown Rooftop Grill & Bar,Multicuisine,Sahakara Nagar,North Bengaluru,45,2500,5.0
+Uptown Rooftop Grill & Bar,Multicuisine,Sahakara Nagar,North Bengaluru,45,2500,5.0
+The Grill & Cheese Cafe,Continental,Frazer Town,Central Bengaluru,35,2000,5.0
+The Grill & Cheese Cafe,Continental,Frazer Town,Central Bengaluru,35,2000,5.0
+UNO Izakaya,Japanese,JW Marriott,Bengaluru,45,4000,3.0
+UNO Izakaya,Japanese,JW Marriott,Bengaluru,45,4000,3.0
+Over Coffee “Restaurant + Wine bar”,European,Lavelle Road,Central Bengaluru,25,2000,4.2
+Over Coffee “Restaurant + Wine bar”,European,Lavelle Road,Central Bengaluru,25,2000,4.2
+Barley Broo,Multicuisine,Rajajinagar,West Bengaluru,45,2000,4.4
+Barley Broo,Multicuisine,Rajajinagar,West Bengaluru,45,2000,4.4
+Cafe Grey by Dongle & Co.,European,Indiranagar,East Bengaluru,35,2000,4.2
+Cafe Grey by Dongle & Co.,European,Indiranagar,East Bengaluru,35,2000,4.2
+Shift,Multicuisine,Marathahalli,East Bengaluru,50,2000,3.6
+Shift,Multicuisine,Marathahalli,East Bengaluru,50,2000,3.6
+The Big Baadshaah,Multicuisine,Marathahalli,East Bengaluru,25,2000,3.8
+The Big Baadshaah,Multicuisine,Marathahalli,East Bengaluru,25,2000,3.8
+Fifty 50,Multicuisine,"RMZ Ecoworld, Bellandur",South Bengaluru,25,2500,4.3
+Fifty 50,Multicuisine,"RMZ Ecoworld, Bellandur",South Bengaluru,25,2500,4.3
+Rooftop Dinning,Multicuisine,,,35,1200,4.0
+Rooftop Dinning,Multicuisine,,,35,1200,4.0
+The Royal Afghan,North West Frontier,ITC Windsor,Bengaluru,25,5500,4.8
+The Royal Afghan,North West Frontier,ITC Windsor,Bengaluru,25,5500,4.8
+The Lokum,"Turkish, Continental",Kalyan Nagar,North Bengaluru,35,1700,4.2
+The Lokum,"Turkish, Continental",Kalyan Nagar,North Bengaluru,35,1700,4.2
+YouMee,"Japanese, Pan Asian",,,40,2000,4.8
+YouMee,"Japanese, Pan Asian",,,40,2000,4.8
+Gatsby,Multicuisine,Bannerghatta Road,South Bengaluru,45,2000,4.3
+Gatsby,Multicuisine,Bannerghatta Road,South Bengaluru,45,2000,4.3
+Amicii,Multicuisine,100 Feet Road,East Bengaluru,25,4000,4.7
+Amicii,Multicuisine,100 Feet Road,East Bengaluru,25,4000,4.7
+Lohri,North Indian,Old Madras Road,East Bengaluru,25,1800,3.6
+Lohri,North Indian,Old Madras Road,East Bengaluru,25,1800,3.6
+Cafe Treat ,Multicuisine,The Pride Hotel,Bengaluru,40,2000,4.1
+Cafe Treat ,Multicuisine,The Pride Hotel,Bengaluru,40,2000,4.1
+Shaken & Stirred,"Finger Food, North Indian",Race Course Road,Central Bengaluru,35,2000,2.9
+Shaken & Stirred,"Finger Food, North Indian",Race Course Road,Central Bengaluru,35,2000,2.9
+AB's - Absolute Barbecues,"Barbeque, Multicuisine",Electronic City,South Bengaluru,25,2000,4.3
+AB's - Absolute Barbecues,"Barbeque, Multicuisine",Electronic City,South Bengaluru,25,2000,4.3
+Hangover,Multicuisine,HSR,South Bengaluru,40,2000,3.9
+Hangover,Multicuisine,HSR,South Bengaluru,40,2000,3.9
+Persian Pastries,Desserts,Brigade Road,Central Bengaluru,45,2000,5.0
+Persian Pastries,Desserts,Brigade Road,Central Bengaluru,45,2000,5.0
+Toca,Multicuisine,Brigade Road,Central Bengaluru,25,2000,4.2
+Toca,Multicuisine,Brigade Road,Central Bengaluru,25,2000,4.2
+CUR8,"Indian, Italian",Four Seasons Hotel,Bengaluru,45,3200,4.6
+CUR8,"Indian, Italian",Four Seasons Hotel,Bengaluru,45,3200,4.6
+Baluchi,Indian,The Lalit Ashok,Bengaluru,40,4000,4.0
+Baluchi,Indian,The Lalit Ashok,Bengaluru,40,4000,4.0
+Sutra,Finger Food,The Lalit Ashok,Bengaluru,40,2500,3.0
+Sutra,Finger Food,The Lalit Ashok,Bengaluru,40,2500,3.0
+Kebabs & Kurries,Indian,ITC Gardenia,Bengaluru,25,3500,4.5
+Kebabs & Kurries,Indian,ITC Gardenia,Bengaluru,25,3500,4.5
+The Market,Multicuisine,Marriott Executive Apartments,Bengaluru,25,2500,3.5
+The Market,Multicuisine,Marriott Executive Apartments,Bengaluru,25,2500,3.5
+Royal China,"Asian, Chinese",Ashok Nagar,Bengaluru,25,2500,4.4
+Royal China,"Asian, Chinese",Ashok Nagar,Bengaluru,25,2500,4.4
+Suka Brew & Kitchen,"Salad, North Indian, Chinese",Nagarbhavi,West Bengaluru,25,5000,4.1
+Suka Brew & Kitchen,"Salad, North Indian, Chinese",Nagarbhavi,West Bengaluru,25,5000,4.1
+Dakshin,South Indian,ITC Windsor,Bengaluru,25,6000,4.2
+Dakshin,South Indian,ITC Windsor,Bengaluru,25,6000,4.2
+Daily Sushi ,"Japanese, Pan Asian",Church Street,Central Bengaluru,25,3000,5.0
+Daily Sushi ,"Japanese, Pan Asian",Church Street,Central Bengaluru,25,3000,5.0
+The Lobby Lounge,Coffee and Tea,The Ritz-Carlton,Bengaluru,40,2600,4.0
+The Lobby Lounge,Coffee and Tea,The Ritz-Carlton,Bengaluru,40,2600,4.0
+4/1 Kitchen,Multicuisine,s Hotel,Bengaluru,40,950,4.0
+4/1 Kitchen,Multicuisine,s Hotel,Bengaluru,40,950,4.0
+The Gourmet Kitchen & Bar,Pan Asian,Hotel Ramanashree,Bengaluru,40,2000,4.0
+The Gourmet Kitchen & Bar,Pan Asian,Hotel Ramanashree,Bengaluru,40,2000,4.0
+BLR Brewing Co,Multicuisine,Whitefield,East Bengaluru,25,2000,4.4
+BLR Brewing Co,Multicuisine,Whitefield,East Bengaluru,25,2000,4.4
+RCB Bar & Cafe,"Cocktail Menu, Multicuisine",Ashok Nagar,Bengaluru,25,3000,4.3
+RCB Bar & Cafe,"Cocktail Menu, Multicuisine",Ashok Nagar,Bengaluru,25,3000,4.3
+Lobby Lounge,Cafe,Shangri-La,Bengaluru,35,2000,4.9
+Lobby Lounge,Cafe,Shangri-La,Bengaluru,35,2000,4.9
+Good Flippin' Burgers,American,Church Street,Central Bengaluru,25,1100,4.7
+Good Flippin' Burgers,American,Church Street,Central Bengaluru,25,1100,4.7
+Tom's Restaurant,Mangalorean,Brigade Road,Central Bengaluru,25,2000,4.8
+Tom's Restaurant,Mangalorean,Brigade Road,Central Bengaluru,25,2000,4.8
+Vintage Adda Resto Pub ,Multicuisine,Ashok Nagar,Bengaluru,25,1000,5.0
+Vintage Adda Resto Pub ,Multicuisine,Ashok Nagar,Bengaluru,25,1000,5.0
+"TECHiLA - Mexican Pub, Indian Twist",Multicuisine,Thanisandra,Bengaluru,40,2000,4.5
+"TECHiLA - Mexican Pub, Indian Twist",Multicuisine,Thanisandra,Bengaluru,40,2000,4.5
+The Reservoire,Multicuisine,Koramangala,South Bengaluru,35,2000,4.3
+The Reservoire,Multicuisine,Koramangala,South Bengaluru,35,2000,4.3
+Oasis Brewery,Multicuisine,Whitefield,East Bengaluru,25,1500,4.6
+Oasis Brewery,Multicuisine,Whitefield,East Bengaluru,25,1500,4.6
+The California Coffee,American,Ashok Nagar,Bengaluru,45,2000,1.0
+The California Coffee,American,Ashok Nagar,Bengaluru,45,2000,1.0
+You Mee,Pan Asian,,,35,2000,4.3
+You Mee,Pan Asian,,,35,2000,4.3
+Kwarter Klub,"Finger Food, Cocktail Menu",Nagawara,North Bengaluru,25,800,4.0
+Kwarter Klub,"Finger Food, Cocktail Menu",Nagawara,North Bengaluru,25,800,4.0
+Salvadores,"Cocktail Menu, Continental",MG Road,Central Bengaluru,35,2500,4.5
+Salvadores,"Cocktail Menu, Continental",MG Road,Central Bengaluru,35,2500,4.5
+Proxy - Resto Bar,Multicuisine,Kundalahalli,Bengaluru,50,2500,3.7
+Proxy - Resto Bar,Multicuisine,Kundalahalli,Bengaluru,50,2500,3.7
+High Ultra Lounge,Multicuisine,,,40,2000,4.2
+High Ultra Lounge,Multicuisine,,,40,2000,4.2
+IKOI Tokyo,"Bakery, Japanese",JP Nagar,South Bengaluru,25,1200,4.2
+IKOI Tokyo,"Bakery, Japanese",JP Nagar,South Bengaluru,25,1200,4.2
+La Utsav by Grand Mercure,Multicuisine,,,50,2000,4.3
+La Utsav by Grand Mercure,Multicuisine,,,50,2000,4.3
+Broadway - The Gourmet Theatre,Multicuisine,HSR,South Bengaluru,35,2000,4.6
+Broadway - The Gourmet Theatre,Multicuisine,HSR,South Bengaluru,35,2000,4.6
+Dobaraa Gastro Pub,Multicuisine,"Phoenix Mall Of Asia, Yelahanka",Bengaluru,40,2000,4.3
+Dobaraa Gastro Pub,Multicuisine,"Phoenix Mall Of Asia, Yelahanka",Bengaluru,40,2000,4.3
+Slounge,Finger Food,,,35,1000,4.0
+Slounge,Finger Food,,,35,1000,4.0
+The Grills,Multicuisine,Vividus Hotel,Bengaluru,35,2500,4.0
+The Grills,Multicuisine,Vividus Hotel,Bengaluru,35,2500,4.0
+Coffee Brew Hub,Multicuisine,Residency Road,Central Bengaluru,35,1000,4.0
+Coffee Brew Hub,Multicuisine,Residency Road,Central Bengaluru,35,1000,4.0
+Sly,Multicuisine,Frazer Town,Central Bengaluru,25,1200,4.0
+Sly,Multicuisine,Frazer Town,Central Bengaluru,25,1200,4.0
+Turkish Souk,Turkish,Jakkur,Central Bengaluru,25,1000,5.0
+Turkish Souk,Turkish,Jakkur,Central Bengaluru,25,1000,5.0
+"Shokudo, Japanese and Pan Asian Restaurant",Multicuisine,Jayanagar,South Bengaluru,25,2000,4.5
+"Shokudo, Japanese and Pan Asian Restaurant",Multicuisine,Jayanagar,South Bengaluru,25,2000,4.5
+Legacy Brewing Company,Multicuisine,Rajarajeshwari Nagar,South Bengaluru,25,4000,4.5
+Legacy Brewing Company,Multicuisine,Rajarajeshwari Nagar,South Bengaluru,25,4000,4.5
+1131 Bar & Kitchen,Multicuisine,100 Feet Road,East Bengaluru,35,2500,4.8
+1131 Bar & Kitchen,Multicuisine,100 Feet Road,East Bengaluru,35,2500,4.8
+Ration Room ,Multicuisine,RT Nagar,North Bengaluru,35,3000,4.5
+Ration Room ,Multicuisine,RT Nagar,North Bengaluru,35,3000,4.5
+The Verandah,Multicuisine,,,40,2000,4.2
+The Verandah,Multicuisine,,,40,2000,4.2
+Red Rhino,Multicuisine,Whitefield,East Bengaluru,40,2000,4.4
+Red Rhino,Multicuisine,Whitefield,East Bengaluru,40,2000,4.4
+Serious Slice ,Italian,Cunningham Road,Central Bengaluru,25,5000,4.7
+Serious Slice ,Italian,Cunningham Road,Central Bengaluru,25,5000,4.7
+Gawky Goose,"Multicuisine, Burgers",Murgesh Pallya,West Bengaluru,40,2500,4.4
+Gawky Goose,"Multicuisine, Burgers",Murgesh Pallya,West Bengaluru,40,2500,4.4
+1BHK,Multicuisine,Koramangala,South Bengaluru,25,2000,4.4
+1BHK,Multicuisine,Koramangala,South Bengaluru,25,2000,4.4
+Wild Pour ,Multicuisine,Hennur,North Bengaluru,35,2000,4.5
+Wild Pour ,Multicuisine,Hennur,North Bengaluru,35,2000,4.5
+Riko,South American,UB City,Central Bengaluru,25,1500,4.0
+Riko,South American,UB City,Central Bengaluru,25,1500,4.0
+Pincode by Kunal Kapur,Indian,,,25,2500,5.0
+Pincode by Kunal Kapur,Indian,,,25,2500,5.0
+Welcom Cafe Jacaranda,Multicuisine,"Welcomhotel By ITC Hotels, Richmond Road",Bengaluru,25,2500,2.7
+Welcom Cafe Jacaranda,Multicuisine,"Welcomhotel By ITC Hotels, Richmond Road",Bengaluru,25,2500,2.7
+Nothing Before Coffee,Cafe,Richmond Town,Central Bengaluru,35,2000,4.0
+Nothing Before Coffee,Cafe,Richmond Town,Central Bengaluru,35,2000,4.0
+Wow! Momo,Momos,Church Street,Central Bengaluru,40,2000,5.0
+Wow! Momo,Momos,Church Street,Central Bengaluru,40,2000,5.0
+Old Mill,Multicuisine,,,35,2000,4.4
+Old Mill,Multicuisine,,,35,2000,4.4
+Ahara,Indian,The Oterra,Bengaluru,35,4000,5.0
+Ahara,Indian,The Oterra,Bengaluru,35,4000,5.0
+Shift Lounge,Multicuisine,Singasandra,Bengaluru,50,2000,3.8
+Shift Lounge,Multicuisine,Singasandra,Bengaluru,50,2000,3.8
+The Chocolate Room,"Italian, Mediterranean",Kalyan Nagar,North Bengaluru,40,700,4.5
+The Chocolate Room,"Italian, Mediterranean",Kalyan Nagar,North Bengaluru,40,700,4.5
+The Pizza Bakery - Woodfired Sourdough,Multicuisine,New BEL Road,North Bengaluru,25,1500,4.6
+The Pizza Bakery - Woodfired Sourdough,Multicuisine,New BEL Road,North Bengaluru,25,1500,4.6
+BudBee Restobar BG Road,Multicuisine,Bannerghatta Road,South Bengaluru,40,1400,4.0
+BudBee Restobar BG Road,Multicuisine,Bannerghatta Road,South Bengaluru,40,1400,4.0
+Habba Kadal - Kashmiri Fine Dining Restaurant,Kashmiri,Whitefield,East Bengaluru,35,2000,4.2
+Habba Kadal - Kashmiri Fine Dining Restaurant,Kashmiri,Whitefield,East Bengaluru,35,2000,4.2
+Biergarten,Multicuisine,Koramangala,South Bengaluru,40,2000,4.5
+Biergarten,Multicuisine,Koramangala,South Bengaluru,40,2000,4.5
+Lush,Multicuisine,Renaissance,Bengaluru,35,2000,4.4
+Lush,Multicuisine,Renaissance,Bengaluru,35,2000,4.4
+Cubbon Pavilion,"All Day Dining, Multicuisine",ITC Gardenia,Bengaluru,25,2500,4.4
+Cubbon Pavilion,"All Day Dining, Multicuisine",ITC Gardenia,Bengaluru,25,2500,4.4
+Saffron,North Indian,Radisson Blu,Bengaluru,45,2500,4.5
+Saffron,North Indian,Radisson Blu,Bengaluru,45,2500,4.5
+Dum Pukht,Awadhi,ITC Windsor,Bengaluru,25,5000,4.5
+Dum Pukht,Awadhi,ITC Windsor,Bengaluru,25,5000,4.5
+Boche,Multicuisine,,,35,2000,3.0
+Boche,Multicuisine,,,35,2000,3.0
+Copper Finch,North Indian,Rajajinagar,West Bengaluru,35,1800,5.0
+Copper Finch,North Indian,Rajajinagar,West Bengaluru,35,1800,5.0
+Wow! China,Chinese,Church Street,Central Bengaluru,40,2000,4.0
+Wow! China,Chinese,Church Street,Central Bengaluru,40,2000,4.0
+Urban Fork,Cafe,Frazer Town,Central Bengaluru,40,800,4.0
+Urban Fork,Cafe,Frazer Town,Central Bengaluru,40,800,4.0
+Tangerine,Multicuisine,Davanam Sarovar Portico Suites,Bengaluru,45,2000,4.1
+Tangerine,Multicuisine,Davanam Sarovar Portico Suites,Bengaluru,45,2000,4.1
+Maverick & Farmer Coffee,Cafe,Ulsoor,East Bengaluru,35,2000,4.3
+Maverick & Farmer Coffee,Cafe,Ulsoor,East Bengaluru,35,2000,4.3
+The Burrow,"Italian, North Indian",Hotel 37th Crescent,Bengaluru,35,2000,5.0
+The Burrow,"Italian, North Indian",Hotel 37th Crescent,Bengaluru,35,2000,5.0
+Season Restaurant,Multicuisine,Richmond Town,Central Bengaluru,25,2000,4.0
+Season Restaurant,Multicuisine,Richmond Town,Central Bengaluru,25,2000,4.0
+Aromas of Asia,Multicuisine,Hotel 37th Crescent,Bengaluru,35,2000,3.0
+Aromas of Asia,Multicuisine,Hotel 37th Crescent,Bengaluru,35,2000,3.0
+11grams Coffee Roasters,Cafe,Church Street,Central Bengaluru,35,2000,5.0
+11grams Coffee Roasters,Cafe,Church Street,Central Bengaluru,35,2000,5.0
+Crossroads Cafe,Multicuisine,Brigade Road,Central Bengaluru,35,2000,5.0
+Crossroads Cafe,Multicuisine,Brigade Road,Central Bengaluru,35,2000,5.0
+Chambal,Indian,Church Street,Central Bengaluru,35,2000,5.0
+Chambal,Indian,Church Street,Central Bengaluru,35,2000,5.0
+Flavours of Bharat,Multicuisine,Sankey Road,North Bengaluru,35,2500,5.0
+Flavours of Bharat,Multicuisine,Sankey Road,North Bengaluru,35,2500,5.0
+Cocobolo,"Cocktail Menu, Multicuisine",New BEL Road,North Bengaluru,35,2000,3.9
+Cocobolo,"Cocktail Menu, Multicuisine",New BEL Road,North Bengaluru,35,2000,3.9
+Tea and Wine Lounge,"Finger Food, Desserts",Radisson Blu Atria,Bengaluru,35,1500,4.5
+Tea and Wine Lounge,"Finger Food, Desserts",Radisson Blu Atria,Bengaluru,35,1500,4.5
+Hitchki,Modern Indian,,,25,2000,4.2
+Hitchki,Modern Indian,,,25,2000,4.2
+Andhra Ruchulu,Multicuisine,Sankey Road,North Bengaluru,25,2000,4.6
+Andhra Ruchulu,Multicuisine,Sankey Road,North Bengaluru,25,2000,4.6
+ee Kavii,"Pan Asian, Continental",JP Nagar,South Bengaluru,35,2000,4.7
+ee Kavii,"Pan Asian, Continental",JP Nagar,South Bengaluru,35,2000,4.7
+The Coffee Brewery - Green Glen Layout,"Coffee and Tea, Cafe",Bellandur,South Bengaluru,35,2000,5.0
+The Coffee Brewery - Green Glen Layout,"Coffee and Tea, Cafe",Bellandur,South Bengaluru,35,2000,5.0
+Coco's Bar & Kitchen,Multicuisine,Church Street,Central Bengaluru,25,1200,4.3
+Coco's Bar & Kitchen,Multicuisine,Church Street,Central Bengaluru,25,1200,4.3
+ KoMaama Korean Restaurant,Korean,Brigade Road,Central Bengaluru,35,2000,4.0
+ KoMaama Korean Restaurant,Korean,Brigade Road,Central Bengaluru,35,2000,4.0
+Howl’n Pub,Multicuisine,Church Street,Central Bengaluru,35,1400,4.3
+Howl’n Pub,Multicuisine,Church Street,Central Bengaluru,35,1400,4.3
+"Atlantis - Brewpub, Cocktails & Kitchen",Multicuisine,HSR,South Bengaluru,25,2000,4.2
+"Atlantis - Brewpub, Cocktails & Kitchen",Multicuisine,HSR,South Bengaluru,25,2000,4.2
+Café du L'Amour (Cafe of Love),Multicuisine,Koramangala 4th Block,South Bengaluru,35,600,5.0
+Café du L'Amour (Cafe of Love),Multicuisine,Koramangala 4th Block,South Bengaluru,35,600,5.0
+The Veg & Veg,South Indian,Indiranagar,East Bengaluru,35,2000,4.9
+The Veg & Veg,South Indian,Indiranagar,East Bengaluru,35,2000,4.9
+Tyla - Brewery & Kitchen,"Finger Food, Cocktail Menu",JP Nagar,South Bengaluru,40,1800,4.3
+Tyla - Brewery & Kitchen,"Finger Food, Cocktail Menu",JP Nagar,South Bengaluru,40,1800,4.3
+Urban Solace,Multicuisine,Ulsoor,East Bengaluru,35,2000,4.0
+Urban Solace,Multicuisine,Ulsoor,East Bengaluru,35,2000,4.0
+Bootstrapped Cafe,"European, North Indian",Ashok Nagar,Bengaluru,35,2000,4.0
+Bootstrapped Cafe,"European, North Indian",Ashok Nagar,Bengaluru,35,2000,4.0
+The Wine Terrace,"American, European",Ulsoor,East Bengaluru,35,2000,4.0
+The Wine Terrace,"American, European",Ulsoor,East Bengaluru,35,2000,4.0
+Apna Dhaba,Multicuisine,Residency Road,Central Bengaluru,35,2000,4.0
+Apna Dhaba,Multicuisine,Residency Road,Central Bengaluru,35,2000,4.0
+Kazan Japanese Ramen,Japanese,Church Street,Central Bengaluru,25,2000,4.9
+Kazan Japanese Ramen,Japanese,Church Street,Central Bengaluru,25,2000,4.9
+Nakkshatra by Nagarjuna,"Multicuisine, Biryani",Marathahalli,East Bengaluru,35,2500,4.4
+Nakkshatra by Nagarjuna,"Multicuisine, Biryani",Marathahalli,East Bengaluru,35,2500,4.4
+Monarch Cafe,Multicuisine,Brigade Road,Central Bengaluru,35,1200,4.0
+Monarch Cafe,Multicuisine,Brigade Road,Central Bengaluru,35,1200,4.0
+CHA,Pan Asian,"Phoenix Mall Of Asia, Yelahanka",Bengaluru,40,2000,4.3
+CHA,Pan Asian,"Phoenix Mall Of Asia, Yelahanka",Bengaluru,40,2000,4.3
+Flavours,Multicuisine,Citadel Sarovar Portico,Bengaluru,35,2000,4.3
+Flavours,Multicuisine,Citadel Sarovar Portico,Bengaluru,35,2000,4.3
+Anjappar Chettinad Restaurant,Indian,Ashok Nagar,Bengaluru,35,2000,3.7
+Anjappar Chettinad Restaurant,Indian,Ashok Nagar,Bengaluru,35,2000,3.7
+Tiger Trail,Indian,Regenta Place Cunningham,Bengaluru,40,2000,4.1
+Tiger Trail,Indian,Regenta Place Cunningham,Bengaluru,40,2000,4.1
+Pret A Manger,Multicuisine,"Phoenix Mall Of Asia, Yelahanka",Bengaluru,45,800,4.0
+Pret A Manger,Multicuisine,"Phoenix Mall Of Asia, Yelahanka",Bengaluru,45,800,4.0
+Bologna Italian Restaurant,Italian,100 Feet Road,East Bengaluru,35,2000,4.5
+Bologna Italian Restaurant,Italian,100 Feet Road,East Bengaluru,35,2000,4.5
+Mahanagaram,Andhra,Kalyan Nagar,North Bengaluru,25,800,4.7
+Mahanagaram,Andhra,Kalyan Nagar,North Bengaluru,25,800,4.7
+Dobaraa ,Multicuisine,,,40,2000,4.1
+Dobaraa ,Multicuisine,,,40,2000,4.1
+Yummy Bee,Cafe,JP Nagar,South Bengaluru,35,1000,5.0
+Yummy Bee,Cafe,JP Nagar,South Bengaluru,35,1000,5.0
+Babylonia,Multicuisine,Koramangala 7th Block,South Bengaluru,45,2000,4.0
+Babylonia,Multicuisine,Koramangala 7th Block,South Bengaluru,45,2000,4.0
+Macaw By Stories,Multicuisine,,,40,2000,4.2
+Macaw By Stories,Multicuisine,,,40,2000,4.2
+The Whiskey Bar,"Pan Asian, Multicuisine",Radisson Blu Atria,Bengaluru,35,2500,3.0
+The Whiskey Bar,"Pan Asian, Multicuisine",Radisson Blu Atria,Bengaluru,35,2500,3.0
+The Porcupine,"Finger Food, Indian, Cocktail Menu",Indiranagar,East Bengaluru,25,1000,4.0
+The Porcupine,"Finger Food, Indian, Cocktail Menu",Indiranagar,East Bengaluru,25,1000,4.0
+Fat Owl,"Finger Food, Cocktail Menu",JP Nagar,South Bengaluru,35,1200,4.2
+Fat Owl,"Finger Food, Cocktail Menu",JP Nagar,South Bengaluru,35,1200,4.2
+46 Ounces,Multicuisine,Old Madras Road,East Bengaluru,35,1200,5.0
+46 Ounces,Multicuisine,Old Madras Road,East Bengaluru,35,1200,5.0
+Thelagram,Indian,JP Nagar,South Bengaluru,35,2000,4.1
+Thelagram,Indian,JP Nagar,South Bengaluru,35,2000,4.1
+Vesparo-Pulse,Multicuisine,100 Feet Road,East Bengaluru,35,2000,4.2
+Vesparo-Pulse,Multicuisine,100 Feet Road,East Bengaluru,35,2000,4.2
+Gold Rush Brews,Multicuisine,Old Madras Road,East Bengaluru,35,1600,4.2
+Gold Rush Brews,Multicuisine,Old Madras Road,East Bengaluru,35,1600,4.2
+Cavore,Modern Indian,Ashok Nagar,Bengaluru,25,5000,3.3
+Cavore,Modern Indian,Ashok Nagar,Bengaluru,25,5000,3.3
+Szechuan Dragon,Chinese,Basavanagudi,South Bengaluru,35,2000,5.0
+Szechuan Dragon,Chinese,Basavanagudi,South Bengaluru,35,2000,5.0
+Punjab Curry House,North Indian,,,35,2000,5.0
+Punjab Curry House,North Indian,,,35,2000,5.0
+Toro Brew House & Kitchen,Multicuisine,Sanjay Nagar,North Bengaluru,35,5000,4.1
+Toro Brew House & Kitchen,Multicuisine,Sanjay Nagar,North Bengaluru,35,5000,4.1
+Frozen Bottle,"Desserts, Beverages",Brigade Road,Central Bengaluru,35,2000,5.0
+Frozen Bottle,"Desserts, Beverages",Brigade Road,Central Bengaluru,35,2000,5.0
+Mykos,Multicuisine,Bannerghatta Road,South Bengaluru,35,1600,4.3
+Mykos,Multicuisine,Bannerghatta Road,South Bengaluru,35,1600,4.3
+Melange,Multicuisine,Radisson Blu,Bengaluru,45,2800,4.1
+Melange,Multicuisine,Radisson Blu,Bengaluru,45,2800,4.1
+The Pet People Cafe,American,HSR,South Bengaluru,35,2000,4.6
+The Pet People Cafe,American,HSR,South Bengaluru,35,2000,4.6
+Agni Sagar,North Indian,Seshadripuram,Central Bengaluru,35,2000,4.8
+Agni Sagar,North Indian,Seshadripuram,Central Bengaluru,35,2000,4.8
+Bangalore Adda,Multicuisine,New BEL Road,North Bengaluru,40,1500,3.3
+Bangalore Adda,Multicuisine,New BEL Road,North Bengaluru,40,1500,3.3
+Nysa Sky Bar,Multicuisine,Yelahanka,North Bengaluru,40,2000,4.8
+Nysa Sky Bar,Multicuisine,Yelahanka,North Bengaluru,40,2000,4.8
+Shibuya Xing (Shibuya Crossing),Multicuisine,Indiranagar,East Bengaluru,35,1500,4.0
+Shibuya Xing (Shibuya Crossing),Multicuisine,Indiranagar,East Bengaluru,35,1500,4.0
+Dublin,Irish,ITC Windsor,Bengaluru,25,3200,4.8
+Dublin,Irish,ITC Windsor,Bengaluru,25,3200,4.8
+Easy Tiger,"Cocktail Menu, American",Church Street,Central Bengaluru,25,2000,4.2
+Easy Tiger,"Cocktail Menu, American",Church Street,Central Bengaluru,25,2000,4.2
+Gladia Brewery & Kitchen,Multicuisine,Kaikondrahalli,Bengaluru,35,2500,4.4
+Gladia Brewery & Kitchen,Multicuisine,Kaikondrahalli,Bengaluru,35,2500,4.4
+Dolos Bar & Kitchen,Multicuisine,JP Nagar,South Bengaluru,40,2000,3.1
+Dolos Bar & Kitchen,Multicuisine,JP Nagar,South Bengaluru,40,2000,3.1
+Big Bean Cafe,Continental,Indiranagar,East Bengaluru,25,650,5.0
+Big Bean Cafe,Continental,Indiranagar,East Bengaluru,25,650,5.0
+Barrys Sky Lounge,Multicuisine,Kalyan Nagar,North Bengaluru,40,2000,4.0
+Barrys Sky Lounge,Multicuisine,Kalyan Nagar,North Bengaluru,40,2000,4.0
+Sando Club,"Thai, Fusion, Continental",Ashok Nagar,Bengaluru,35,800,4.0
+Sando Club,"Thai, Fusion, Continental",Ashok Nagar,Bengaluru,35,800,4.0
+M.s Dosa Corner,South Indian,MG Road,Central Bengaluru,35,2000,4.0
+M.s Dosa Corner,South Indian,MG Road,Central Bengaluru,35,2000,4.0
+Thai Boba,Beverages,Brigade Road,Central Bengaluru,35,300,4.0
+Thai Boba,Beverages,Brigade Road,Central Bengaluru,35,300,4.0
+Lickies Gelato - Ice Cream & Bubble Tea,"Ice Cream, Bubble Tea",Ashok Nagar,Bengaluru,35,2000,4.0
+Lickies Gelato - Ice Cream & Bubble Tea,"Ice Cream, Bubble Tea",Ashok Nagar,Bengaluru,35,2000,4.0
+Town Food,"Pizza, Burgers",Vasanth Nagar,Central Bengaluru,35,2000,4.0
+Town Food,"Pizza, Burgers",Vasanth Nagar,Central Bengaluru,35,2000,4.0
+Qube Cafe,Multicuisine,Church Street,Central Bengaluru,35,2000,4.0
+Qube Cafe,Multicuisine,Church Street,Central Bengaluru,35,2000,4.0
+Samosa Singh,Street Food,,,35,300,4.0
+Samosa Singh,Street Food,,,35,300,4.0
+Cafe 96,Fast Food,Vasanth Nagar,Central Bengaluru,35,2000,4.0
+Cafe 96,Fast Food,Vasanth Nagar,Central Bengaluru,35,2000,4.0
+Jigarthanda,Desserts,Old Madras Road,East Bengaluru,35,2000,4.0
+Jigarthanda,Desserts,Old Madras Road,East Bengaluru,35,2000,4.0
+Paddy Platter: Rice & Shine,Indian,Ashok Nagar,Bengaluru,35,2000,4.0
+Paddy Platter: Rice & Shine,Indian,Ashok Nagar,Bengaluru,35,2000,4.0
+Mama Shawarma,Multicuisine,MG Road,Central Bengaluru,35,2000,4.0
+Mama Shawarma,Multicuisine,MG Road,Central Bengaluru,35,2000,4.0
+Ovenly Bliss,"Bakery, Cafe",Vasanth Nagar,Central Bengaluru,35,400,4.0
+Ovenly Bliss,"Bakery, Cafe",Vasanth Nagar,Central Bengaluru,35,400,4.0
+Woffleday,"Beverages, Desserts",Vasanth Nagar,Central Bengaluru,35,2000,4.0
+Woffleday,"Beverages, Desserts",Vasanth Nagar,Central Bengaluru,35,2000,4.0
+New Metro Cafe,Coffee and Tea,Old Madras Road,East Bengaluru,35,2000,4.0
+New Metro Cafe,Coffee and Tea,Old Madras Road,East Bengaluru,35,2000,4.0
+Kalmane Koffees,Cafe,Brigade Road,Central Bengaluru,35,250,4.0
+Kalmane Koffees,Cafe,Brigade Road,Central Bengaluru,35,250,4.0
+Malabar Wala,Kerala,,,35,400,4.0
+Malabar Wala,Kerala,,,35,400,4.0
+Gelato Italiano,Ice Cream,,,35,2000,4.0
+Gelato Italiano,Ice Cream,,,35,2000,4.0
+Drunken Monkey,Beverages,Vasanth Nagar,Central Bengaluru,35,2000,4.0
+Drunken Monkey,Beverages,Vasanth Nagar,Central Bengaluru,35,2000,4.0
+Cafe Saranghae,Cafe,Ashok Nagar,Bengaluru,35,300,4.0
+Cafe Saranghae,Cafe,Ashok Nagar,Bengaluru,35,300,4.0
+Funky’s Town,Multicuisine,Brigade Road,Central Bengaluru,35,2000,4.0
+Funky’s Town,Multicuisine,Brigade Road,Central Bengaluru,35,2000,4.0
+Zubis Kitchen,"Chinese, North Indian",Ulsoor,East Bengaluru,35,2000,4.0
+Zubis Kitchen,"Chinese, North Indian",Ulsoor,East Bengaluru,35,2000,4.0
+Seoul Dak ,Korean,Koramangala,South Bengaluru,25,1000,4.0
+Seoul Dak ,Korean,Koramangala,South Bengaluru,25,1000,4.0
+Finca Cocktails & Culinary Craft,"Cocktail Menu, Multicuisine",Thanisandra,Bengaluru,35,1500,4.9
+Finca Cocktails & Culinary Craft,"Cocktail Menu, Multicuisine",Thanisandra,Bengaluru,35,1500,4.9
+Sky Garden,Multicuisine,Whitefield,East Bengaluru,45,2000,4.2
+Sky Garden,Multicuisine,Whitefield,East Bengaluru,45,2000,4.2
+Don't Tell Mama,Multicuisine,HSR,South Bengaluru,25,2000,4.1
+Don't Tell Mama,Multicuisine,HSR,South Bengaluru,25,2000,4.1
+The Dual Room,"European, Cocktail Menu",Indiranagar,East Bengaluru,25,1500,4.0
+The Dual Room,"European, Cocktail Menu",Indiranagar,East Bengaluru,25,1500,4.0
+Horizon,Pan Asian,,,40,3000,4.6
+Horizon,Pan Asian,,,40,3000,4.6
+Masara Indian Restaurant,North Indian,Banaswadi,North Bengaluru,25,1500,5.0
+Masara Indian Restaurant,North Indian,Banaswadi,North Bengaluru,25,1500,5.0
+Chowman,"Chinese, Thai",Koramangala,South Bengaluru,25,2000,3.5
+Chowman,"Chinese, Thai",Koramangala,South Bengaluru,25,2000,3.5
+Timbar,Multicuisine,JP Nagar,South Bengaluru,40,1500,3.8
+Timbar,Multicuisine,JP Nagar,South Bengaluru,40,1500,3.8
+Long Boat Brewing Co.,Multicuisine,Marathahalli,East Bengaluru,25,2000,4.1
+Long Boat Brewing Co.,Multicuisine,Marathahalli,East Bengaluru,25,2000,4.1
+La Roserie,European,Kalyan Nagar,North Bengaluru,35,800,5.0
+La Roserie,European,Kalyan Nagar,North Bengaluru,35,800,5.0
+Mango Leaf Restaurant,Multicuisine,Hoskote,Bengaluru,35,1000,5.0
+Mango Leaf Restaurant,Multicuisine,Hoskote,Bengaluru,35,1000,5.0
+Chelvies Coffee,Bakery,Indiranagar,East Bengaluru,35,1500,4.0
+Chelvies Coffee,Bakery,Indiranagar,East Bengaluru,35,1500,4.0
+EBISU,Japanese,,,25,2000,4.0
+EBISU,Japanese,,,25,2000,4.0
+NChef ,Multicuisine,Brigade Road,Central Bengaluru,25,1200,5.0
+NChef ,Multicuisine,Brigade Road,Central Bengaluru,25,1200,5.0
+The Reservoire Cocktail Bar & Kitchen,Multicuisine,12th main,East Bengaluru,25,2000,4.6
+The Reservoire Cocktail Bar & Kitchen,Multicuisine,12th main,East Bengaluru,25,2000,4.6
+Limelight ,Multicuisine,Royal Orchid Hotel,Bengaluru,40,2500,4.1
+Limelight ,Multicuisine,Royal Orchid Hotel,Bengaluru,40,2500,4.1
+Hidden Bunker Pub,Multicuisine,Kadubeesanahalli,Bengaluru,60,1000,2.3
+Hidden Bunker Pub,Multicuisine,Kadubeesanahalli,Bengaluru,60,1000,2.3
+Marrakesh,Multicuisine,JP Nagar,South Bengaluru,50,1000,3.9
+Marrakesh,Multicuisine,JP Nagar,South Bengaluru,50,1000,3.9
+The English Channel,Multicuisine,Jayanagar,South Bengaluru,25,1200,4.7
+The English Channel,Multicuisine,Jayanagar,South Bengaluru,25,1200,4.7
+F5,All Day Dining,Hilton,Bengaluru,40,2500,4.1
+F5,All Day Dining,Hilton,Bengaluru,40,2500,4.1
+Bier Loft Brewing Co.,Multicuisine,Electronic City Phase 1,South Bengaluru,35,1500,4.3
+Bier Loft Brewing Co.,Multicuisine,Electronic City Phase 1,South Bengaluru,35,1500,4.3
+La Gioia,Italian,12th main,East Bengaluru,35,2000,4.3
+La Gioia,Italian,12th main,East Bengaluru,35,2000,4.3
+Brew Mill,"Multicuisine, All Day Dining",Electronic City Phase 1,South Bengaluru,35,1500,5.0
+Brew Mill,"Multicuisine, All Day Dining",Electronic City Phase 1,South Bengaluru,35,1500,5.0
+Highgarten Pub,"Finger Food, Cocktail Menu",Ashok Nagar,Bengaluru,25,800,5.0
+Highgarten Pub,"Finger Food, Cocktail Menu",Ashok Nagar,Bengaluru,25,800,5.0
+Roxbury Bar & Kitchen,Multicuisine,Hennur,North Bengaluru,40,1200,4.8
+Roxbury Bar & Kitchen,Multicuisine,Hennur,North Bengaluru,40,1200,4.8
+Murphy's Brewhouse,"Multicuisine, Cocktail Menu",The Paul,Bengaluru,35,2000,4.4
+Murphy's Brewhouse,"Multicuisine, Cocktail Menu",The Paul,Bengaluru,35,2000,4.4
+Tea Villa Cafe,"Chinese, North Indian",Jayanagar,South Bengaluru,25,550,4.4
+Tea Villa Cafe,"Chinese, North Indian",Jayanagar,South Bengaluru,25,550,4.4
+The Fatty Bao,Pan Asian,12th main,East Bengaluru,40,2000,4.4
+The Fatty Bao,Pan Asian,12th main,East Bengaluru,40,2000,4.4
+Trayam Vegetarian Creations,Multicuisine,Hennur,North Bengaluru,25,2000,4.6
+Trayam Vegetarian Creations,Multicuisine,Hennur,North Bengaluru,25,2000,4.6
+Pakka Local,"Finger Food, Cocktail Menu",RT Nagar,North Bengaluru,35,1000,5.0
+Pakka Local,"Finger Food, Cocktail Menu",RT Nagar,North Bengaluru,35,1000,5.0
+Lotus Pavilion ,Multicuisine,ITC Gardenia,Bengaluru,25,3500,4.8
+Lotus Pavilion ,Multicuisine,ITC Gardenia,Bengaluru,25,3500,4.8
+Singapore Street,Pan Asian,Kammanahalli,East Bengaluru,35,2000,4.4
+Singapore Street,Pan Asian,Kammanahalli,East Bengaluru,35,2000,4.4
+Grazers Resto Bar,Multicuisine,Jayanagar,South Bengaluru,40,2000,4.2
+Grazers Resto Bar,Multicuisine,Jayanagar,South Bengaluru,40,2000,4.2
+Ironhill,Multicuisine,Marathahalli,East Bengaluru,25,1600,4.5
+Ironhill,Multicuisine,Marathahalli,East Bengaluru,25,1600,4.5
+Beige,Global Cuisine,Marathahalli,East Bengaluru,25,3000,3.9
+Beige,Global Cuisine,Marathahalli,East Bengaluru,25,3000,3.9
+Skyro,Multicuisine,Nagarbhavi,West Bengaluru,35,1200,4.4
+Skyro,Multicuisine,Nagarbhavi,West Bengaluru,35,1200,4.4
+Little Italy,"Italian, Mexican",Kalyan Nagar,North Bengaluru,35,2000,4.3
+Little Italy,"Italian, Mexican",Kalyan Nagar,North Bengaluru,35,2000,4.3
+Mockaholic,Multicuisine,JP Nagar,South Bengaluru,35,2000,4.5
+Mockaholic,Multicuisine,JP Nagar,South Bengaluru,35,2000,4.5
+Watson's Cantina,Multicuisine,Vasanth Nagar,Central Bengaluru,25,1400,4.0
+Watson's Cantina,Multicuisine,Vasanth Nagar,Central Bengaluru,25,1400,4.0
+Khmer Kitchen,Asian,JP Nagar,South Bengaluru,25,2000,4.7
+Khmer Kitchen,Asian,JP Nagar,South Bengaluru,25,2000,4.7
+My Place,Multicuisine,,,50,2500,4.4
+My Place,Multicuisine,,,50,2500,4.4
+Fire Station,Multicuisine,Electronic City,South Bengaluru,35,2000,4.1
+Fire Station,Multicuisine,Electronic City,South Bengaluru,35,2000,4.1
+Oh! Calcutta,Bengali,Church Street,Central Bengaluru,25,2000,4.4
+Oh! Calcutta,Bengali,Church Street,Central Bengaluru,25,2000,4.4
+Punjab Bistro,North Indian,Mahadevapura,Bengaluru,35,2000,4.1
+Punjab Bistro,North Indian,Mahadevapura,Bengaluru,35,2000,4.1
+Tiger Trail,Indian,Royal Orchid Hotel,Bengaluru,40,2500,4.1
+Tiger Trail,Indian,Royal Orchid Hotel,Bengaluru,40,2500,4.1
+Cafe NH75,Multicuisine,,,25,2000,5.0
+Cafe NH75,Multicuisine,,,25,2000,5.0
+Nook ,Multicuisine,Aloft,Bengaluru,35,2000,4.1
+Nook ,Multicuisine,Aloft,Bengaluru,35,2000,4.1
+Caramelts Cafe,Multicuisine,Jayanagar,South Bengaluru,35,1200,5.0
+Caramelts Cafe,Multicuisine,Jayanagar,South Bengaluru,35,1200,5.0
+Butter Artisan,European,Brigade Road,Central Bengaluru,25,2000,4.7
+Butter Artisan,European,Brigade Road,Central Bengaluru,25,2000,4.7
+Cafe Stone,Continental,Commercial Street,Central Bengaluru,25,1500,4.2
+Cafe Stone,Continental,Commercial Street,Central Bengaluru,25,1500,4.2
+403 Forbidden Bar,"Japanese, Pan Asian, Peruvian",Indiranagar,East Bengaluru,25,3000,4.0
+403 Forbidden Bar,"Japanese, Pan Asian, Peruvian",Indiranagar,East Bengaluru,25,3000,4.0
+The Square,Multicuisine,Novotel,Bengaluru,45,2500,4.2
+The Square,Multicuisine,Novotel,Bengaluru,45,2500,4.2
+The Black Pearl,Multicuisine,Marathahalli,East Bengaluru,35,2000,4.0
+The Black Pearl,Multicuisine,Marathahalli,East Bengaluru,35,2000,4.0
+Mamagoto,Pan Asian,Indiranagar,East Bengaluru,35,1500,4.5
+Mamagoto,Pan Asian,Indiranagar,East Bengaluru,35,1500,4.5
+Rasoiya Street,Multicuisine,Whitefield,East Bengaluru,35,900,4.6
+Rasoiya Street,Multicuisine,Whitefield,East Bengaluru,35,900,4.6
+PizzaExpress,"Pizza, Italian",,,25,2000,4.5
+PizzaExpress,"Pizza, Italian",,,25,2000,4.5
+Deck Of Brews,Multicuisine,Kadubeesanahalli,Bengaluru,35,2000,4.3
+Deck Of Brews,Multicuisine,Kadubeesanahalli,Bengaluru,35,2000,4.3
+9889 Garden Bar & Kitchen,Multicuisine,Yelahanka,North Bengaluru,35,1500,4.0
+9889 Garden Bar & Kitchen,Multicuisine,Yelahanka,North Bengaluru,35,1500,4.0
+Hoot craft work 2.0,Multicuisine,Sarjapur Road,South Bengaluru,40,2000,3.9
+Hoot craft work 2.0,Multicuisine,Sarjapur Road,South Bengaluru,40,2000,3.9
+46 Ounces Brewgarden,"Multicuisine, Cocktail Menu",Electronic City,South Bengaluru,35,2000,4.7
+46 Ounces Brewgarden,"Multicuisine, Cocktail Menu",Electronic City,South Bengaluru,35,2000,4.7
+Lean & Clean (Guilt Free Gourmet),"Cafe, Healthy Food",Victoria Layout,Bengaluru,35,400,1.0
+Lean & Clean (Guilt Free Gourmet),"Cafe, Healthy Food",Victoria Layout,Bengaluru,35,400,1.0
+Maffei Kitchen,"European, Lebanese",Koramangala,South Bengaluru,25,2000,4.6
+Maffei Kitchen,"European, Lebanese",Koramangala,South Bengaluru,25,2000,4.6
+Fabelle ,Chocolate Boutique,"Welcomhotel By ITC Hotels, Richmond Road",Bengaluru,25,2000,5.0
+Fabelle ,Chocolate Boutique,"Welcomhotel By ITC Hotels, Richmond Road",Bengaluru,25,2000,5.0
+Krispy Kreme,Desserts,Richmond Road,Central Bengaluru,25,350,4.0
+Krispy Kreme,Desserts,Richmond Road,Central Bengaluru,25,350,4.0
+Mangroove Taproom & Kitchen,Multicuisine,Rayasandra,Bengaluru,35,2500,4.1
+Mangroove Taproom & Kitchen,Multicuisine,Rayasandra,Bengaluru,35,2500,4.1
+Nivy's Resto Cafe,Continental,HSR,South Bengaluru,35,2000,4.5
+Nivy's Resto Cafe,Continental,HSR,South Bengaluru,35,2000,4.5
+Legends Microbrewery,"Cocktail Menu, Finger Food",Varthur,Bengaluru,25,1200,3.6
+Legends Microbrewery,"Cocktail Menu, Finger Food",Varthur,Bengaluru,25,1200,3.6
+Prime Golf Brewing and Golfing,Multicuisine,Whitefield,East Bengaluru,35,2500,4.2
+Prime Golf Brewing and Golfing,Multicuisine,Whitefield,East Bengaluru,35,2500,4.2
+"Anthara - All-day Café, Kitchen And Taproom","American, French",Doddanekkundi,Bengaluru,35,800,4.3
+"Anthara - All-day Café, Kitchen And Taproom","American, French",Doddanekkundi,Bengaluru,35,800,4.3
+Cosmo,Multicuisine,Hyatt Centric Hebbal,Bengaluru,40,2000,4.2
+Cosmo,Multicuisine,Hyatt Centric Hebbal,Bengaluru,40,2000,4.2
+Mahjong Room,Chinese,"Welcomhotel By ITC Hotels, Richmond Road",Bengaluru,25,2000,4.5
+Mahjong Room,Chinese,"Welcomhotel By ITC Hotels, Richmond Road",Bengaluru,25,2000,4.5
+Parika Coastal Village,Multicuisine,Sahakara Nagar,North Bengaluru,35,2500,4.5
+Parika Coastal Village,Multicuisine,Sahakara Nagar,North Bengaluru,35,2500,4.5
+The Green Plate Society,Multicuisine,Jayanagar,South Bengaluru,35,2500,4.6
+The Green Plate Society,Multicuisine,Jayanagar,South Bengaluru,35,2500,4.6
+DRIP,"Bakery, Beverages",DoubleTree by Hilton,Bengaluru,50,2000,5.0
+DRIP,"Bakery, Beverages",DoubleTree by Hilton,Bengaluru,50,2000,5.0
+Edo Restaurant & Bar ,"Japanese, Asian",ITC Gardenia,Bengaluru,25,4500,4.4
+Edo Restaurant & Bar ,"Japanese, Asian",ITC Gardenia,Bengaluru,25,4500,4.4
+Chili’s Grill & Bar,Tex-Mex,,,25,1700,4.5
+Chili’s Grill & Bar,Tex-Mex,,,25,1700,4.5
+AnTeRa Kitchen & Bar,"Indian, Biryani",Marathahalli,East Bengaluru,35,2000,4.3
+AnTeRa Kitchen & Bar,"Indian, Biryani",Marathahalli,East Bengaluru,35,2000,4.3
+Imperio Restaurant ,Multicuisine,Brookefield,East Bengaluru,35,2000,4.1
+Imperio Restaurant ,Multicuisine,Brookefield,East Bengaluru,35,2000,4.1
+Kalpaney Indiranagar,"Italian, Pan Asian",Indiranagar,East Bengaluru,25,1500,3.7
+Kalpaney Indiranagar,"Italian, Pan Asian",Indiranagar,East Bengaluru,25,1500,3.7
+Daddy,"Cocktail Menu, Pan Asian",12th main,East Bengaluru,25,2000,4.1
+Daddy,"Cocktail Menu, Pan Asian",12th main,East Bengaluru,25,2000,4.1
+Momo Company,"Momos, Chinese",KR Puram,North Bengaluru,75,2000,5.0
+Momo Company,"Momos, Chinese",KR Puram,North Bengaluru,75,2000,5.0
+Kitty Ko,"Asian, Continental",The Lalit Ashok,Bengaluru,25,3000,3.0
+Kitty Ko,"Asian, Continental",The Lalit Ashok,Bengaluru,25,3000,3.0
+21st Amendment,Multicuisine,100 Feet Road,East Bengaluru,35,2000,4.3
+21st Amendment,Multicuisine,100 Feet Road,East Bengaluru,35,2000,4.3
+Rumi - The Spirit Of Awadh,"Awadhi, Mughlai, North Indian",12th main,East Bengaluru,40,2000,4.3
+Rumi - The Spirit Of Awadh,"Awadhi, Mughlai, North Indian",12th main,East Bengaluru,40,2000,4.3
+The Blue Chef,Multicuisine,Kammanahalli,East Bengaluru,35,300,4.0
+The Blue Chef,Multicuisine,Kammanahalli,East Bengaluru,35,300,4.0
+Swizzle,"Cocktail Menu, Finger Food","Welcomhotel By ITC Hotels, Richmond Road",Bengaluru,25,2500,4.0
+Swizzle,"Cocktail Menu, Finger Food","Welcomhotel By ITC Hotels, Richmond Road",Bengaluru,25,2500,4.0
+Luscious ,"Continental, Chinese",s Hotel,Bengaluru,25,2000,4.0
+Luscious ,"Continental, Chinese",s Hotel,Bengaluru,25,2000,4.0
+Bloom Café,Multicuisine,"Bloomrooms, City Centre",Bengaluru,25,1200,4.0
+Bloom Café,Multicuisine,"Bloomrooms, City Centre",Bengaluru,25,1200,4.0
+Gnome,Multicuisine,Varthur,Bengaluru,35,2000,4.5
+Gnome,Multicuisine,Varthur,Bengaluru,35,2000,4.5
+Roastea,Multicuisine,Koramangala 4th Block,South Bengaluru,25,2000,4.6
+Roastea,Multicuisine,Koramangala 4th Block,South Bengaluru,25,2000,4.6
+Kava,"Cocktail Menu, Multicuisine",Fairfield by Marriott,Bengaluru,35,2000,3.8
+Kava,"Cocktail Menu, Multicuisine",Fairfield by Marriott,Bengaluru,35,2000,3.8
+The West View Lounge,Multicuisine,Hennur,North Bengaluru,35,2000,4.6
+The West View Lounge,Multicuisine,Hennur,North Bengaluru,35,2000,4.6
+The Green Pearl,Continental,Varthur,Bengaluru,25,800,3.4
+The Green Pearl,Continental,Varthur,Bengaluru,25,800,3.4
+Yàn Yǎn,Chinese,The Ritz-Carlton,Bengaluru,25,8000,4.0
+Yàn Yǎn,Chinese,The Ritz-Carlton,Bengaluru,25,8000,4.0
+Katana,Japanese,Indiranagar,East Bengaluru,25,3000,4.0
+Katana,Japanese,Indiranagar,East Bengaluru,25,3000,4.0
+The Bengaluru Brasserie,Multicuisine,Hyatt Centric MG Road,Bengaluru,25,2000,4.2
+The Bengaluru Brasserie,Multicuisine,Hyatt Centric MG Road,Bengaluru,25,2000,4.2
+Tapori The RestoBar,Multicuisine,Koramangala 8th Block,South Bengaluru,45,1500,5.0
+Tapori The RestoBar,Multicuisine,Koramangala 8th Block,South Bengaluru,45,1500,5.0
+Maize & Malt,Multicuisine,Krishnarajapuram Hobli,Bengaluru,25,2000,4.6
+Maize & Malt,Multicuisine,Krishnarajapuram Hobli,Bengaluru,25,2000,4.6
+The Founders Brewery,"Chinese, North Indian",New BEL Road,North Bengaluru,25,2000,4.6
+The Founders Brewery,"Chinese, North Indian",New BEL Road,North Bengaluru,25,2000,4.6
+Byg Brewski Brewing company - Yeshwanthpur,Multicuisine,Tumkur Main Rd,North Bengaluru,25,2000,4.4
+Byg Brewski Brewing company - Yeshwanthpur,Multicuisine,Tumkur Main Rd,North Bengaluru,25,2000,4.4
+Spizzy Restaurant,"Italian, Fusion",Rajarajeshwari Nagar,South Bengaluru,50,450,4.0
+Spizzy Restaurant,"Italian, Fusion",Rajarajeshwari Nagar,South Bengaluru,50,450,4.0
+Nila - The Supper Club,"Modern Indian, Continental",Cambridge Layout,Bengaluru,25,1000,4.0
+Nila - The Supper Club,"Modern Indian, Continental",Cambridge Layout,Bengaluru,25,1000,4.0
+Sorso Taproom & Kitchen,"Indian, Asian, Continental",Doddanekkundi,Bengaluru,25,1100,5.0
+Sorso Taproom & Kitchen,"Indian, Asian, Continental",Doddanekkundi,Bengaluru,25,1100,5.0
+Sky High,Multicuisine,,,50,2000,5.0
+Sky High,Multicuisine,,,50,2000,5.0
+CRAFT,Cafe,Hyatt Centric Hebbal,Bengaluru,35,2000,4.2
+CRAFT,Cafe,Hyatt Centric Hebbal,Bengaluru,35,2000,4.2
+The Bangalore Cafe,Multicuisine,Shanti Nagar,Central Bengaluru,35,1600,4.5
+The Bangalore Cafe,Multicuisine,Shanti Nagar,Central Bengaluru,35,1600,4.5
+URU - Whitefield,Cocktail Menu,Whitefield,East Bengaluru,40,2000,4.7
+URU - Whitefield,Cocktail Menu,Whitefield,East Bengaluru,40,2000,4.7
+Candles Brewhouse,Multicuisine,Hebbal,North Bengaluru,35,2500,3.9
+Candles Brewhouse,Multicuisine,Hebbal,North Bengaluru,35,2500,3.9
+Sstella Kitchen and Bar,"Pan Asian, Chinese",Bannerghatta Road,South Bengaluru,35,2000,4.3
+Sstella Kitchen and Bar,"Pan Asian, Chinese",Bannerghatta Road,South Bengaluru,35,2000,4.3
+Mavericks Farmer’s coffee,"Cafe, European",Cunningham Road,Central Bengaluru,25,800,5.0
+Mavericks Farmer’s coffee,"Cafe, European",Cunningham Road,Central Bengaluru,25,800,5.0
+Ceylon Curry House,Multicuisine,Residency Road,Central Bengaluru,25,2000,5.0
+Ceylon Curry House,Multicuisine,Residency Road,Central Bengaluru,25,2000,5.0
+Jewel Sizzle,Multicuisine,JP Nagar,South Bengaluru,35,2000,4.2
+Jewel Sizzle,Multicuisine,JP Nagar,South Bengaluru,35,2000,4.2
+Lola's All Day Casual Dining + Bar,Global Cuisine,Nagawara,North Bengaluru,35,3000,5.0
+Lola's All Day Casual Dining + Bar,Global Cuisine,Nagawara,North Bengaluru,35,3000,5.0
+Backer & Charlie,"Cafe, Sandwiches",Frazer Town,Central Bengaluru,25,800,5.0
+Backer & Charlie,"Cafe, Sandwiches",Frazer Town,Central Bengaluru,25,800,5.0
+Araku Coffee,"Cafe, European",Ashok Nagar,Bengaluru,25,1500,5.0
+Araku Coffee,"Cafe, European",Ashok Nagar,Bengaluru,25,1500,5.0
+Neo-Kitchen,Multicuisine,Hilton,Bengaluru,35,3500,4.3
+Neo-Kitchen,Multicuisine,Hilton,Bengaluru,35,3500,4.3
+Flechazo Gold Buffet Restaurant,Multicuisine,Whitefield,East Bengaluru,35,2400,3.9
+Flechazo Gold Buffet Restaurant,Multicuisine,Whitefield,East Bengaluru,35,2400,3.9
+Klava,"Bakery, Coffee",,,25,2000,4.8
+Klava,"Bakery, Coffee",,,25,2000,4.8
+Bang,Cocktail Menu,The Ritz-Carlton,Bengaluru,25,4000,4.6
+Bang,Cocktail Menu,The Ritz-Carlton,Bengaluru,25,4000,4.6
+Tommy's,Indian,Old Airport Road,East Bengaluru,25,1000,4.5
+Tommy's,Indian,Old Airport Road,East Bengaluru,25,1000,4.5
+Chin Lung Brewery - Indiranagar,Multicuisine,Indiranagar,East Bengaluru,25,2000,4.5
+Chin Lung Brewery - Indiranagar,Multicuisine,Indiranagar,East Bengaluru,25,2000,4.5
+Neer,South Indian,Hilton,Bengaluru,45,4000,5.0
+Neer,South Indian,Hilton,Bengaluru,45,4000,5.0
+Cafe 72,"Asian, European",Basavanagudi,South Bengaluru,35,500,4.6
+Cafe 72,"Asian, European",Basavanagudi,South Bengaluru,35,500,4.6
+Paradise Biryani - A Legend since 1953,Biryani,JP Nagar,South Bengaluru,35,2000,4.7
+Paradise Biryani - A Legend since 1953,Biryani,JP Nagar,South Bengaluru,35,2000,4.7
+INOX,Fast Food,,,25,2000,4.7
+INOX,Fast Food,,,25,2000,4.7
+Italia,Italian,The Park,Bengaluru,25,2500,4.7
+Italia,Italian,The Park,Bengaluru,25,2500,4.7
+Element 3,Multicuisine,Indiranagar,East Bengaluru,35,2000,4.4
+Element 3,Multicuisine,Indiranagar,East Bengaluru,35,2000,4.4
+11:11 Reserve,European,Banaswadi,North Bengaluru,35,2000,5.0
+11:11 Reserve,European,Banaswadi,North Bengaluru,35,2000,5.0
+Lakeview Milk Bar,"Fast Food, Ice Cream",MG Road,Central Bengaluru,25,2000,4.4
+Lakeview Milk Bar,"Fast Food, Ice Cream",MG Road,Central Bengaluru,25,2000,4.4
+"Soho Cafe, Pub & Grill",Multicuisine,Basavanagudi,South Bengaluru,35,2000,4.8
+"Soho Cafe, Pub & Grill",Multicuisine,Basavanagudi,South Bengaluru,35,2000,4.8
+Hermitage,Multicuisine,Malleshwaram,West Bengaluru,25,2000,4.8
+Hermitage,Multicuisine,Malleshwaram,West Bengaluru,25,2000,4.8
+Turmeric Trail,Multicuisine,Electronic City Phase 1,South Bengaluru,40,1200,4.0
+Turmeric Trail,Multicuisine,Electronic City Phase 1,South Bengaluru,40,1200,4.0
+Banjara ,Multicuisine,,,50,2000,3.9
+Banjara ,Multicuisine,,,50,2000,3.9
+Coconut Grove,Multicuisine,Church Street,Central Bengaluru,25,1200,4.1
+Coconut Grove,Multicuisine,Church Street,Central Bengaluru,25,1200,4.1
+Aahwanam,Multicuisine,RT Nagar,North Bengaluru,35,1000,2.0
+Aahwanam,Multicuisine,RT Nagar,North Bengaluru,35,1000,2.0
+Harley's fine baking,"Cafe, Bakery",JP Nagar,South Bengaluru,35,2000,4.9
+Harley's fine baking,"Cafe, Bakery",JP Nagar,South Bengaluru,35,2000,4.9
+Dock 66,"South Indian, Cocktail Menu",Whitefield,East Bengaluru,35,2000,4.4
+Dock 66,"South Indian, Cocktail Menu",Whitefield,East Bengaluru,35,2000,4.4
+Bamey's Gastro Bar,"Chinese, Nepalese",Koramangala 5th Block,South Bengaluru,25,2000,4.5
+Bamey's Gastro Bar,"Chinese, Nepalese",Koramangala 5th Block,South Bengaluru,25,2000,4.5
+ICB Indian Craft Brewery,Multicuisine,,,25,1800,4.6
+ICB Indian Craft Brewery,Multicuisine,,,25,1800,4.6
+Vanamo,Continental,100 Feet Road,East Bengaluru,35,2500,4.5
+Vanamo,Continental,100 Feet Road,East Bengaluru,35,2500,4.5
+Techtonic,Finger Food,Hilton,Bengaluru,35,2500,4.3
+Techtonic,Finger Food,Hilton,Bengaluru,35,2500,4.3
+Isobel Coffee House,"Coffee and Tea, Continental",Ashok Nagar,Bengaluru,25,1000,4.0
+Isobel Coffee House,"Coffee and Tea, Continental",Ashok Nagar,Bengaluru,25,1000,4.0
+The Big Buffet,Chinese,Electronic City Phase 1,South Bengaluru,35,2000,3.3
+The Big Buffet,Chinese,Electronic City Phase 1,South Bengaluru,35,2000,3.3
+The Beach,"Indian, Chinese",Kalyan Nagar,North Bengaluru,35,600,4.0
+The Beach,"Indian, Chinese",Kalyan Nagar,North Bengaluru,35,600,4.0
+Lavonne Cafe,Multicuisine,Jayamahal Extention ,Bengaluru,25,1300,4.0
+Lavonne Cafe,Multicuisine,Jayamahal Extention ,Bengaluru,25,1300,4.0
+Koriken,Korean,Ashok Nagar,Bengaluru,25,400,4.0
+Koriken,Korean,Ashok Nagar,Bengaluru,25,400,4.0
+Fanoos,Indian,Richmond Town,Central Bengaluru,25,2000,4.0
+Fanoos,Indian,Richmond Town,Central Bengaluru,25,2000,4.0
+Juice Land,Juices,Ulsoor,East Bengaluru,25,2000,4.0
+Juice Land,Juices,Ulsoor,East Bengaluru,25,2000,4.0
+The Corner,Bakery,Hyatt Centric MG Road,Bengaluru,25,2000,4.0
+The Corner,Bakery,Hyatt Centric MG Road,Bengaluru,25,2000,4.0
+Beijing Bistro,Chinese,,,25,2000,4.0
+Beijing Bistro,Chinese,,,25,2000,4.0
+The Bar,"Cocktail Menu, Modern South Indian, Reimagined South Indian",UB City,Central Bengaluru,25,5000,4.0
+The Bar,"Cocktail Menu, Modern South Indian, Reimagined South Indian",UB City,Central Bengaluru,25,5000,4.0
+Bong Bari,,R T Nagar,North Bengaluru,25,1000,4.0
+Bong Bari,,R T Nagar,North Bengaluru,25,1000,4.0
+Bloom Café,Multicuisine,Bloom Hotel - Richmond Road,Bengaluru,25,1200,4.0
+Bloom Café,Multicuisine,Bloom Hotel - Richmond Road,Bengaluru,25,1200,4.0
+Donne Biryani House,Biryani,Residency Road,Central Bengaluru,25,2000,4.0
+Donne Biryani House,Biryani,Residency Road,Central Bengaluru,25,2000,4.0
+U&i cafe & resto,Cafe,Ashok Nagar,Bengaluru,25,2000,4.0
+U&i cafe & resto,Cafe,Ashok Nagar,Bengaluru,25,2000,4.0
+Taco Bell,"Mexican, Tex-Mex",,,25,2000,4.0
+Taco Bell,"Mexican, Tex-Mex",,,25,2000,4.0
+Ramji chaiwale,Beverages,Ashok Nagar,Bengaluru,25,2000,4.0
+Ramji chaiwale,Beverages,Ashok Nagar,Bengaluru,25,2000,4.0
+Tea Lounge,"Chinese, Continental",Ashok Nagar,Bengaluru,25,2000,4.0
+Tea Lounge,"Chinese, Continental",Ashok Nagar,Bengaluru,25,2000,4.0
+Spotted Cafe,Cafe,Old Madras Road,East Bengaluru,25,2000,4.0
+Spotted Cafe,Cafe,Old Madras Road,East Bengaluru,25,2000,4.0
+Ice Cream Shop,Desserts,Frazer Town,Central Bengaluru,25,2000,4.0
+Ice Cream Shop,Desserts,Frazer Town,Central Bengaluru,25,2000,4.0
+Samosa Party,Street Food,Ashok Nagar,Bengaluru,25,2000,4.0
+Samosa Party,Street Food,Ashok Nagar,Bengaluru,25,2000,4.0
+Snaack shop,Fast Food,Frazer Town,Central Bengaluru,25,2000,4.0
+Snaack shop,Fast Food,Frazer Town,Central Bengaluru,25,2000,4.0
+Cake Bake Factory,Bakery,Frazer Town,Central Bengaluru,25,2000,4.0
+Cake Bake Factory,Bakery,Frazer Town,Central Bengaluru,25,2000,4.0
+The Sidewalk Restaurant & Cafe,Multicuisine,s Heritage Hotel,Bengaluru,25,2000,4.0
+The Sidewalk Restaurant & Cafe,Multicuisine,s Heritage Hotel,Bengaluru,25,2000,4.0
+Kalyani food,Fast Food,Ashok Nagar,Bengaluru,25,2000,4.0
+Kalyani food,Fast Food,Ashok Nagar,Bengaluru,25,2000,4.0
+Just Yummy,Fast Food,Magrath Road,Bengaluru,25,2000,4.0
+Just Yummy,Fast Food,Magrath Road,Bengaluru,25,2000,4.0
+Umbaa Pub & Kitchen,Multicuisine,Whitefield,East Bengaluru,35,2000,4.3
+Umbaa Pub & Kitchen,Multicuisine,Whitefield,East Bengaluru,35,2000,4.3
+Full Circle,Multicuisine,Rajarajeshwari Nagar,South Bengaluru,25,2000,4.3
+Full Circle,Multicuisine,Rajarajeshwari Nagar,South Bengaluru,25,2000,4.3
+By The Blue,North Indian,,,35,2000,4.2
+By The Blue,North Indian,,,35,2000,4.2
+The Hub,Cocktail Menu,,,25,2000,4.0
+The Hub,Cocktail Menu,,,25,2000,4.0
+Dave and Buster's,Multicuisine,Koramangala,South Bengaluru,35,1200,4.3
+Dave and Buster's,Multicuisine,Koramangala,South Bengaluru,35,1200,4.3
+Chai Point,Fast Food,Church Street,Central Bengaluru,25,2000,4.0
+Chai Point,Fast Food,Church Street,Central Bengaluru,25,2000,4.0
+Loka By Greenpark Hotels,"Multicuisine, Pan Asian",Greenpark,Bengaluru,35,2000,4.6
+Loka By Greenpark Hotels,"Multicuisine, Pan Asian",Greenpark,Bengaluru,35,2000,4.6
+Native Bar & Coastal Kitchen,"Indian, South Indian",Bellandur,South Bengaluru,35,900,5.0
+Native Bar & Coastal Kitchen,"Indian, South Indian",Bellandur,South Bengaluru,35,900,5.0
+Amoeba Sports Bar,Multicuisine,,,35,2000,3.8
+Amoeba Sports Bar,Multicuisine,,,35,2000,3.8
+Maya,"North Indian, Asian, Continental",Jayanagar,South Bengaluru,35,2000,4.2
+Maya,"North Indian, Asian, Continental",Jayanagar,South Bengaluru,35,2000,4.2
+Plente,Multicuisine,Indiranagar,East Bengaluru,25,800,4.8
+Plente,Multicuisine,Indiranagar,East Bengaluru,25,800,4.8
+Brunch Project,Cafe,Koramangala 4th Block,South Bengaluru,35,2000,4.4
+Brunch Project,Cafe,Koramangala 4th Block,South Bengaluru,35,2000,4.4
+Bricks Bar & Kitchen,Multicuisine,JP Nagar,South Bengaluru,25,2000,3.7
+Bricks Bar & Kitchen,Multicuisine,JP Nagar,South Bengaluru,25,2000,3.7
+Mangosteen Cafe,Cafe,Koramangala 6th Block,South Bengaluru,45,3000,4.0
+Mangosteen Cafe,Cafe,Koramangala 6th Block,South Bengaluru,45,3000,4.0
+Oia,Multicuisine,Hennur,North Bengaluru,25,2000,4.2
+Oia,Multicuisine,Hennur,North Bengaluru,25,2000,4.2
+The Chocolate Room,"Desserts, Beverages",Whitefield,East Bengaluru,35,2000,3.9
+The Chocolate Room,"Desserts, Beverages",Whitefield,East Bengaluru,35,2000,3.9
+Mocaa House,Multicuisine,Vijaya Bank Layout,Bengaluru,25,800,5.0
+Mocaa House,Multicuisine,Vijaya Bank Layout,Bengaluru,25,800,5.0
+Aviator,Multicuisine,,,50,2000,3.0
+Aviator,Multicuisine,,,50,2000,3.0
+Bramble Kitchen & Bar,Multicuisine,JP Nagar,South Bengaluru,35,2000,4.2
+Bramble Kitchen & Bar,Multicuisine,JP Nagar,South Bengaluru,35,2000,4.2
+Karma & Kurry,Asian,Yelahanka,North Bengaluru,25,2000,4.5
+Karma & Kurry,Asian,Yelahanka,North Bengaluru,25,2000,4.5
+Ganbeii Microbrewery,Multicuisine,Koramangala 5th Block,South Bengaluru,25,2000,4.7
+Ganbeii Microbrewery,Multicuisine,Koramangala 5th Block,South Bengaluru,25,2000,4.7
+Ambara Bar & Restaurant,Multicuisine,V One Hotel - Ambara Elite,Bengaluru,40,2000,4.6
+Ambara Bar & Restaurant,Multicuisine,V One Hotel - Ambara Elite,Bengaluru,40,2000,4.6
+Far & East,"Chinese, Japanese, Thai",Four Seasons Hotel,Bengaluru,40,3500,4.4
+Far & East,"Chinese, Japanese, Thai",Four Seasons Hotel,Bengaluru,40,3500,4.4
+Buffalo Wild Wings,American,International Airport,North Bengaluru,25,2500,3.8
+Buffalo Wild Wings,American,International Airport,North Bengaluru,25,2500,3.8
+Light of Italy,"Italian, Mexican",HSR,South Bengaluru,35,2000,4.5
+Light of Italy,"Italian, Mexican",HSR,South Bengaluru,35,2000,4.5
+Barkaas Arabic Restaurant,"Arabian, Middle Eastern",Marathahalli,East Bengaluru,35,2000,4.2
+Barkaas Arabic Restaurant,"Arabian, Middle Eastern",Marathahalli,East Bengaluru,35,2000,4.2
+The Hebbal Cafe,Multicuisine,Courtyard by Marriott,Bengaluru,35,2500,4.7
+The Hebbal Cafe,Multicuisine,Courtyard by Marriott,Bengaluru,35,2500,4.7
+1882,Multicuisine,DoubleTree by Hilton,Bengaluru,45,2500,3.9
+1882,Multicuisine,DoubleTree by Hilton,Bengaluru,45,2500,3.9
+Beankind - Coffee & Bakehouse,"Bakery, Coffee and Tea",Banashankari,South Bengaluru,35,500,4.0
+Beankind - Coffee & Bakehouse,"Bakery, Coffee and Tea",Banashankari,South Bengaluru,35,500,4.0
+Taiki,oriental,100 Feet Road,East Bengaluru,25,2000,4.2
+Taiki,oriental,100 Feet Road,East Bengaluru,25,2000,4.2
+Ivory by the lake,Multicuisine,Rajarajeshwari Nagar,South Bengaluru,40,2000,4.3
+Ivory by the lake,Multicuisine,Rajarajeshwari Nagar,South Bengaluru,40,2000,4.3
+Kothimbir,"Seafood, Maharashtrian",Marathahalli,East Bengaluru,25,2000,4.7
+Kothimbir,"Seafood, Maharashtrian",Marathahalli,East Bengaluru,25,2000,4.7
+"KYBA - Sushi, Dim Sums & More",Pan Asian,Visthara Hotel,Bengaluru,40,2000,4.4
+"KYBA - Sushi, Dim Sums & More",Pan Asian,Visthara Hotel,Bengaluru,40,2000,4.4
+Orah Brew Garden,Multicuisine,Yelahanka,North Bengaluru,35,2500,4.5
+Orah Brew Garden,Multicuisine,Yelahanka,North Bengaluru,35,2500,4.5
+Fab Cafe,"Indian, Continental",Rajarajeshwari Nagar,South Bengaluru,35,600,4.5
+Fab Cafe,"Indian, Continental",Rajarajeshwari Nagar,South Bengaluru,35,600,4.5
+The Balcony Bar,Multicuisine,Indiranagar,East Bengaluru,25,800,4.7
+The Balcony Bar,Multicuisine,Indiranagar,East Bengaluru,25,800,4.7
+Cinders Rooftop Barbeque,"Multicuisine, Barbeque",Comfort INN Insys,Bengaluru,40,2000,4.1
+Cinders Rooftop Barbeque,"Multicuisine, Barbeque",Comfort INN Insys,Bengaluru,40,2000,4.1
+Via Milano,"Italian, Pizza",Sarjapur Road,South Bengaluru,35,2000,4.5
+Via Milano,"Italian, Pizza",Sarjapur Road,South Bengaluru,35,2000,4.5
+Yuki Cocktail Bar & Kitchen,"Cocktail Menu, Pan Asian, Asian",100 Feet Road,East Bengaluru,25,2000,4.7
+Yuki Cocktail Bar & Kitchen,"Cocktail Menu, Pan Asian, Asian",100 Feet Road,East Bengaluru,25,2000,4.7
+Zubaan Arabian Restaurant,Arabian,Koramangala,South Bengaluru,35,2000,4.5
+Zubaan Arabian Restaurant,Arabian,Koramangala,South Bengaluru,35,2000,4.5
+ABV- Artisanal Bier Village,Multicuisine,Whitefield,East Bengaluru,25,2500,4.5
+ABV- Artisanal Bier Village,Multicuisine,Whitefield,East Bengaluru,25,2500,4.5
+Wild Rabbit Cafe and Bakehouse,Continental,Kundalahalli,Bengaluru,35,1000,5.0
+Wild Rabbit Cafe and Bakehouse,Continental,Kundalahalli,Bengaluru,35,1000,5.0
+Falak,North Indian,"The Leela Bhartiya City, Hotel Convention & Residences",Bengaluru,35,2500,4.6
+Falak,North Indian,"The Leela Bhartiya City, Hotel Convention & Residences",Bengaluru,35,2500,4.6
+Aarell Cafe,Italian,Jayanagar,South Bengaluru,35,600,5.0
+Aarell Cafe,Italian,Jayanagar,South Bengaluru,35,600,5.0
+The Pump House,"Finger Food, Cocktail Menu",JP Nagar,South Bengaluru,25,2000,4.5
+The Pump House,"Finger Food, Cocktail Menu",JP Nagar,South Bengaluru,25,2000,4.5
+Venn by Spiga & Grounded,Multicuisine,Kalyan Nagar,North Bengaluru,35,500,4.0
+Venn by Spiga & Grounded,Multicuisine,Kalyan Nagar,North Bengaluru,35,500,4.0
+Paros Brewery & Kitchen,Multicuisine,Rajarajeshwari Nagar,South Bengaluru,25,3000,4.3
+Paros Brewery & Kitchen,Multicuisine,Rajarajeshwari Nagar,South Bengaluru,25,3000,4.3
+Anupams Coast II Coast Whitefield,Multicuisine,Whitefield,East Bengaluru,35,2500,5.0
+Anupams Coast II Coast Whitefield,Multicuisine,Whitefield,East Bengaluru,35,2500,5.0
+Yum Yum Korean Bucket ,Korean,Koramangala,South Bengaluru,35,800,4.0
+Yum Yum Korean Bucket ,Korean,Koramangala,South Bengaluru,35,800,4.0
+Sobre Cafe & Bar - Trinity Whitefield,"Cocktail Menu, Finger Food",Whitefield,East Bengaluru,45,1000,4.0
+Sobre Cafe & Bar - Trinity Whitefield,"Cocktail Menu, Finger Food",Whitefield,East Bengaluru,45,1000,4.0
+Ambedo Restaurant & Cocktail Bar,Multicuisine,JP Nagar,South Bengaluru,35,3000,4.1
+Ambedo Restaurant & Cocktail Bar,Multicuisine,JP Nagar,South Bengaluru,35,3000,4.1
+Hungry Hippie,Multicuisine,Koramangala,South Bengaluru,35,2000,4.1
+Hungry Hippie,Multicuisine,Koramangala,South Bengaluru,35,2000,4.1
+Aromas Of Biryani,Multicuisine,Jayanagar,South Bengaluru,25,2000,4.4
+Aromas Of Biryani,Multicuisine,Jayanagar,South Bengaluru,25,2000,4.4
+Bayroute,"Mediterranean, Middle Eastern","Phoenix Mall Of Asia, Yelahanka",Bengaluru,25,2500,5.0
+Bayroute,"Mediterranean, Middle Eastern","Phoenix Mall Of Asia, Yelahanka",Bengaluru,25,2500,5.0
+The Verandah,Multicuisine,Holiday Inn Express & Suites,Bengaluru,40,2500,4.0
+The Verandah,Multicuisine,Holiday Inn Express & Suites,Bengaluru,40,2500,4.0
+Forskor Restaurant,Multicuisine,Sarjapur Road,South Bengaluru,35,2000,4.4
+Forskor Restaurant,Multicuisine,Sarjapur Road,South Bengaluru,35,2000,4.4
+The Lobby Lounge & Terrace,"Bakery, Coffee and Tea",Four Seasons Hotel,Bengaluru,40,2400,5.0
+The Lobby Lounge & Terrace,"Bakery, Coffee and Tea",Four Seasons Hotel,Bengaluru,40,2400,5.0
+Specialty Coffee House,Cafe,Doddanekkundi,Bengaluru,25,700,4.0
+Specialty Coffee House,Cafe,Doddanekkundi,Bengaluru,25,700,4.0
+Reboot The Pub,"Chinese, Indian",Marathahalli,East Bengaluru,35,2000,4.1
+Reboot The Pub,"Chinese, Indian",Marathahalli,East Bengaluru,35,2000,4.1
+Curryce Andhra Bhojnam,Indian,Sahakara Nagar,North Bengaluru,35,2000,5.0
+Curryce Andhra Bhojnam,Indian,Sahakara Nagar,North Bengaluru,35,2000,5.0
+Quatre Adda,Multicuisine,Yelahanka,North Bengaluru,35,2500,4.3
+Quatre Adda,Multicuisine,Yelahanka,North Bengaluru,35,2500,4.3
+Roxie,Multicuisine,Sarjapur Road,South Bengaluru,25,1800,4.4
+Roxie,Multicuisine,Sarjapur Road,South Bengaluru,25,1800,4.4
+East,Pan Asian,The Oterra,Bengaluru,35,2000,4.8
+East,Pan Asian,The Oterra,Bengaluru,35,2000,4.8
+Jamie's Pizzeria By Jamie Oliver,"Pasta, Pizza, Italian",,,45,5000,3.6
+Jamie's Pizzeria By Jamie Oliver,"Pasta, Pizza, Italian",,,45,5000,3.6
+The Caffeine Baar,Multicuisine,Jayanagar,South Bengaluru,35,2000,4.2
+The Caffeine Baar,Multicuisine,Jayanagar,South Bengaluru,35,2000,4.2
+LIT Gastro Pub,"Cocktail Menu, Multicuisine",Jayanagar,South Bengaluru,35,2000,3.5
+LIT Gastro Pub,"Cocktail Menu, Multicuisine",Jayanagar,South Bengaluru,35,2000,3.5
+Danapani,"Chinese, North Indian, South Indian",JP Nagar 7th Phase,South Bengaluru,35,600,4.0
+Danapani,"Chinese, North Indian, South Indian",JP Nagar 7th Phase,South Bengaluru,35,600,4.0
+Shanmukha Restaurant,"Andhra, Chinese, Indian",Jayanagar,South Bengaluru,35,1000,4.4
+Shanmukha Restaurant,"Andhra, Chinese, Indian",Jayanagar,South Bengaluru,35,1000,4.4
+Sidewalk Cafe & Bar,Multicuisine,The Paul,Bengaluru,35,2000,4.3
+Sidewalk Cafe & Bar,Multicuisine,The Paul,Bengaluru,35,2000,4.3
+PLaY Arena,Multicuisine,Sarjapur Road,South Bengaluru,25,1800,4.5
+PLaY Arena,Multicuisine,Sarjapur Road,South Bengaluru,25,1800,4.5
+Sadda Punjabi Dhaba,"North Indian, Barbeque",HSR,South Bengaluru,35,2000,4.1
+Sadda Punjabi Dhaba,"North Indian, Barbeque",HSR,South Bengaluru,35,2000,4.1
+The Fisherman's Wharf Jakkur,Multicuisine,Jakkur,Central Bengaluru,35,2000,4.2
+The Fisherman's Wharf Jakkur,Multicuisine,Jakkur,Central Bengaluru,35,2000,4.2
+SKYROOT BY TOF,Multicuisine,Bannerghatta Road,South Bengaluru,45,2000,3.1
+SKYROOT BY TOF,Multicuisine,Bannerghatta Road,South Bengaluru,45,2000,3.1
+Geist Brewing Co.,Multicuisine,Bhartiya Mall,Bengaluru,25,2000,4.6
+Geist Brewing Co.,Multicuisine,Bhartiya Mall,Bengaluru,25,2000,4.6
+Chavadi Restaurant,"European, South Indian",Bannerghatta Road,South Bengaluru,35,2000,4.4
+Chavadi Restaurant,"European, South Indian",Bannerghatta Road,South Bengaluru,35,2000,4.4
+Delicious China,Chinese,Battrahalli,Bengaluru,35,2000,4.1
+Delicious China,Chinese,Battrahalli,Bengaluru,35,2000,4.1
+The Wild Fork Restaurant ,Multicuisine,La Marvella -,Bengaluru,35,2000,4.0
+The Wild Fork Restaurant ,Multicuisine,La Marvella -,Bengaluru,35,2000,4.0
+Minx,Multicuisine,,,25,3000,1.0
+Minx,Multicuisine,,,25,3000,1.0
+Templar-7,Multicuisine,MG Road,Central Bengaluru,25,2000,1.0
+Templar-7,Multicuisine,MG Road,Central Bengaluru,25,2000,1.0
+The Coconut Affair,Indian Coastal Cuisine,100 Feet Road,East Bengaluru,35,1500,4.0
+The Coconut Affair,Indian Coastal Cuisine,100 Feet Road,East Bengaluru,35,1500,4.0
+Sindhoora Gardenia,Multicuisine,Banashankari,South Bengaluru,35,2000,4.6
+Sindhoora Gardenia,Multicuisine,Banashankari,South Bengaluru,35,2000,4.6
+Gully Gangz Sports Bar,Multicuisine,Koramangala 5th Block,South Bengaluru,45,2500,1.0
+Gully Gangz Sports Bar,Multicuisine,Koramangala 5th Block,South Bengaluru,45,2500,1.0
+Drink N Dine,Multicuisine,Chandra Layout,West Bengaluru,40,2000,4.1
+Drink N Dine,Multicuisine,Chandra Layout,West Bengaluru,40,2000,4.1
+1947 Restaurant ,"Chinese, North Indian",Koramangala,South Bengaluru,25,1200,3.9
+1947 Restaurant ,"Chinese, North Indian",Koramangala,South Bengaluru,25,1200,3.9
+ Urban Turban,North Indian,Sarjapur Road,South Bengaluru,35,2000,3.9
+ Urban Turban,North Indian,Sarjapur Road,South Bengaluru,35,2000,3.9
+TherPUP - A Dog Cafe,"Continental, Cafe",Whitefield,East Bengaluru,40,2000,4.1
+TherPUP - A Dog Cafe,"Continental, Cafe",Whitefield,East Bengaluru,40,2000,4.1
+DYN,Multicuisine,,,35,3000,3.6
+DYN,Multicuisine,,,35,3000,3.6
+Hakuna Matata,Multicuisine,JP Nagar,South Bengaluru,25,1800,4.4
+Hakuna Matata,Multicuisine,JP Nagar,South Bengaluru,25,1800,4.4
+Quarter Peter Koramangala,"Chinese, South Indian",Koramangala,South Bengaluru,25,1000,4.0
+Quarter Peter Koramangala,"Chinese, South Indian",Koramangala,South Bengaluru,25,1000,4.0
+Lemon Leaf,Indian Coastal Cuisine,Kanakapura Road,South Bengaluru,45,2000,4.1
+Lemon Leaf,Indian Coastal Cuisine,Kanakapura Road,South Bengaluru,45,2000,4.1
+Sequence Restobar,Multicuisine,Seshadripuram,Central Bengaluru,35,2000,5.0
+Sequence Restobar,Multicuisine,Seshadripuram,Central Bengaluru,35,2000,5.0
+Rarus Offbeat Dining Experience,Multicuisine,Jayanagar,South Bengaluru,35,800,3.8
+Rarus Offbeat Dining Experience,Multicuisine,Jayanagar,South Bengaluru,35,800,3.8
+The World Cafe,Delicatessen ,,,40,2000,4.8
+The World Cafe,Delicatessen ,,,40,2000,4.8
+Sattvam,Multicuisine,Whitefield,East Bengaluru,25,4000,4.9
+Sattvam,Multicuisine,Whitefield,East Bengaluru,25,4000,4.9
+2 Pints Brewing Taproom & Kitchen,"Continental, European, North Indian",Mahadevapura,Bengaluru,35,2400,4.3
+2 Pints Brewing Taproom & Kitchen,"Continental, European, North Indian",Mahadevapura,Bengaluru,35,2400,4.3
+Ice Cream Works,"Desserts, Ice Cream",Konanakunte,South Bengaluru,45,400,4.0
+Ice Cream Works,"Desserts, Ice Cream",Konanakunte,South Bengaluru,45,400,4.0
+Tall Oaks,Multicuisine,Seegehalli,East Bengaluru,25,2500,4.4
+Tall Oaks,Multicuisine,Seegehalli,East Bengaluru,25,2500,4.4
+Escape Bar & Kitchen,Multicuisine,Kanakapura Road,South Bengaluru,35,2000,3.8
+Escape Bar & Kitchen,Multicuisine,Kanakapura Road,South Bengaluru,35,2000,3.8
+Brahma Brews,Multicuisine,JP Nagar,South Bengaluru,25,1500,4.5
+Brahma Brews,Multicuisine,JP Nagar,South Bengaluru,25,1500,4.5
+KLINX ,Cocktail Menu,,,40,4000,4.4
+KLINX ,Cocktail Menu,,,40,4000,4.4
+Nando's,African,,,25,2000,4.3
+Nando's,African,,,25,2000,4.3
+Shokudo,Pan Asian,Bannerghatta Road,South Bengaluru,35,2000,5.0
+Shokudo,Pan Asian,Bannerghatta Road,South Bengaluru,35,2000,5.0
+PHURR,"Fusion, Global Cuisine",Indiranagar,East Bengaluru,25,1800,4.7
+PHURR,"Fusion, Global Cuisine",Indiranagar,East Bengaluru,25,1800,4.7
+Vicolo Cafe,"Continental, Asian",Kammanahalli,East Bengaluru,35,1000,3.5
+Vicolo Cafe,"Continental, Asian",Kammanahalli,East Bengaluru,35,1000,3.5
+153 Biere Street,Multicuisine,Whitefield,East Bengaluru,35,2000,3.8
+153 Biere Street,Multicuisine,Whitefield,East Bengaluru,35,2000,3.8
+The Scene - Craft Kitchen & Bar,Multicuisine,JP Nagar,South Bengaluru,25,2000,4.0
+The Scene - Craft Kitchen & Bar,Multicuisine,JP Nagar,South Bengaluru,25,2000,4.0
+Roots,Indian,Koramangala,South Bengaluru,25,2000,4.2
+Roots,Indian,Koramangala,South Bengaluru,25,2000,4.2
+Nepalaya,Nepalese,Kalyan Nagar,North Bengaluru,35,2000,3.9
+Nepalaya,Nepalese,Kalyan Nagar,North Bengaluru,35,2000,3.9
+Brew Square,Indian,Kalyan Nagar,North Bengaluru,35,1200,5.0
+Brew Square,Indian,Kalyan Nagar,North Bengaluru,35,1200,5.0
+The Rasoiya Street,Multicuisine,Electronic City Phase 1,South Bengaluru,25,1100,4.6
+The Rasoiya Street,Multicuisine,Electronic City Phase 1,South Bengaluru,25,1100,4.6
+Yuki Cocktail Bar and Kitchen,Pan Asian,Sarjapur Road,South Bengaluru,25,4000,4.8
+Yuki Cocktail Bar and Kitchen,Pan Asian,Sarjapur Road,South Bengaluru,25,4000,4.8
+Le Grapes Restobar,Multicuisine,Rajajinagar,West Bengaluru,35,2000,4.2
+Le Grapes Restobar,Multicuisine,Rajajinagar,West Bengaluru,35,2000,4.2
+Cream Centre - Vegetarian Legacy Since 1958,Multicuisine,"Phoenix Mall Of Asia, Yelahanka",Bengaluru,25,1400,4.0
+Cream Centre - Vegetarian Legacy Since 1958,Multicuisine,"Phoenix Mall Of Asia, Yelahanka",Bengaluru,25,1400,4.0
+Lucky Chan,"Asian, Pan Asian",,,25,2500,4.1
+Lucky Chan,"Asian, Pan Asian",,,25,2500,4.1
+The Awadh Expres,Awadhi,Whitefield,East Bengaluru,35,500,3.0
+The Awadh Expres,Awadhi,Whitefield,East Bengaluru,35,500,3.0
+Kahani Craft Bar and Kitchen,"Seafood, Continental",T. Dasarahalli,Bengaluru,25,1400,4.2
+Kahani Craft Bar and Kitchen,"Seafood, Continental",T. Dasarahalli,Bengaluru,25,1400,4.2
+NEST,Multicuisine,Howard Johnson,Bengaluru,50,2000,4.1
+NEST,Multicuisine,Howard Johnson,Bengaluru,50,2000,4.1
+Evo - Elevated Vegetarian Options,Multicuisine,Jayanagar,South Bengaluru,25,800,4.4
+Evo - Elevated Vegetarian Options,Multicuisine,Jayanagar,South Bengaluru,25,800,4.4
+Sally by 1522,Multicuisine,"Phoenix Mall Of Asia, Yelahanka",Bengaluru,25,1500,4.6
+Sally by 1522,Multicuisine,"Phoenix Mall Of Asia, Yelahanka",Bengaluru,25,1500,4.6
+Bamboo Restaurant,"Chinese, Indian",Kalyan Nagar,North Bengaluru,25,500,4.5
+Bamboo Restaurant,"Chinese, Indian",Kalyan Nagar,North Bengaluru,25,500,4.5
+Foo Orion,"Sushi, Asian, Chinese",,,25,2000,4.8
+Foo Orion,"Sushi, Asian, Chinese",,,25,2000,4.8
+The Lotus Oriental,"Chinese, Pan Asian","The Leela Bhartiya City, Hotel Convention & Residences",Bengaluru,40,2500,4.2
+The Lotus Oriental,"Chinese, Pan Asian","The Leela Bhartiya City, Hotel Convention & Residences",Bengaluru,40,2500,4.2
+Kiki's Resto,Multicuisine,Yelahanka,North Bengaluru,35,2000,4.1
+Kiki's Resto,Multicuisine,Yelahanka,North Bengaluru,35,2000,4.1
+The Rasoiya Street,Multicuisine,JP Nagar,South Bengaluru,25,800,4.8
+The Rasoiya Street,Multicuisine,JP Nagar,South Bengaluru,25,800,4.8
+CEVI,"Indian, Seafood, Indian Coastal Cuisine",HSR,South Bengaluru,35,2000,4.7
+CEVI,"Indian, Seafood, Indian Coastal Cuisine",HSR,South Bengaluru,35,2000,4.7
+Mahesh Lunch Home,"Seafood, Multicuisine",100 Feet Road,East Bengaluru,25,2000,4.5
+Mahesh Lunch Home,"Seafood, Multicuisine",100 Feet Road,East Bengaluru,25,2000,4.5
+"Byg Brewski Brewing Company, Hennur",Multicuisine,Hennur,North Bengaluru,25,2000,4.4
+"Byg Brewski Brewing Company, Hennur",Multicuisine,Hennur,North Bengaluru,25,2000,4.4
+Coffee Brewery - Giri Nagar,Cafe,"Girinagar, Banashankari",South Bengaluru,35,2000,4.5
+Coffee Brewery - Giri Nagar,Cafe,"Girinagar, Banashankari",South Bengaluru,35,2000,4.5
+Koreyaki ,Korean,Indiranagar,East Bengaluru,25,2000,3.9
+Koreyaki ,Korean,Indiranagar,East Bengaluru,25,2000,3.9
+Herbs N Olives,"Italian, Mexican, Pizza",Rajarajeshwari Nagar,South Bengaluru,35,2000,4.6
+Herbs N Olives,"Italian, Mexican, Pizza",Rajarajeshwari Nagar,South Bengaluru,35,2000,4.6
+Keys Cafe,Multicuisine,"Keys Select By Lemon Tree Hotels, Hosur Road",Bengaluru,25,2000,4.1
+Keys Cafe,Multicuisine,"Keys Select By Lemon Tree Hotels, Hosur Road",Bengaluru,25,2000,4.1
+Spot 360 – Open Air Poolside Bar & Kitchen,Mediterranean,DoubleTree Suites By Hilton,Bengaluru,45,3600,4.4
+Spot 360 – Open Air Poolside Bar & Kitchen,Mediterranean,DoubleTree Suites By Hilton,Bengaluru,45,3600,4.4
+Coco Bay,"Chinese, European",Yelenahalli,South Bengaluru,40,2000,4.0
+Coco Bay,"Chinese, European",Yelenahalli,South Bengaluru,40,2000,4.0
+The Courtyard ,Multicuisine,,,35,2000,3.8
+The Courtyard ,Multicuisine,,,35,2000,3.8
+Grasa,"Cocktail Menu, Multicuisine",Yelahanka,North Bengaluru,35,2500,4.4
+Grasa,"Cocktail Menu, Multicuisine",Yelahanka,North Bengaluru,35,2500,4.4
+Kerala Cafe,Multicuisine,Whitefield,East Bengaluru,25,2000,2.9
+Kerala Cafe,Multicuisine,Whitefield,East Bengaluru,25,2000,2.9
+Jamming Goat 3.0,Multicuisine,Indiranagar,East Bengaluru,35,2000,3.8
+Jamming Goat 3.0,Multicuisine,Indiranagar,East Bengaluru,35,2000,3.8
+ Little Italy,Multicuisine,Indiranagar,East Bengaluru,35,2500,2.2
+ Little Italy,Multicuisine,Indiranagar,East Bengaluru,35,2500,2.2
+The Rasoiya Street,Multicuisine,HSR,South Bengaluru,25,1100,4.6
+The Rasoiya Street,Multicuisine,HSR,South Bengaluru,25,1100,4.6
+Daily Sushi,"Japanese, Korean",Jayanagar,South Bengaluru,35,2000,4.5
+Daily Sushi,"Japanese, Korean",Jayanagar,South Bengaluru,35,2000,4.5
+Toffee & Talk,European,Jayanagar,South Bengaluru,25,850,4.0
+Toffee & Talk,European,Jayanagar,South Bengaluru,25,850,4.0
+Jamavar ,"North Indian, Indian",The Leela Palace,Bengaluru,35,7080,4.7
+Jamavar ,"North Indian, Indian",The Leela Palace,Bengaluru,35,7080,4.7
+EPICK - Cocktail Bar & Kitchen,Continental,Kanakapura Road,South Bengaluru,25,1500,5.0
+EPICK - Cocktail Bar & Kitchen,Continental,Kanakapura Road,South Bengaluru,25,1500,5.0
+Coffee Casaa,Continental,Kalyan Nagar,North Bengaluru,35,400,5.0
+Coffee Casaa,Continental,Kalyan Nagar,North Bengaluru,35,400,5.0
+Brau Galie Microbrewery,Multicuisine,Koramangala 5th Block,South Bengaluru,25,2000,4.6
+Brau Galie Microbrewery,Multicuisine,Koramangala 5th Block,South Bengaluru,25,2000,4.6
+Shao,"Dim Sum, Chinese, Sushi",Radisson Blu,Bengaluru,35,2500,4.4
+Shao,"Dim Sum, Chinese, Sushi",Radisson Blu,Bengaluru,35,2500,4.4
+DISTRICT 6,"Cocktail Menu, Multicuisine",Rajajinagar,West Bengaluru,25,2000,4.5
+DISTRICT 6,"Cocktail Menu, Multicuisine",Rajajinagar,West Bengaluru,25,2000,4.5
+Ginza,Multicuisine,Koramangala 5th Block,South Bengaluru,35,2000,1.7
+Ginza,Multicuisine,Koramangala 5th Block,South Bengaluru,35,2000,1.7
+Kopitiam Lah,Asian,Indiranagar,East Bengaluru,25,2000,4.6
+Kopitiam Lah,Asian,Indiranagar,East Bengaluru,25,2000,4.6
+Geometry Gastropub	,Multicuisine,New BEL Road,North Bengaluru,40,2000,4.0
+Geometry Gastropub	,Multicuisine,New BEL Road,North Bengaluru,40,2000,4.0
+Barista Coffee,"Cafe, Coffee",Sadashiv Nagar,North Bengaluru,0,2000,4.5
+Barista Coffee,"Cafe, Coffee",Sadashiv Nagar,North Bengaluru,0,2000,4.5
+Magique,Multicuisine,Koramangala,South Bengaluru,35,2000,3.6
+Magique,Multicuisine,Koramangala,South Bengaluru,35,2000,3.6
+Boho,Multicuisine,Koramangala,South Bengaluru,35,1200,4.1
+Boho,Multicuisine,Koramangala,South Bengaluru,35,1200,4.1
+Eywa Cafe,Continental,Banashankari,South Bengaluru,25,2000,4.9
+Eywa Cafe,Continental,Banashankari,South Bengaluru,25,2000,4.9
+Saarai Bar & Kitchen,"Finger Food, Multicuisine",Jayanagar,South Bengaluru,25,2000,4.3
+Saarai Bar & Kitchen,"Finger Food, Multicuisine",Jayanagar,South Bengaluru,25,2000,4.3
+5C Resto Pub & Kitchen,Multicuisine,Rajajinagar,West Bengaluru,35,2000,4.3
+5C Resto Pub & Kitchen,Multicuisine,Rajajinagar,West Bengaluru,35,2000,4.3
+SpiceKlub,"Indian, Italian",Jayanagar,South Bengaluru,25,2000,4.8
+SpiceKlub,"Indian, Italian",Jayanagar,South Bengaluru,25,2000,4.8
+Story of Kolkata,Bengali,Koramangala,South Bengaluru,35,900,5.0
+Story of Kolkata,Bengali,Koramangala,South Bengaluru,35,900,5.0
+33&Brew,Continental,Brookefield,East Bengaluru,25,2000,5.0
+33&Brew,Continental,Brookefield,East Bengaluru,25,2000,5.0
+Citrus ,Multicuisine,The Leela Palace,Bengaluru,35,5900,4.5
+Citrus ,Multicuisine,The Leela Palace,Bengaluru,35,5900,4.5
+Great Room,Multicuisine,Holiday Inn Express & Suites,Bengaluru,40,2500,3.0
+Great Room,Multicuisine,Holiday Inn Express & Suites,Bengaluru,40,2500,3.0
+The Watering Hole,"Finger Food, Cocktail Menu",BTM,South Bengaluru,35,2000,3.7
+The Watering Hole,"Finger Food, Cocktail Menu",BTM,South Bengaluru,35,2000,3.7
+Thyme & Whisk,Multicuisine,Jayanagar,South Bengaluru,25,1200,4.8
+Thyme & Whisk,Multicuisine,Jayanagar,South Bengaluru,25,1200,4.8
+Ac’lyrics,"Cocktail Menu, Multicuisine",Svenska Design Hotel,Bengaluru,40,2000,5.0
+Ac’lyrics,"Cocktail Menu, Multicuisine",Svenska Design Hotel,Bengaluru,40,2000,5.0
+Shetty Lunch Home,Multicuisine,Sadashiv Nagar,North Bengaluru,25,2000,4.6
+Shetty Lunch Home,Multicuisine,Sadashiv Nagar,North Bengaluru,25,2000,4.6
+The Fisherman's Wharf,"Seafood, Multicuisine, Indian Coastal Cuisine",Sarjapur Road,South Bengaluru,25,2000,4.5
+The Fisherman's Wharf,"Seafood, Multicuisine, Indian Coastal Cuisine",Sarjapur Road,South Bengaluru,25,2000,4.5
+Chalo Punjab (Bhangra Bistro),Multicuisine,100 Feet Road,East Bengaluru,40,2000,4.7
+Chalo Punjab (Bhangra Bistro),Multicuisine,100 Feet Road,East Bengaluru,40,2000,4.7
+The Rendezvous,Multicuisine,Koramangala,South Bengaluru,40,2000,4.0
+The Rendezvous,Multicuisine,Koramangala,South Bengaluru,40,2000,4.0
+DIHA Café,"Cafe, Italian",JP Nagar,South Bengaluru,25,1600,4.0
+DIHA Café,"Cafe, Italian",JP Nagar,South Bengaluru,25,1600,4.0
+Cup & Crumble Cafe,Multicuisine,Domlur,East Bengaluru,35,1000,4.0
+Cup & Crumble Cafe,Multicuisine,Domlur,East Bengaluru,35,1000,4.0
+Lyfe Restaurant & Pizzeria,"Italian, Mediterranean, Pan Asian",Whitefield,East Bengaluru,35,2000,4.8
+Lyfe Restaurant & Pizzeria,"Italian, Mediterranean, Pan Asian",Whitefield,East Bengaluru,35,2000,4.8
+Moxy Kitchen,"European, North Indian",Moxy,Bengaluru,45,2500,4.7
+Moxy Kitchen,"European, North Indian",Moxy,Bengaluru,45,2500,4.7
+NEKTR Rooftop Bar Kitchen,"Chinese, Italian",Jakkur,Central Bengaluru,25,1800,5.0
+NEKTR Rooftop Bar Kitchen,"Chinese, Italian",Jakkur,Central Bengaluru,25,1800,5.0
+Donne Biryani Palace,Biryani,,,35,600,5.0
+Donne Biryani Palace,Biryani,,,35,600,5.0
+Orchid ,Multicuisine,Fortune Park JP Celestial,Bengaluru,35,2000,3.9
+Orchid ,Multicuisine,Fortune Park JP Celestial,Bengaluru,35,2000,3.9
+Dialogues Cafe,Cafe,Koramangala 4th Block,South Bengaluru,35,2000,4.0
+Dialogues Cafe,Cafe,Koramangala 4th Block,South Bengaluru,35,2000,4.0
+Yuki - Brewhouse and Kitchen,"Pan Asian, Cocktail Menu",Koramangala,South Bengaluru,25,2000,4.6
+Yuki - Brewhouse and Kitchen,"Pan Asian, Cocktail Menu",Koramangala,South Bengaluru,25,2000,4.6
+Joynt Craft Bar & Kitchen,Multicuisine,Rajarajeshwari Nagar,South Bengaluru,35,2000,3.0
+Joynt Craft Bar & Kitchen,Multicuisine,Rajarajeshwari Nagar,South Bengaluru,35,2000,3.0
+Club Destini - Destini Bar & Kitchen,Multicuisine,Electronic City,South Bengaluru,35,2000,4.6
+Club Destini - Destini Bar & Kitchen,Multicuisine,Electronic City,South Bengaluru,35,2000,4.6
+Shreemaatha Kitchens,Multicuisine,kengeri,South Bengaluru,35,600,3.0
+Shreemaatha Kitchens,Multicuisine,kengeri,South Bengaluru,35,600,3.0
+Story Coffee,"Cafe, Fast Food",Koramangala,South Bengaluru,35,600,4.0
+Story Coffee,"Cafe, Fast Food",Koramangala,South Bengaluru,35,600,4.0
+Gufha,Afghani,The President Hotel,Bengaluru,35,2000,4.2
+Gufha,Afghani,The President Hotel,Bengaluru,35,2000,4.2
+KOKO,Asian,Jeevan Bhima Nagar,East Bengaluru,25,3500,4.2
+KOKO,Asian,Jeevan Bhima Nagar,East Bengaluru,25,3500,4.2
+Koi Resto Bar,Multicuisine,New BEL Road,North Bengaluru,25,1800,4.1
+Koi Resto Bar,Multicuisine,New BEL Road,North Bengaluru,25,1800,4.1
+Sita Ram The Royal Rajasthani Thali,"Rajasthani, North Indian",Rajarajeshwari Nagar,South Bengaluru,35,350,4.8
+Sita Ram The Royal Rajasthani Thali,"Rajasthani, North Indian",Rajarajeshwari Nagar,South Bengaluru,35,350,4.8
+Underdoggs ,Multicuisine,Sahakara Nagar,North Bengaluru,25,2500,4.2
+Underdoggs ,Multicuisine,Sahakara Nagar,North Bengaluru,25,2500,4.2
+Arena Brewhouse,Multicuisine,Indiranagar,East Bengaluru,25,5000,4.7
+Arena Brewhouse,Multicuisine,Indiranagar,East Bengaluru,25,5000,4.7
+PHURR,"Global Cuisine, Fusion",Jayanagar,South Bengaluru,25,1800,4.3
+PHURR,"Global Cuisine, Fusion",Jayanagar,South Bengaluru,25,1800,4.3
+Lux Pub & Kitchen,Multicuisine,Koramangala 7th Block,South Bengaluru,40,2000,3.0
+Lux Pub & Kitchen,Multicuisine,Koramangala 7th Block,South Bengaluru,40,2000,3.0
+Kalasa Coffee Roasters,Coffee,Ullal,North Bengaluru,40,400,5.0
+Kalasa Coffee Roasters,Coffee,Ullal,North Bengaluru,40,400,5.0
+The Clink,Global Cuisine,JP Nagar,South Bengaluru,35,1000,4.0
+The Clink,Global Cuisine,JP Nagar,South Bengaluru,35,1000,4.0
+Food Planks,Multicuisine,Sahakara Nagar,North Bengaluru,25,2000,4.5
+Food Planks,Multicuisine,Sahakara Nagar,North Bengaluru,25,2000,4.5
+Quattro,"Italian, Multicuisine","The Leela Bhartiya City, Hotel Convention & Residences",Bengaluru,40,2500,4.5
+Quattro,"Italian, Multicuisine","The Leela Bhartiya City, Hotel Convention & Residences",Bengaluru,40,2500,4.5
+Sukino Cafe & Kitchen,Multicuisine,Banashankari,South Bengaluru,25,800,5.0
+Sukino Cafe & Kitchen,Multicuisine,Banashankari,South Bengaluru,25,800,5.0
+Happy Brew - Bar & Kitchen,"Finger Food, Multicuisine",Koramangala,South Bengaluru,50,2500,3.4
+Happy Brew - Bar & Kitchen,"Finger Food, Multicuisine",Koramangala,South Bengaluru,50,2500,3.4
+Milano Bakery Cafe,"Bakery, European",Indiranagar,East Bengaluru,35,500,4.0
+Milano Bakery Cafe,"Bakery, European",Indiranagar,East Bengaluru,35,500,4.0
+Kora.Blr,"Italian, Fusion, Continental",Koramangala 6th Block,South Bengaluru,35,800,4.0
+Kora.Blr,"Italian, Fusion, Continental",Koramangala 6th Block,South Bengaluru,35,800,4.0
+Yaghma Kababs,North Indian,Kalyan Nagar,North Bengaluru,25,400,4.0
+Yaghma Kababs,North Indian,Kalyan Nagar,North Bengaluru,25,400,4.0
+Biere Kraft Brew & Kitchen,Multicuisine,Mahadevapura,Bengaluru,35,1000,4.8
+Biere Kraft Brew & Kitchen,Multicuisine,Mahadevapura,Bengaluru,35,1000,4.8
+Big Bean Cafe,"Italian, Continental",Kalyan Nagar,North Bengaluru,25,700,4.0
+Big Bean Cafe,"Italian, Continental",Kalyan Nagar,North Bengaluru,25,700,4.0
+The Red Box,Chinese,Marathahalli,East Bengaluru,40,2000,4.5
+The Red Box,Chinese,Marathahalli,East Bengaluru,40,2000,4.5
+Daily Sushi - ITPL,"Japanese, Korean",Whitefield,East Bengaluru,35,2000,4.4
+Daily Sushi - ITPL,"Japanese, Korean",Whitefield,East Bengaluru,35,2000,4.4
+Chaiffee Cafe,"European, Fast Food",Jeevan Bhima Nagar,East Bengaluru,50,2000,4.0
+Chaiffee Cafe,"European, Fast Food",Jeevan Bhima Nagar,East Bengaluru,50,2000,4.0
+Catch Up - Brew House,Multicuisine,HSR,South Bengaluru,35,2000,3.5
+Catch Up - Brew House,Multicuisine,HSR,South Bengaluru,35,2000,3.5
+Mad Doh Sourdough Pizzeria & Bakes ,Italian,Rajarajeshwari Nagar,South Bengaluru,25,1500,5.0
+Mad Doh Sourdough Pizzeria & Bakes ,Italian,Rajarajeshwari Nagar,South Bengaluru,25,1500,5.0
+"Byg Brewski Brewing Company, Sarjapur",Multicuisine,Sarjapur Road,South Bengaluru,25,2000,4.5
+"Byg Brewski Brewing Company, Sarjapur",Multicuisine,Sarjapur Road,South Bengaluru,25,2000,4.5
+Mithai Mahal ,Multicuisine,JP Nagar,South Bengaluru,25,600,3.8
+Mithai Mahal ,Multicuisine,JP Nagar,South Bengaluru,25,600,3.8
+Batlee,Multicuisine,RBD Sarovar Portico,Bengaluru,40,2000,3.5
+Batlee,Multicuisine,RBD Sarovar Portico,Bengaluru,40,2000,3.5
+World On A Plate,Multicuisine,The Citrine Hotel,Bengaluru,45,2000,4.0
+World On A Plate,Multicuisine,The Citrine Hotel,Bengaluru,45,2000,4.0
+Sicilia Point,Italian,Rajajinagar,West Bengaluru,35,2000,4.8
+Sicilia Point,Italian,Rajajinagar,West Bengaluru,35,2000,4.8
+Underdoggs Whitefield,Multicuisine,Whitefield,East Bengaluru,25,1300,4.4
+Underdoggs Whitefield,Multicuisine,Whitefield,East Bengaluru,25,1300,4.4
+Jimi's Beer Cafe,Multicuisine,Indiranagar,East Bengaluru,25,2500,4.2
+Jimi's Beer Cafe,Multicuisine,Indiranagar,East Bengaluru,25,2500,4.2
+Jcubez,Multicuisine,Banashankari,South Bengaluru,35,2000,3.3
+Jcubez,Multicuisine,Banashankari,South Bengaluru,35,2000,3.3
+Suku ,"Japanese, Thai",HSR,South Bengaluru,25,2000,4.7
+Suku ,"Japanese, Thai",HSR,South Bengaluru,25,2000,4.7
+Terrace Bar & Kitchen,Multicuisine,JP Nagar,South Bengaluru,35,2500,4.2
+Terrace Bar & Kitchen,Multicuisine,JP Nagar,South Bengaluru,35,2500,4.2
+Navathanyam,South Indian,Domlur,East Bengaluru,25,2000,4.2
+Navathanyam,South Indian,Domlur,East Bengaluru,25,2000,4.2
+Sanchez And Sriracha ,Mexican,Nagawara,North Bengaluru,35,2000,4.8
+Sanchez And Sriracha ,Mexican,Nagawara,North Bengaluru,35,2000,4.8
+Dhaba - Estd 1986 Delhi,North Indian,12th main,East Bengaluru,35,2000,4.2
+Dhaba - Estd 1986 Delhi,North Indian,12th main,East Bengaluru,35,2000,4.2
+Blah Bla X,"Italian, Indian Coastal Cuisine, Pan Asian","Phoenix Mall Of Asia, Yelahanka",Bengaluru,35,1400,3.0
+Blah Bla X,"Italian, Indian Coastal Cuisine, Pan Asian","Phoenix Mall Of Asia, Yelahanka",Bengaluru,35,1400,3.0
+Moai - Redefined Vegetarian Dining,Multicuisine,Jayanagar,South Bengaluru,25,3000,4.5
+Moai - Redefined Vegetarian Dining,Multicuisine,Jayanagar,South Bengaluru,25,3000,4.5
+M Café,"Multicuisine, Continental, North Indian",,,35,3800,4.2
+M Café,"Multicuisine, Continental, North Indian",,,35,3800,4.2
+Asia Alive - Global Dining,Multicuisine,DoubleTree Suites By Hilton,Bengaluru,40,2500,3.9
+Asia Alive - Global Dining,Multicuisine,DoubleTree Suites By Hilton,Bengaluru,40,2500,3.9
+Cosmo Dhaba,"North Indian, Chinese",HSR,South Bengaluru,25,800,3.8
+Cosmo Dhaba,"North Indian, Chinese",HSR,South Bengaluru,25,800,3.8
+Jook Taproom,Multicuisine,Yelahanka,North Bengaluru,35,2000,4.4
+Jook Taproom,Multicuisine,Yelahanka,North Bengaluru,35,2000,4.4
+EtOH Rooftop Restaurant | Bar,Multicuisine,Electronic City,South Bengaluru,35,1000,5.0
+EtOH Rooftop Restaurant | Bar,Multicuisine,Electronic City,South Bengaluru,35,1000,5.0
+Copitas,"Cocktail Menu, Finger Food",Four Seasons Hotel,Bengaluru,40,2500,4.9
+Copitas,"Cocktail Menu, Finger Food",Four Seasons Hotel,Bengaluru,40,2500,4.9
+re:cess,Desserts,,,40,2000,4.7
+re:cess,Desserts,,,40,2000,4.7
+House of Commons,"Finger Food, North Indian",Indiranagar,East Bengaluru,25,1500,5.0
+House of Commons,"Finger Food, North Indian",Indiranagar,East Bengaluru,25,1500,5.0
+Seta,"Mediterranean, Asian",,,40,4500,4.8
+Seta,"Mediterranean, Asian",,,40,4500,4.8
+Rajwadi,Multicuisine,Brookefield,East Bengaluru,35,2000,3.9
+Rajwadi,Multicuisine,Brookefield,East Bengaluru,35,2000,3.9
+Marbella Multi Cuisine Rooftop,Multicuisine,JP Nagar,South Bengaluru,35,2000,3.8
+Marbella Multi Cuisine Rooftop,Multicuisine,JP Nagar,South Bengaluru,35,2000,3.8
+Hyderabad Firewood Biryani,Multicuisine,Panathur,Bengaluru,50,700,4.0
+Hyderabad Firewood Biryani,Multicuisine,Panathur,Bengaluru,50,700,4.0
+Rumi - The Spirit Of Awadh,"Awadhi, North Indian",Kothanur,Bengaluru,25,700,5.0
+Rumi - The Spirit Of Awadh,"Awadhi, North Indian",Kothanur,Bengaluru,25,700,5.0
+Coffee Brewery - Banashankari 6th Stage,Cafe,Banashankari,South Bengaluru,35,3000,5.0
+Coffee Brewery - Banashankari 6th Stage,Cafe,Banashankari,South Bengaluru,35,3000,5.0
+Kake Di Hatti Mekhri Circle,North Indian,Ganganagar,North Bengaluru,25,2000,5.0
+Kake Di Hatti Mekhri Circle,North Indian,Ganganagar,North Bengaluru,25,2000,5.0
+Food Affair - Veg Family Restaurant,Multicuisine,BTM,South Bengaluru,35,2000,4.7
+Food Affair - Veg Family Restaurant,Multicuisine,BTM,South Bengaluru,35,2000,4.7
+Baan Phadthai Indiranagar,Thai,Indiranagar,East Bengaluru,25,2000,4.0
+Baan Phadthai Indiranagar,Thai,Indiranagar,East Bengaluru,25,2000,4.0
+Lotus,Indian,Visthara Hotel,Bengaluru,40,2000,4.3
+Lotus,Indian,Visthara Hotel,Bengaluru,40,2000,4.3
+Xero Degrees,"American, Cafe, Italian",Koramangala,South Bengaluru,25,2000,4.3
+Xero Degrees,"American, Cafe, Italian",Koramangala,South Bengaluru,25,2000,4.3
+Zenforest Coffee Roasters,Cafe,Sahakara Nagar,North Bengaluru,35,2500,4.0
+Zenforest Coffee Roasters,Cafe,Sahakara Nagar,North Bengaluru,35,2500,4.0
+Tuk Tuk Thai - Pure Veg Asian Fine Dine,Asian,JP Nagar,South Bengaluru,25,2000,4.8
+Tuk Tuk Thai - Pure Veg Asian Fine Dine,Asian,JP Nagar,South Bengaluru,25,2000,4.8
+Jollygunj,Indian,JP Nagar,South Bengaluru,25,1800,4.2
+Jollygunj,Indian,JP Nagar,South Bengaluru,25,1800,4.2
+Jamie Oliver's Pizzeria,Pizza,Koramangala,South Bengaluru,45,2000,4.0
+Jamie Oliver's Pizzeria,Pizza,Koramangala,South Bengaluru,45,2000,4.0
+Rajdhani Thali Restaurant,Rajasthani,Indiranagar,East Bengaluru,25,2000,4.5
+Rajdhani Thali Restaurant,Rajasthani,Indiranagar,East Bengaluru,25,2000,4.5
+Deck 6 Rooftop Lounge,"Indian, Pan Asian, Continental",Chethan International,Bengaluru,45,1500,4.0
+Deck 6 Rooftop Lounge,"Indian, Pan Asian, Continental",Chethan International,Bengaluru,45,1500,4.0
+Cafe Happy Place,"American, European",R.M.V. 2nd Stage,Central Bengaluru,35,1000,5.0
+Cafe Happy Place,"American, European",R.M.V. 2nd Stage,Central Bengaluru,35,1000,5.0
+Republic Of Noodles,Pan Asian,,,25,1500,4.0
+Republic Of Noodles,Pan Asian,,,25,1500,4.0
+Haveli Restaurant,"Chinese, Indian","4th Block, Jayanagar",South Bengaluru,25,750,5.0
+Haveli Restaurant,"Chinese, Indian","4th Block, Jayanagar",South Bengaluru,25,750,5.0
+The Indian lounge,"Indian, European",Brookefield,East Bengaluru,25,400,4.0
+The Indian lounge,"Indian, European",Brookefield,East Bengaluru,25,400,4.0
+Mirror ,"Finger Food, Cocktail Menu",Koramangala,South Bengaluru,35,2000,1.7
+Mirror ,"Finger Food, Cocktail Menu",Koramangala,South Bengaluru,35,2000,1.7
+Saiko Sushi House,Japanese,"Rajiv Gandhi Nagar, Kodigehalli",North Bengaluru,25,800,5.0
+Saiko Sushi House,Japanese,"Rajiv Gandhi Nagar, Kodigehalli",North Bengaluru,25,800,5.0
+Fyole Cafe,Bakery,"Phoenix Mall Of Asia, Yelahanka",Bengaluru,45,2000,5.0
+Fyole Cafe,Bakery,"Phoenix Mall Of Asia, Yelahanka",Bengaluru,45,2000,5.0
+Tiki Village Pub,Multicuisine,Jalahalli,North Bengaluru,35,2000,4.2
+Tiki Village Pub,Multicuisine,Jalahalli,North Bengaluru,35,2000,4.2
+The Persian Terrace,Persian,,,40,2500,4.7
+The Persian Terrace,Persian,,,40,2500,4.7
+Secret Scoopss,Ice Cream,New BEL Road,North Bengaluru,50,2000,4.4
+Secret Scoopss,Ice Cream,New BEL Road,North Bengaluru,50,2000,4.4
+The Big Bellyz,Multicuisine,Malleshwaram,West Bengaluru,35,2000,5.0
+The Big Bellyz,Multicuisine,Malleshwaram,West Bengaluru,35,2000,5.0
+Meloghrano,Multicuisine,Banashankari,South Bengaluru,35,2000,4.9
+Meloghrano,Multicuisine,Banashankari,South Bengaluru,35,2000,4.9
+The Nest,"Finger Food, Cocktail Menu",The Den,Bengaluru,35,2500,4.0
+The Nest,"Finger Food, Cocktail Menu",The Den,Bengaluru,35,2500,4.0
+Si Nonna's - The Original Sourdough Pizza | Indiranagar | Bengaluru,Italian,Indiranagar,East Bengaluru,25,1700,4.0
+Si Nonna's - The Original Sourdough Pizza | Indiranagar | Bengaluru,Italian,Indiranagar,East Bengaluru,25,1700,4.0
+Tawa Tandoor,"Multicuisine, Biryani",New BEL Road,North Bengaluru,35,2000,4.4
+Tawa Tandoor,"Multicuisine, Biryani",New BEL Road,North Bengaluru,35,2000,4.4
+The Rocks Bar & Kitchen,Multicuisine,Rajarajeshwari Nagar,South Bengaluru,40,2000,3.0
+The Rocks Bar & Kitchen,Multicuisine,Rajarajeshwari Nagar,South Bengaluru,40,2000,3.0
+Hamilton ,Finger Food,Hoodi,Bengaluru,25,1500,5.0
+Hamilton ,Finger Food,Hoodi,Bengaluru,25,1500,5.0
+Subz,Multicuisine,Jayanagar,South Bengaluru,25,2000,4.4
+Subz,Multicuisine,Jayanagar,South Bengaluru,25,2000,4.4
+Sea Route Family Resto Bar,Multicuisine,Rajajinagar,West Bengaluru,25,2000,4.5
+Sea Route Family Resto Bar,Multicuisine,Rajajinagar,West Bengaluru,25,2000,4.5
+Indus Flavour,Multicuisine,Hesaragahatta,North Bengaluru,35,2000,5.0
+Indus Flavour,Multicuisine,Hesaragahatta,North Bengaluru,35,2000,5.0
+Gardenwoods - Rooftop Kitchen,"Chinese, Indian, Barbeque",Kalyan Nagar,North Bengaluru,25,2000,4.3
+Gardenwoods - Rooftop Kitchen,"Chinese, Indian, Barbeque",Kalyan Nagar,North Bengaluru,25,2000,4.3
+Pizza Stop,Pizza,Vasanth Nagar,Central Bengaluru,50,700,4.0
+Pizza Stop,Pizza,Vasanth Nagar,Central Bengaluru,50,700,4.0
+The Brussels Waffle,Desserts,Koramangala,South Bengaluru,50,400,4.0
+The Brussels Waffle,Desserts,Koramangala,South Bengaluru,50,400,4.0
+Chairman's Restobar,Multicuisine,Chikkabanavara,North Bengaluru,25,2000,4.6
+Chairman's Restobar,Multicuisine,Chikkabanavara,North Bengaluru,25,2000,4.6
+Udupi Sree Vishnum,Indian,JP Nagar,South Bengaluru,35,200,5.0
+Udupi Sree Vishnum,Indian,JP Nagar,South Bengaluru,35,200,5.0
+Attil Coastal Cuisine Restaurant,Indian Coastal Cuisine,,,35,2000,3.0
+Attil Coastal Cuisine Restaurant,Indian Coastal Cuisine,,,35,2000,3.0
+The Pipe Rack,Multicuisine,Kalyan Nagar,North Bengaluru,45,2000,3.0
+The Pipe Rack,Multicuisine,Kalyan Nagar,North Bengaluru,45,2000,3.0
+ Mandarin Bites,Chinese,Banashankari,South Bengaluru,35,600,5.0
+ Mandarin Bites,Chinese,Banashankari,South Bengaluru,35,600,5.0
+The Lazy Turtle,Multicuisine,Koramangala,South Bengaluru,50,2000,3.8
+The Lazy Turtle,Multicuisine,Koramangala,South Bengaluru,50,2000,3.8
+Beijing Bites,"Chinese, Thai, Pan Asian",Hosa Road,Bengaluru,40,450,5.0
+Beijing Bites,"Chinese, Thai, Pan Asian",Hosa Road,Bengaluru,40,450,5.0
+Gardenwoods - Rooftop Kitchen,North Indian,Vijay Nagar,West Bengaluru,25,1000,4.0
+Gardenwoods - Rooftop Kitchen,North Indian,Vijay Nagar,West Bengaluru,25,1000,4.0
+The Shack - Restopub,"Fast Food, Cocktail Menu",,,40,2000,4.2
+The Shack - Restopub,"Fast Food, Cocktail Menu",,,40,2000,4.2
+Blue Shadow,Multicuisine,Davanam Sarovar Portico Suites,Bengaluru,45,1500,4.0
+Blue Shadow,Multicuisine,Davanam Sarovar Portico Suites,Bengaluru,45,1500,4.0
+Gulheera,Cafe,BTM,South Bengaluru,35,2000,5.0
+Gulheera,Cafe,BTM,South Bengaluru,35,2000,5.0
+Original Burger Co.,Burgers,JP Nagar 5th Phase,South Bengaluru,35,800,4.6
+Original Burger Co.,Burgers,JP Nagar 5th Phase,South Bengaluru,35,800,4.6
+The Noodle Theory,Pan Asian,Kundalahalli,Bengaluru,25,2000,4.7
+The Noodle Theory,Pan Asian,Kundalahalli,Bengaluru,25,2000,4.7
+Celeste By Mindescapes,Multicuisine,Koramangala,South Bengaluru,35,1800,5.0
+Celeste By Mindescapes,Multicuisine,Koramangala,South Bengaluru,35,1800,5.0
+Arabian Hot Spot,Multicuisine,Kalyan Nagar,North Bengaluru,35,800,5.0
+Arabian Hot Spot,Multicuisine,Kalyan Nagar,North Bengaluru,35,800,5.0
+Narmada,Multicuisine,Marathahalli,East Bengaluru,25,2000,4.3
+Narmada,Multicuisine,Marathahalli,East Bengaluru,25,2000,4.3
+What's In A Name,Multicuisine,Koramangala,South Bengaluru,35,2000,4.1
+What's In A Name,Multicuisine,Koramangala,South Bengaluru,35,2000,4.1
+The Fat Chef,"Italian, Continental",,,35,2000,4.3
+The Fat Chef,"Italian, Continental",,,35,2000,4.3
+Cafe Palmyra,"Cocktail Menu, Multicuisine",Palm Meadows Resort,Bengaluru,35,2500,4.4
+Cafe Palmyra,"Cocktail Menu, Multicuisine",Palm Meadows Resort,Bengaluru,35,2500,4.4
+Chimis Kitchen & Bar,Multicuisine,HSR,South Bengaluru,35,2000,4.3
+Chimis Kitchen & Bar,Multicuisine,HSR,South Bengaluru,35,2000,4.3
+Torye - Drink Dine & Dance,Multicuisine,Rajarajeshwari Nagar,South Bengaluru,35,2000,4.0
+Torye - Drink Dine & Dance,Multicuisine,Rajarajeshwari Nagar,South Bengaluru,35,2000,4.0
+Suvaii - A Pandyan Legacy,"Chettinad, South Indian",Indiranagar,East Bengaluru,25,2000,4.8
+Suvaii - A Pandyan Legacy,"Chettinad, South Indian",Indiranagar,East Bengaluru,25,2000,4.8
+Trishna,Multicuisine,Banaswadi,North Bengaluru,50,2000,4.3
+Trishna,Multicuisine,Banaswadi,North Bengaluru,50,2000,4.3
+Fiesta By Barbeque Nation,Multicuisine,,,25,1700,4.0
+Fiesta By Barbeque Nation,Multicuisine,,,25,1700,4.0
+Kappa Chakka Kandhari,Kerala,Koramangala,South Bengaluru,25,1600,4.3
+Kappa Chakka Kandhari,Kerala,Koramangala,South Bengaluru,25,1600,4.3
+Plunge,Multicuisine,Sheraton Grand,Bengaluru,35,2500,4.0
+Plunge,Multicuisine,Sheraton Grand,Bengaluru,35,2500,4.0
+BLR SKY,"North Indian, Continental",Hulimavu,Bengaluru,35,1600,4.0
+BLR SKY,"North Indian, Continental",Hulimavu,Bengaluru,35,1600,4.0
+Purvanchal Tokri,Multicuisine,Banaswadi,North Bengaluru,35,2000,2.3
+Purvanchal Tokri,Multicuisine,Banaswadi,North Bengaluru,35,2000,2.3
+The Terrace at Gilly's Redefined,"Multicuisine, Cocktail Menu",Koramangala,South Bengaluru,40,2000,3.7
+The Terrace at Gilly's Redefined,"Multicuisine, Cocktail Menu",Koramangala,South Bengaluru,40,2000,3.7
+Culture Rooftop Bar & Kitchen,Multicuisine,Yelahanka,North Bengaluru,35,2500,4.7
+Culture Rooftop Bar & Kitchen,Multicuisine,Yelahanka,North Bengaluru,35,2500,4.7
+Coast @ JP Nagar,"Seafood, Indian Coastal Cuisine",JP Nagar,South Bengaluru,35,2000,4.5
+Coast @ JP Nagar,"Seafood, Indian Coastal Cuisine",JP Nagar,South Bengaluru,35,2000,4.5
+Havelli,Multicuisine,s Club & Resort,Bengaluru,35,2000,3.6
+Havelli,Multicuisine,s Club & Resort,Bengaluru,35,2000,3.6
+Back Benchers Bar and Canteen,Multicuisine,Koramangala,South Bengaluru,35,1000,4.0
+Back Benchers Bar and Canteen,Multicuisine,Koramangala,South Bengaluru,35,1000,4.0
+Amul Ice Cream Parlour & Cafe,"Cafe, Coffee",BTM,South Bengaluru,35,400,4.0
+Amul Ice Cream Parlour & Cafe,"Cafe, Coffee",BTM,South Bengaluru,35,400,4.0
+Chowki Coastal Village,Multicuisine,Yelahanka,North Bengaluru,35,2000,3.7
+Chowki Coastal Village,Multicuisine,Yelahanka,North Bengaluru,35,2000,3.7
+Hi Tea De Atruim,Multicuisine,Gandhi Nagar,Central Bengaluru,45,2000,4.0
+Hi Tea De Atruim,Multicuisine,Gandhi Nagar,Central Bengaluru,45,2000,4.0
+Neemsi Restaurant,North Indian,Basavanagudi,South Bengaluru,25,1500,4.9
+Neemsi Restaurant,North Indian,Basavanagudi,South Bengaluru,25,1500,4.9
+Kha Restobar,"Chinese, Italian, Continental",Whitefield,East Bengaluru,35,900,4.0
+Kha Restobar,"Chinese, Italian, Continental",Whitefield,East Bengaluru,35,900,4.0
+La Loca,"Mexican, Multicuisine",JP Nagar,South Bengaluru,35,2500,4.0
+La Loca,"Mexican, Multicuisine",JP Nagar,South Bengaluru,35,2500,4.0
+Verve Coffee Lounge,"Coffee, Cafe",Howard Johnson,Bengaluru,50,2000,1.0
+Verve Coffee Lounge,"Coffee, Cafe",Howard Johnson,Bengaluru,50,2000,1.0
+Mayuri,"Multicuisine, Biryani",Electronic City,South Bengaluru,25,2000,4.3
+Mayuri,"Multicuisine, Biryani",Electronic City,South Bengaluru,25,2000,4.3
+Central Bar District (CBD),"Indian, Street Food, Fusion",HAL Old Airport Road,Bengaluru,45,1400,4.0
+Central Bar District (CBD),"Indian, Street Food, Fusion",HAL Old Airport Road,Bengaluru,45,1400,4.0
+Chifa,"Indian, Asian",Marathahalli,East Bengaluru,25,1000,5.0
+Chifa,"Indian, Asian",Marathahalli,East Bengaluru,25,1000,5.0
+Kalinga Bar,Multicuisine,Gandhi Nagar,Central Bengaluru,25,2000,4.5
+Kalinga Bar,Multicuisine,Gandhi Nagar,Central Bengaluru,25,2000,4.5
+Masala Martini,Multicuisine,New BEL Road,North Bengaluru,25,2000,4.6
+Masala Martini,Multicuisine,New BEL Road,North Bengaluru,25,2000,4.6
+Velvet Pub,Multicuisine,Vinayaka Nagar,Bengaluru,25,1000,3.0
+Velvet Pub,Multicuisine,Vinayaka Nagar,Bengaluru,25,1000,3.0
+Dhaba On The Highway,North Indian,Devanahalli,Bengaluru,35,2000,4.1
+Dhaba On The Highway,North Indian,Devanahalli,Bengaluru,35,2000,4.1
+Coffee Brewery,Multicuisine,Sarjapur Road,South Bengaluru,35,600,1.0
+Coffee Brewery,Multicuisine,Sarjapur Road,South Bengaluru,35,600,1.0
+Shoolin ,Multicuisine,Thavarekere,Bengaluru,40,2000,1.0
+Shoolin ,Multicuisine,Thavarekere,Bengaluru,40,2000,1.0
+Tap House 2.0,Multicuisine,Electronic City,South Bengaluru,35,1000,4.9
+Tap House 2.0,Multicuisine,Electronic City,South Bengaluru,35,1000,4.9
+MadiRa - Drink. Dine. Terrace,Multicuisine,Ullal,North Bengaluru,35,2000,5.0
+MadiRa - Drink. Dine. Terrace,Multicuisine,Ullal,North Bengaluru,35,2000,5.0
+Shinto,"Cafe, Pan Asian",Indiranagar,East Bengaluru,25,3000,5.0
+Shinto,"Cafe, Pan Asian",Indiranagar,East Bengaluru,25,3000,5.0
+Original Burger Co.,Burgers,Whitefield,East Bengaluru,35,800,4.0
+Original Burger Co.,Burgers,Whitefield,East Bengaluru,35,800,4.0
+Pasta Pasta,Italian,Sarjapur Road,South Bengaluru,35,2000,4.0
+Pasta Pasta,Italian,Sarjapur Road,South Bengaluru,35,2000,4.0
+Cravoury,Bakery,Electronic City,South Bengaluru,55,2000,4.0
+Cravoury,Bakery,Electronic City,South Bengaluru,55,2000,4.0
+Bogineni Cafe,Cafe,Seegehalli,East Bengaluru,35,2000,5.0
+Bogineni Cafe,Cafe,Seegehalli,East Bengaluru,35,2000,5.0
+Kababery,"Chinese, Indian",Bannerghatta Road,South Bengaluru,35,500,5.0
+Kababery,"Chinese, Indian",Bannerghatta Road,South Bengaluru,35,500,5.0
+Dhaba 1995 by Ramanashree ,Multicuisine,Yelahanka,North Bengaluru,35,2000,5.0
+Dhaba 1995 by Ramanashree ,Multicuisine,Yelahanka,North Bengaluru,35,2000,5.0
+Cafe Baha,"Continental, Italian",Yelenahalli,South Bengaluru,35,500,5.0
+Cafe Baha,"Continental, Italian",Yelenahalli,South Bengaluru,35,500,5.0
+Mumbai On My Plate,Fast Food,RK Hegde Nagar,Bengaluru,35,600,5.0
+Mumbai On My Plate,Fast Food,RK Hegde Nagar,Bengaluru,35,600,5.0
+Table for Tous,"Desserts, Cafe",HSR,South Bengaluru,35,2000,4.9
+Table for Tous,"Desserts, Cafe",HSR,South Bengaluru,35,2000,4.9
+Nido - Craft Kitchen & Bar,Multicuisine,Yelahanka,North Bengaluru,25,2500,4.5
+Nido - Craft Kitchen & Bar,Multicuisine,Yelahanka,North Bengaluru,25,2500,4.5
+Waves Bar & Kitchen,Multicuisine,Sarjapur Road,South Bengaluru,35,2000,4.5
+Waves Bar & Kitchen,Multicuisine,Sarjapur Road,South Bengaluru,35,2000,4.5
+Flavours of India,Multicuisine,,,40,2000,3.8
+Flavours of India,Multicuisine,,,40,2000,3.8
+Memories Resto Bar,Multicuisine,AECS Layout,South Bengaluru,25,2000,4.3
+Memories Resto Bar,Multicuisine,AECS Layout,South Bengaluru,25,2000,4.3
+Coastal Mama,Mangalorean,JP Nagar,South Bengaluru,35,500,3.0
+Coastal Mama,Mangalorean,JP Nagar,South Bengaluru,35,500,3.0
+The Terminal Restaurant,Multicuisine,Old Madras Road,East Bengaluru,25,1000,4.3
+The Terminal Restaurant,Multicuisine,Old Madras Road,East Bengaluru,25,1000,4.3
+The Rajputana,Gujarati,Kundalahalli,Bengaluru,35,2000,3.7
+The Rajputana,Gujarati,Kundalahalli,Bengaluru,35,2000,3.7
+Onesta,Italian,HSR,South Bengaluru,25,2000,4.1
+Onesta,Italian,HSR,South Bengaluru,25,2000,4.1
+Roast Your Beans,Fast Food,Ramada by Wyndham,Bengaluru,45,2000,4.9
+Roast Your Beans,Fast Food,Ramada by Wyndham,Bengaluru,45,2000,4.9
+Kebarbiq,Multicuisine,HSR,South Bengaluru,25,2000,4.2
+Kebarbiq,Multicuisine,HSR,South Bengaluru,25,2000,4.2
+The Salad Studio,Healthy Food,Koramangala,South Bengaluru,35,2000,4.0
+The Salad Studio,Healthy Food,Koramangala,South Bengaluru,35,2000,4.0
+Lunch Box - AT,"Chinese, Thai",Yelahanka,North Bengaluru,45,2000,5.0
+Lunch Box - AT,"Chinese, Thai",Yelahanka,North Bengaluru,45,2000,5.0
+Karibu,Multicuisine,The Zuri Whitefield,Bengaluru,35,2500,4.4
+Karibu,Multicuisine,The Zuri Whitefield,Bengaluru,35,2500,4.4
+Pari,Multicuisine,Rajajinagar,West Bengaluru,25,3000,4.3
+Pari,Multicuisine,Rajajinagar,West Bengaluru,25,3000,4.3
+The Broth Station,Pan Asian,BTM,South Bengaluru,35,2000,4.6
+The Broth Station,Pan Asian,BTM,South Bengaluru,35,2000,4.6
+Maiz Mexican Kitchen ,Mexican,Indiranagar,East Bengaluru,25,800,5.0
+Maiz Mexican Kitchen ,Mexican,Indiranagar,East Bengaluru,25,800,5.0
+Junglee,Fast Food,Indiranagar,East Bengaluru,25,600,4.0
+Junglee,Fast Food,Indiranagar,East Bengaluru,25,600,4.0
+The Kenko Life ,"Healthy Food, Pasta, Burgers",Koramangala,South Bengaluru,25,800,4.0
+The Kenko Life ,"Healthy Food, Pasta, Burgers",Koramangala,South Bengaluru,25,800,4.0
+Rasah Park Inn & Suites by Radisson,Multicuisine,Park Inn & Suites by Radisson,Bengaluru,35,2000,4.3
+Rasah Park Inn & Suites by Radisson,Multicuisine,Park Inn & Suites by Radisson,Bengaluru,35,2000,4.3
+Le-Celebration,Multicuisine,Akshayanagar,South Bengaluru,35,2000,4.3
+Le-Celebration,Multicuisine,Akshayanagar,South Bengaluru,35,2000,4.3
+The Hub,Multicuisine,,,40,2000,4.4
+The Hub,Multicuisine,,,40,2000,4.4
+Turquoise Bar,Multicuisine,,,45,2000,4.0
+Turquoise Bar,Multicuisine,,,45,2000,4.0
+Kampot,"Cambodian, Pan Asian, Vietnamese",Bellandur,South Bengaluru,35,2000,4.5
+Kampot,"Cambodian, Pan Asian, Vietnamese",Bellandur,South Bengaluru,35,2000,4.5
+The Azulian House,Global Cuisine,The Leela Palace,Bengaluru,35,5000,5.0
+The Azulian House,Global Cuisine,The Leela Palace,Bengaluru,35,5000,5.0
+Fasta Pizza ,Pizza,HSR,South Bengaluru,45,400,3.8
+Fasta Pizza ,Pizza,HSR,South Bengaluru,45,400,3.8
+Biryani By Kilo,"Biryani, Mughlai",Akshyanagar,Bengaluru,45,2000,3.8
+Biryani By Kilo,"Biryani, Mughlai",Akshyanagar,Bengaluru,45,2000,3.8
+Char & Co.,"Continental, Kebabs",Kalyan Nagar,North Bengaluru,25,1500,5.0
+Char & Co.,"Continental, Kebabs",Kalyan Nagar,North Bengaluru,25,1500,5.0
+Boarding Pass,Multicuisine,Marathahalli,East Bengaluru,45,2000,4.0
+Boarding Pass,Multicuisine,Marathahalli,East Bengaluru,45,2000,4.0
+"Adhira & Appa coffee, Bengaluru","Cafe, Bakery, Desserts",Sarjapur Road,South Bengaluru,35,500,4.0
+"Adhira & Appa coffee, Bengaluru","Cafe, Bakery, Desserts",Sarjapur Road,South Bengaluru,35,500,4.0
+RASA - Indian Kitchen,Multicuisine,Sahakara Nagar,North Bengaluru,25,650,3.8
+RASA - Indian Kitchen,Multicuisine,Sahakara Nagar,North Bengaluru,25,650,3.8
+Radio Bar,Multicuisine,Bellandur,South Bengaluru,25,2500,4.2
+Radio Bar,Multicuisine,Bellandur,South Bengaluru,25,2500,4.2
+Saarangi Fine Dining,Multicuisine,The Royal Comfort,Bengaluru,25,800,4.5
+Saarangi Fine Dining,Multicuisine,The Royal Comfort,Bengaluru,25,800,4.5
+Alto Vino ,"Italian, European",,,35,4800,4.3
+Alto Vino ,"Italian, European",,,35,4800,4.3
+ZIZA Taste of Frontier,Multicuisine,Thanisandra,Bengaluru,45,2000,2.5
+ZIZA Taste of Frontier,Multicuisine,Thanisandra,Bengaluru,45,2000,2.5
+Tingling Spice,Multicuisine,,,45,2000,4.2
+Tingling Spice,Multicuisine,,,45,2000,4.2
+Srinidhi Signature,Multicuisine,Whitefield,East Bengaluru,40,2000,4.4
+Srinidhi Signature,Multicuisine,Whitefield,East Bengaluru,40,2000,4.4
+Zen ,"Pan Asian, Asian",The Leela Palace,Bengaluru,35,7080,4.4
+Zen ,"Pan Asian, Asian",The Leela Palace,Bengaluru,35,7080,4.4
+Qissa Arabic Restaurant,Arabian,Indiranagar,East Bengaluru,25,2000,4.4
+Qissa Arabic Restaurant,Arabian,Indiranagar,East Bengaluru,25,2000,4.4
+Zero Degree On The Hill Brewery And Kitchen,North Indian,Rajarajeshwari Nagar,South Bengaluru,25,2000,5.0
+Zero Degree On The Hill Brewery And Kitchen,North Indian,Rajarajeshwari Nagar,South Bengaluru,25,2000,5.0
+Neravi,Multicuisine,RT Nagar,North Bengaluru,40,2000,3.3
+Neravi,Multicuisine,RT Nagar,North Bengaluru,40,2000,3.3
+Checkered Bar,Multicuisine,The MGM Mark Whitefield,Bengaluru,45,2000,4.0
+Checkered Bar,Multicuisine,The MGM Mark Whitefield,Bengaluru,45,2000,4.0
+Garden by su,Multicuisine,Jayanagar,South Bengaluru,25,2000,4.3
+Garden by su,Multicuisine,Jayanagar,South Bengaluru,25,2000,4.3
+Oakleaf,Multicuisine,,,45,2500,4.5
+Oakleaf,Multicuisine,,,45,2500,4.5
+Nostalgia Kolkata,Bengali,Koramangala,South Bengaluru,35,600,3.0
+Nostalgia Kolkata,Bengali,Koramangala,South Bengaluru,35,600,3.0
+Nom Nom - Asian Bar & Eatery,"Finger Food, Cocktail Menu, Pan Asian",Kaikondrahalli,Bengaluru,25,2500,4.2
+Nom Nom - Asian Bar & Eatery,"Finger Food, Cocktail Menu, Pan Asian",Kaikondrahalli,Bengaluru,25,2500,4.2
+The Warehouse Bar & Kitchen,Multicuisine,Devanahalli,Bengaluru,35,1000,4.0
+The Warehouse Bar & Kitchen,Multicuisine,Devanahalli,Bengaluru,35,1000,4.0
+Blue Waters,North Indian,Bannerghatta Road,South Bengaluru,35,2000,4.0
+Blue Waters,North Indian,Bannerghatta Road,South Bengaluru,35,2000,4.0
+20 Char,Multicuisine,Sterlings Mac Hotel,Bengaluru,40,2300,4.0
+20 Char,Multicuisine,Sterlings Mac Hotel,Bengaluru,40,2300,4.0
+The Terrace Bar,North Indian,Fortune Park JP Celestial,Bengaluru,40,2000,4.0
+The Terrace Bar,North Indian,Fortune Park JP Celestial,Bengaluru,40,2000,4.0
+Buns And Butter,Continental,Koramangala,South Bengaluru,45,400,4.0
+Buns And Butter,Continental,Koramangala,South Bengaluru,45,400,4.0
+Mashriq mandi,Multicuisine,Koramangala 5th Block,South Bengaluru,25,600,5.0
+Mashriq mandi,Multicuisine,Koramangala 5th Block,South Bengaluru,25,600,5.0
+Plunge - By Vapor,Multicuisine,Kammanahalli,East Bengaluru,40,2000,5.0
+Plunge - By Vapor,Multicuisine,Kammanahalli,East Bengaluru,40,2000,5.0
+Board 4 Bored,Multicuisine,Basavanagudi,South Bengaluru,25,2000,4.7
+Board 4 Bored,Multicuisine,Basavanagudi,South Bengaluru,25,2000,4.7
+Hunaaan,Pan Asian,New BEL Road,North Bengaluru,25,1500,4.5
+Hunaaan,Pan Asian,New BEL Road,North Bengaluru,25,1500,4.5
+Samron Restaurant,Multicuisine,Rajajinagar,West Bengaluru,25,2500,4.2
+Samron Restaurant,Multicuisine,Rajajinagar,West Bengaluru,25,2500,4.2
+Hydeout Bar and Lounge,Finger Food,,,35,2000,4.0
+Hydeout Bar and Lounge,Finger Food,,,35,2000,4.0
+Jam's Kitchen,Multicuisine,Rajajinagar,West Bengaluru,45,2000,4.0
+Jam's Kitchen,Multicuisine,Rajajinagar,West Bengaluru,45,2000,4.0
+Sip Society Bar & Kitchen,"Finger Food, Indian, Cocktail Menu",Panathur,Bengaluru,25,1000,4.0
+Sip Society Bar & Kitchen,"Finger Food, Indian, Cocktail Menu",Panathur,Bengaluru,25,1000,4.0
+Yuki - Cocktail Bar and Kitchen,Pan Asian,Whitefield,East Bengaluru,25,1500,4.7
+Yuki - Cocktail Bar and Kitchen,Pan Asian,Whitefield,East Bengaluru,25,1500,4.7
+Izanagi,Japanese,Indiranagar,East Bengaluru,25,2000,4.1
+Izanagi,Japanese,Indiranagar,East Bengaluru,25,2000,4.1
+The Groot,European,Bhartiya Mall,Bengaluru,25,2000,4.0
+The Groot,European,Bhartiya Mall,Bengaluru,25,2000,4.0
+Zafrani House,"Indian, Arabian, Chinese",Kanakapura Road,South Bengaluru,35,500,4.6
+Zafrani House,"Indian, Arabian, Chinese",Kanakapura Road,South Bengaluru,35,500,4.6
+Sixth Stage Pub,Multicuisine,Banashankari,South Bengaluru,25,1000,5.0
+Sixth Stage Pub,Multicuisine,Banashankari,South Bengaluru,25,1000,5.0
+The Spice Studio,Indian,Brookefield,East Bengaluru,25,2000,3.7
+The Spice Studio,Indian,Brookefield,East Bengaluru,25,2000,3.7
+The Coral,Mangalorean,BTM,South Bengaluru,25,800,5.0
+The Coral,Mangalorean,BTM,South Bengaluru,25,800,5.0
+H3Y Salad Cafe,"Shakes, Continental",Kalyan Nagar,North Bengaluru,35,500,5.0
+H3Y Salad Cafe,"Shakes, Continental",Kalyan Nagar,North Bengaluru,35,500,5.0
+Fish Fryday,Seafood,HSR,South Bengaluru,25,2000,5.0
+Fish Fryday,Seafood,HSR,South Bengaluru,25,2000,5.0
+Simply Native,South Indian,Domlur,East Bengaluru,40,2000,3.5
+Simply Native,South Indian,Domlur,East Bengaluru,40,2000,3.5
+CoKAnut Flames,Indian,Electronic City Phase 1,South Bengaluru,45,450,4.0
+CoKAnut Flames,Indian,Electronic City Phase 1,South Bengaluru,45,450,4.0
+Anantha Pure Veg ,North Indian,Rajarajeshwari Nagar,South Bengaluru,25,1000,4.1
+Anantha Pure Veg ,North Indian,Rajarajeshwari Nagar,South Bengaluru,25,1000,4.1
+Pind Balluchi,North Indian,Kaikondrahalli,Bengaluru,25,800,3.6
+Pind Balluchi,North Indian,Kaikondrahalli,Bengaluru,25,800,3.6
+Toy Boy,"Finger Food, Cocktail Menu",,,25,2000,3.8
+Toy Boy,"Finger Food, Cocktail Menu",,,25,2000,3.8
+No Limmits Global Desi & Bar,Multicuisine,Yelahanka,North Bengaluru,45,2000,4.0
+No Limmits Global Desi & Bar,Multicuisine,Yelahanka,North Bengaluru,45,2000,4.0
+Andrea's Brasserie,Multicuisine,Yelahanka,North Bengaluru,25,1600,4.7
+Andrea's Brasserie,Multicuisine,Yelahanka,North Bengaluru,25,1600,4.7
+Unlock Bar,"Cocktail Menu, Finger Food","Keys Select By Lemon Tree Hotels, Hosur Road",Bengaluru,25,1000,4.0
+Unlock Bar,"Cocktail Menu, Finger Food","Keys Select By Lemon Tree Hotels, Hosur Road",Bengaluru,25,1000,4.0
+Cheers Parathas,Multicuisine,Kanakapura Road,South Bengaluru,50,2000,5.0
+Cheers Parathas,Multicuisine,Kanakapura Road,South Bengaluru,50,2000,5.0
+Rajdhani Mall Of Asia,"Gujarati, Rajasthani","Phoenix Mall Of Asia, Yelahanka",Bengaluru,25,2000,4.2
+Rajdhani Mall Of Asia,"Gujarati, Rajasthani","Phoenix Mall Of Asia, Yelahanka",Bengaluru,25,2000,4.2
+Charcoal Veg Grill,Multicuisine,Jayanagar,South Bengaluru,35,1200,2.4
+Charcoal Veg Grill,Multicuisine,Jayanagar,South Bengaluru,35,1200,2.4
+Neemsi Restaurant,Global Cuisine,JP Nagar,South Bengaluru,25,1500,4.8
+Neemsi Restaurant,Global Cuisine,JP Nagar,South Bengaluru,25,1500,4.8
+Kritunga Restaurant,Multicuisine,Whitefield,East Bengaluru,35,2000,3.8
+Kritunga Restaurant,Multicuisine,Whitefield,East Bengaluru,35,2000,3.8
+Quench Bar,"Finger Food, Cocktail Menu",Domlur,East Bengaluru,40,2000,1.0
+Quench Bar,"Finger Food, Cocktail Menu",Domlur,East Bengaluru,40,2000,1.0
+Antra Veg,Multicuisine,Banashankari,South Bengaluru,25,2000,4.6
+Antra Veg,Multicuisine,Banashankari,South Bengaluru,25,2000,4.6
+Kung Food,"Chinese, Thai",Banaswadi,North Bengaluru,45,2000,4.0
+Kung Food,"Chinese, Thai",Banaswadi,North Bengaluru,45,2000,4.0
+Kenzai,Multicuisine,New BEL Road,North Bengaluru,35,2000,4.1
+Kenzai,Multicuisine,New BEL Road,North Bengaluru,35,2000,4.1
+My Tea House,Multicuisine,Banashankari,South Bengaluru,45,2000,4.0
+My Tea House,Multicuisine,Banashankari,South Bengaluru,45,2000,4.0
+Skylark Resto Bar,Multicuisine,Nagarbhavi,West Bengaluru,35,2000,3.8
+Skylark Resto Bar,Multicuisine,Nagarbhavi,West Bengaluru,35,2000,3.8
+Hashtag 88 Resto Bar,Multicuisine,Marathahalli,East Bengaluru,25,2000,4.2
+Hashtag 88 Resto Bar,Multicuisine,Marathahalli,East Bengaluru,25,2000,4.2
+Drava,Multicuisine,Koramangala,South Bengaluru,35,2000,4.1
+Drava,Multicuisine,Koramangala,South Bengaluru,35,2000,4.1
+Gustoes,Barbeque,Jayanagar,South Bengaluru,25,2000,3.7
+Gustoes,Barbeque,Jayanagar,South Bengaluru,25,2000,3.7
+The Dreaming Tree,"Italian, Mexican",HSR,South Bengaluru,25,900,4.6
+The Dreaming Tree,"Italian, Mexican",HSR,South Bengaluru,25,900,4.6
+2 RABBITS BAKES,"Bakery, Cafe",Koramangala,South Bengaluru,35,2000,4.0
+2 RABBITS BAKES,"Bakery, Cafe",Koramangala,South Bengaluru,35,2000,4.0
+Mirth,Multicuisine,Indiranagar,East Bengaluru,25,2500,5.0
+Mirth,Multicuisine,Indiranagar,East Bengaluru,25,2500,5.0
+Kitchen De Buffet,Multicuisine,Gandhi Nagar,Central Bengaluru,35,2000,4.8
+Kitchen De Buffet,Multicuisine,Gandhi Nagar,Central Bengaluru,35,2000,4.8
+Rajdhani,"Gujarati, Rajasthani, North Indian",,,25,2500,4.1
+Rajdhani,"Gujarati, Rajasthani, North Indian",,,25,2500,4.1
+Panacea,"Cocktail Menu, Finger Food",Kadubeesanahalli,Bengaluru,25,1200,3.0
+Panacea,"Cocktail Menu, Finger Food",Kadubeesanahalli,Bengaluru,25,1200,3.0
+Chime,"Cocktail Menu, Asian",Sheraton Grand,Bengaluru,40,2000,4.5
+Chime,"Cocktail Menu, Asian",Sheraton Grand,Bengaluru,40,2000,4.5
+Brunchilly,Multicuisine,RBD Sarovar Portico,Bengaluru,35,2000,4.2
+Brunchilly,Multicuisine,RBD Sarovar Portico,Bengaluru,35,2000,4.2
+Shokudo ,"Japanese, Pan Asian, Korean",Whitefield,East Bengaluru,25,2000,4.8
+Shokudo ,"Japanese, Pan Asian, Korean",Whitefield,East Bengaluru,25,2000,4.8
+Pepe's Pizza,Pizza,Brookefield,East Bengaluru,45,2000,4.3
+Pepe's Pizza,Pizza,Brookefield,East Bengaluru,45,2000,4.3
+Sadda Punjabi Dhaba,North Indian,Konanakunte,South Bengaluru,35,800,3.5
+Sadda Punjabi Dhaba,North Indian,Konanakunte,South Bengaluru,35,800,3.5
+Tamarind,Multicuisine,Banaswadi,North Bengaluru,25,2000,4.6
+Tamarind,Multicuisine,Banaswadi,North Bengaluru,25,2000,4.6
+Naati Cafe,South Indian,Koramangala,South Bengaluru,25,2000,3.3
+Naati Cafe,South Indian,Koramangala,South Bengaluru,25,2000,3.3
+Xin Den,Pan Asian,HSR,South Bengaluru,35,2000,4.0
+Xin Den,Pan Asian,HSR,South Bengaluru,35,2000,4.0
+"Gwalia - Sweets, Namkeen & Restaurant",North Indian,HSR,South Bengaluru,35,2000,5.0
+"Gwalia - Sweets, Namkeen & Restaurant",North Indian,HSR,South Bengaluru,35,2000,5.0
+Classic Matsya Sagara,"Mangalorean, Seafood",kengeri,South Bengaluru,35,600,5.0
+Classic Matsya Sagara,"Mangalorean, Seafood",kengeri,South Bengaluru,35,600,5.0
+Rosmarino Restaurant,"Italian, Continental",Indiranagar,East Bengaluru,25,1500,5.0
+Rosmarino Restaurant,"Italian, Continental",Indiranagar,East Bengaluru,25,1500,5.0
+The Punjabi Rasoi,North Indian,Kalyan Nagar,North Bengaluru,25,800,4.2
+The Punjabi Rasoi,North Indian,Kalyan Nagar,North Bengaluru,25,800,4.2
+Jungle Feast Bar & Restaurant,Multicuisine,JP Nagar,South Bengaluru,35,1000,5.0
+Jungle Feast Bar & Restaurant,Multicuisine,JP Nagar,South Bengaluru,35,1000,5.0
+Salone Ceylon By Harpo,Multicuisine,International Airport,North Bengaluru,35,2000,4.7
+Salone Ceylon By Harpo,Multicuisine,International Airport,North Bengaluru,35,2000,4.7
+Sichuan,Chinese,,,40,2000,3.7
+Sichuan,Chinese,,,40,2000,3.7
+Barrel House Bar And Kitchen,Multicuisine,Bannerghatta Road,South Bengaluru,25,2000,4.8
+Barrel House Bar And Kitchen,Multicuisine,Bannerghatta Road,South Bengaluru,25,2000,4.8
+Flyover Drinkery,Multicuisine,,,25,2000,4.4
+Flyover Drinkery,Multicuisine,,,25,2000,4.4
+The Buzz House,Multicuisine,Anekal,South Bengaluru,25,1200,4.9
+The Buzz House,Multicuisine,Anekal,South Bengaluru,25,1200,4.9
+Hokkaido Manga Cafe Japanese & Korean Restaurant,"Japanese, Korean",Indiranagar,East Bengaluru,35,2000,4.2
+Hokkaido Manga Cafe Japanese & Korean Restaurant,"Japanese, Korean",Indiranagar,East Bengaluru,35,2000,4.2
+Cave-n-Dine,Multicuisine,Basaveshwara Nagar,West Bengaluru,25,2000,4.5
+Cave-n-Dine,Multicuisine,Basaveshwara Nagar,West Bengaluru,25,2000,4.5
+MATSYA,Multicuisine,,,25,800,4.1
+MATSYA,Multicuisine,,,25,800,4.1
+Out of Office Restobar,Multicuisine,Mahadevapura,Bengaluru,25,1000,4.7
+Out of Office Restobar,Multicuisine,Mahadevapura,Bengaluru,25,1000,4.7
+Sitara Dakshin,Multicuisine,Indiranagar,East Bengaluru,25,2000,4.6
+Sitara Dakshin,Multicuisine,Indiranagar,East Bengaluru,25,2000,4.6
+Coffea Koramangala,Coffee,Koramangala,South Bengaluru,25,500,3.0
+Coffea Koramangala,Coffee,Koramangala,South Bengaluru,25,500,3.0
+Tales of Flamingo (TOF),Multicuisine,Bannerghatta Road,South Bengaluru,25,2000,4.0
+Tales of Flamingo (TOF),Multicuisine,Bannerghatta Road,South Bengaluru,25,2000,4.0
+Luna Lite Resto,Multicuisine,Krishna Reddy Layout,Bengaluru,35,3000,3.7
+Luna Lite Resto,Multicuisine,Krishna Reddy Layout,Bengaluru,35,3000,3.7
+R Bar,"Cocktail Menu, Finger Food",Renaissance,Bengaluru,35,2000,4.8
+R Bar,"Cocktail Menu, Finger Food",Renaissance,Bengaluru,35,2000,4.8
+Jalpaan,Multicuisine,Jayanagar,South Bengaluru,25,2000,4.2
+Jalpaan,Multicuisine,Jayanagar,South Bengaluru,25,2000,4.2
+Bamey's Restro Cafe,"Chinese, Nepalese",Koramangala,South Bengaluru,25,2000,4.3
+Bamey's Restro Cafe,"Chinese, Nepalese",Koramangala,South Bengaluru,25,2000,4.3
+Harmakki Coffee,Cafe,Malleshwaram,West Bengaluru,35,2500,4.0
+Harmakki Coffee,Cafe,Malleshwaram,West Bengaluru,35,2500,4.0
+Little India,"Mughlai, Indian",Koramangala 6th Block,South Bengaluru,35,700,4.0
+Little India,"Mughlai, Indian",Koramangala 6th Block,South Bengaluru,35,700,4.0
+Purple Pitch,"Finger Food, Cocktail Menu",Electronic City Phase 1,South Bengaluru,40,1600,4.0
+Purple Pitch,"Finger Food, Cocktail Menu",Electronic City Phase 1,South Bengaluru,40,1600,4.0
+Harvest Salad Cafe,Multicuisine,12th main,East Bengaluru,25,1000,5.0
+Harvest Salad Cafe,Multicuisine,12th main,East Bengaluru,25,1000,5.0
+Kebapci,Turkish,,,25,2000,4.8
+Kebapci,Turkish,,,25,2000,4.8
+Morf,Multicuisine,,,35,2000,5.0
+Morf,Multicuisine,,,35,2000,5.0
+The Hood,Indian,Ashok Nagar,Bengaluru,25,3000,5.0
+The Hood,Indian,Ashok Nagar,Bengaluru,25,3000,5.0
+Poco A poco - Crescendo,Global Cuisine,Akshayanagar,South Bengaluru,25,3000,5.0
+Poco A poco - Crescendo,Global Cuisine,Akshayanagar,South Bengaluru,25,3000,5.0
+Kings Club,Multicuisine,Kings Club,Bengaluru,35,2000,4.3
+Kings Club,Multicuisine,Kings Club,Bengaluru,35,2000,4.3
+SOL55 - COMMUNITY BAR ,Multicuisine,Koramangala 4th Block,South Bengaluru,25,1500,4.8
+SOL55 - COMMUNITY BAR ,Multicuisine,Koramangala 4th Block,South Bengaluru,25,1500,4.8
+Punjab Grill,North Indian,Mahadevapura,Bengaluru,25,900,4.0
+Punjab Grill,North Indian,Mahadevapura,Bengaluru,25,900,4.0
+Obsidian Sports & Music Bar,Multicuisine,,,35,2000,4.8
+Obsidian Sports & Music Bar,Multicuisine,,,35,2000,4.8
+Tim Hortons,Coffee,Koramangala,South Bengaluru,40,2000,4.6
+Tim Hortons,Coffee,Koramangala,South Bengaluru,40,2000,4.6
+MisoSexy,"Pan Asian, Asian",12th main,East Bengaluru,25,2000,4.3
+MisoSexy,"Pan Asian, Asian",12th main,East Bengaluru,25,2000,4.3
+Board In The City,Multicuisine,Koramangala,South Bengaluru,35,2000,2.7
+Board In The City,Multicuisine,Koramangala,South Bengaluru,35,2000,2.7
+Black Velvet,Multicuisine,,,40,2000,3.3
+Black Velvet,Multicuisine,,,40,2000,3.3
+Theo Cafe,"Pan Asian, Continental",Kothanur,Bengaluru,25,1500,3.8
+Theo Cafe,"Pan Asian, Continental",Kothanur,Bengaluru,25,1500,3.8
+The Soya Chaap Co.,North Indian,Bannerghatta Road,South Bengaluru,35,500,5.0
+The Soya Chaap Co.,North Indian,Bannerghatta Road,South Bengaluru,35,500,5.0
+Siciliana,"Italian, Continental","Phoenix Mall Of Asia, Yelahanka",Bengaluru,25,1500,5.0
+Siciliana,"Italian, Continental","Phoenix Mall Of Asia, Yelahanka",Bengaluru,25,1500,5.0
+Sarayu Flavours,Multicuisine,Rajajinagar,West Bengaluru,35,2000,4.0
+Sarayu Flavours,Multicuisine,Rajajinagar,West Bengaluru,35,2000,4.0
+Keys Cafe ,Multicuisine,,,25,2000,4.0
+Keys Cafe ,Multicuisine,,,25,2000,4.0
+Bao To Me,Multicuisine,Koramangala 1st Block,South Bengaluru,25,1100,4.8
+Bao To Me,Multicuisine,Koramangala 1st Block,South Bengaluru,25,1100,4.8
+Le Cirque Signature ,Italian,The Leela Palace,Bengaluru,35,9440,4.1
+Le Cirque Signature ,Italian,The Leela Palace,Bengaluru,35,9440,4.1
+Nazaara,Indian,Courtyard by Marriott,Bengaluru,35,3000,4.1
+Nazaara,Indian,Courtyard by Marriott,Bengaluru,35,3000,4.1
+Shegan Bar & Kitchen,Multicuisine,Hennur,North Bengaluru,35,2000,4.2
+Shegan Bar & Kitchen,Multicuisine,Hennur,North Bengaluru,35,2000,4.2
+Citrus Café – Peninsula Suites Operated by Lemon Tree Hotels,Multicuisine,Peninsula Suites,Bengaluru,40,2000,4.0
+Citrus Café – Peninsula Suites Operated by Lemon Tree Hotels,Multicuisine,Peninsula Suites,Bengaluru,40,2000,4.0
+Slounge,Multicuisine,Peninsula Suites,Bengaluru,40,2000,4.0
+Slounge,Multicuisine,Peninsula Suites,Bengaluru,40,2000,4.0
+Sugar Factory Reloaded,"Finger Food, Cocktail Menu",Koramangala,South Bengaluru,35,2000,2.9
+Sugar Factory Reloaded,"Finger Food, Cocktail Menu",Koramangala,South Bengaluru,35,2000,2.9
+DE Fish Restaurant,"Seafood, Indian Coastal Cuisine",Kalyan Nagar,North Bengaluru,25,600,3.0
+DE Fish Restaurant,"Seafood, Indian Coastal Cuisine",Kalyan Nagar,North Bengaluru,25,600,3.0
+Karigari By Chef Harpal Singh Sokhi,Multicuisine,"Phoenix Mall Of Asia, Yelahanka",Bengaluru,25,2000,4.3
+Karigari By Chef Harpal Singh Sokhi,Multicuisine,"Phoenix Mall Of Asia, Yelahanka",Bengaluru,25,2000,4.3
+The Charcoal Rooftop Cafe & Barbeque,Multicuisine,Chandra Layout,West Bengaluru,40,2000,2.5
+The Charcoal Rooftop Cafe & Barbeque,Multicuisine,Chandra Layout,West Bengaluru,40,2000,2.5
+The Collection,"Finger Food, Cocktail Menu",Four Seasons Hotel,Bengaluru,35,2500,5.0
+The Collection,"Finger Food, Cocktail Menu",Four Seasons Hotel,Bengaluru,35,2500,5.0
+ 404 By TOF,Multicuisine,S.G. Palya,Bengaluru,35,1000,5.0
+ 404 By TOF,Multicuisine,S.G. Palya,Bengaluru,35,1000,5.0
+Madam Chocolate,Desserts,Kalyan Nagar,North Bengaluru,25,400,4.0
+Madam Chocolate,Desserts,Kalyan Nagar,North Bengaluru,25,400,4.0
+Madam Chocolate,Desserts,Indiranagar,East Bengaluru,25,400,4.0
+Madam Chocolate,Desserts,Indiranagar,East Bengaluru,25,400,4.0
+Bannur Biryani Haus ,Biryani,Kammanahalli,East Bengaluru,35,500,4.0
+Bannur Biryani Haus ,Biryani,Kammanahalli,East Bengaluru,35,500,4.0
+Boba Bhai,Bubble Tea,Indiranagar,East Bengaluru,40,400,4.0
+Boba Bhai,Bubble Tea,Indiranagar,East Bengaluru,40,400,4.0
+Chai Galli,"Fast Food, Chinese",JP Nagar,South Bengaluru,40,400,4.0
+Chai Galli,"Fast Food, Chinese",JP Nagar,South Bengaluru,40,400,4.0
+Big Cup Café ,Continental,,,40,700,4.0
+Big Cup Café ,Continental,,,40,700,4.0
+The kin's,Fast Food,Sudhama Nagar,Central Bengaluru,35,500,4.0
+The kin's,Fast Food,Sudhama Nagar,Central Bengaluru,35,500,4.0
+The Rasoi,North Indian,Seshadripuram,Central Bengaluru,35,650,4.0
+The Rasoi,North Indian,Seshadripuram,Central Bengaluru,35,650,4.0
+Mekeba,Multicuisine,Koramangala,South Bengaluru,35,800,4.0
+Mekeba,Multicuisine,Koramangala,South Bengaluru,35,800,4.0
+Chicago Pizza,"Pizza, Pasta",Koramangala,South Bengaluru,45,300,4.0
+Chicago Pizza,"Pizza, Pasta",Koramangala,South Bengaluru,45,300,4.0
+Olio The Woodfired Pizzeria,"Italian, Pizza",Bellandur,South Bengaluru,40,500,4.0
+Olio The Woodfired Pizzeria,"Italian, Pizza",Bellandur,South Bengaluru,40,500,4.0
+Delhi Chaat House,North Indian,Indiranagar,East Bengaluru,40,2000,4.0
+Delhi Chaat House,North Indian,Indiranagar,East Bengaluru,40,2000,4.0
+Saji's Restaurant,Multicuisine,,,40,2000,4.0
+Saji's Restaurant,Multicuisine,,,40,2000,4.0
+Samosa Singh- Mall of Asia,Fast Food,Sahakara Nagar,North Bengaluru,45,200,4.0
+Samosa Singh- Mall of Asia,Fast Food,Sahakara Nagar,North Bengaluru,45,200,4.0
+SaDa Salads & Sips,Healthy Food,Kalyan Nagar,North Bengaluru,40,500,4.0
+SaDa Salads & Sips,Healthy Food,Kalyan Nagar,North Bengaluru,40,500,4.0
+Love Asia,Pan Asian,Kothanur,Bengaluru,25,1000,4.0
+Love Asia,Pan Asian,Kothanur,Bengaluru,25,1000,4.0
+Tim's Eatery,"Beverages, Mexican, Continental",Kalyan Nagar,North Bengaluru,35,1200,5.0
+Tim's Eatery,"Beverages, Mexican, Continental",Kalyan Nagar,North Bengaluru,35,1200,5.0
+Angaar Biryani,Biryani,Whitefield,East Bengaluru,35,2000,1.0
+Angaar Biryani,Biryani,Whitefield,East Bengaluru,35,2000,1.0
+Hotel Virat Siridarshni,"Chinese, North Indian",Rajajinagar,West Bengaluru,25,750,5.0
+Hotel Virat Siridarshni,"Chinese, North Indian",Rajajinagar,West Bengaluru,25,750,5.0
+Shree Kismat Kathiyawadi,Gujarati,Banaswadi,North Bengaluru,35,1000,5.0
+Shree Kismat Kathiyawadi,Gujarati,Banaswadi,North Bengaluru,35,1000,5.0
+The Dennys Pub,Multicuisine,Jayanagar,South Bengaluru,40,2000,5.0
+The Dennys Pub,Multicuisine,Jayanagar,South Bengaluru,40,2000,5.0
+Tanour Multi Cuisine,"Arabian, Chinese",BTM,South Bengaluru,25,600,5.0
+Tanour Multi Cuisine,"Arabian, Chinese",BTM,South Bengaluru,25,600,5.0
+Tex Mex Grill,American,Kalyan Nagar,North Bengaluru,35,2000,5.0
+Tex Mex Grill,American,Kalyan Nagar,North Bengaluru,35,2000,5.0
+Exotic - Cafe and Sheesha Lounge,Chinese,Lal Bagh Main Rd,Bengaluru,35,2000,5.0
+Exotic - Cafe and Sheesha Lounge,Chinese,Lal Bagh Main Rd,Bengaluru,35,2000,5.0
+Baileys Cafe & Restaurant,"Cafe, Beverages",Banaswadi,North Bengaluru,35,2000,5.0
+Baileys Cafe & Restaurant,"Cafe, Beverages",Banaswadi,North Bengaluru,35,2000,5.0
+Ibbanni Cafe & Bristo,Multicuisine,Subramanyapura,Bengaluru,35,600,5.0
+Ibbanni Cafe & Bristo,Multicuisine,Subramanyapura,Bengaluru,35,600,5.0
+Soul Indian Specialty,Indian,Svenska Design Hotel,Bengaluru,40,2000,4.0
+Soul Indian Specialty,Indian,Svenska Design Hotel,Bengaluru,40,2000,4.0
+Cafe Reset,"Healthy Food, Continental",Koramangala,South Bengaluru,35,2000,4.4
+Cafe Reset,"Healthy Food, Continental",Koramangala,South Bengaluru,35,2000,4.4
+Brew Meister Craft Beer and Kitchen,Finger Food,Jayanagar,South Bengaluru,25,2500,4.5
+Brew Meister Craft Beer and Kitchen,Finger Food,Jayanagar,South Bengaluru,25,2500,4.5
+Chill,"Finger Food, Cocktail Menu",Radha Hometel,Bengaluru,40,2000,3.3
+Chill,"Finger Food, Cocktail Menu",Radha Hometel,Bengaluru,40,2000,3.3
+Si Nonna's The Original Sourdough Pizza,Italian,Varthur,Bengaluru,25,1500,4.0
+Si Nonna's The Original Sourdough Pizza,Italian,Varthur,Bengaluru,25,1500,4.0
+Ninhao Asian Kitchen,Chinese,Koramangala,South Bengaluru,35,2000,4.0
+Ninhao Asian Kitchen,Chinese,Koramangala,South Bengaluru,35,2000,4.0
+Kailasam Veg Restaurant,Multicuisine,BTM,South Bengaluru,25,2000,5.0
+Kailasam Veg Restaurant,Multicuisine,BTM,South Bengaluru,25,2000,5.0
+The Eatery,Multicuisine,Four Points by Sheraton,Bengaluru,40,2000,4.3
+The Eatery,Multicuisine,Four Points by Sheraton,Bengaluru,40,2000,4.3
+The Fish Club - Seafood Restaurant,Seafood,BTM,South Bengaluru,35,500,3.0
+The Fish Club - Seafood Restaurant,Seafood,BTM,South Bengaluru,35,500,3.0
+Skydeck RR Nagar,Multicuisine,Rajarajeshwari Nagar,South Bengaluru,25,1200,4.3
+Skydeck RR Nagar,Multicuisine,Rajarajeshwari Nagar,South Bengaluru,25,1200,4.3
+De Zurich Lounge,Multicuisine,Kalyan Nagar,North Bengaluru,35,2000,4.7
+De Zurich Lounge,Multicuisine,Kalyan Nagar,North Bengaluru,35,2000,4.7
+Kasipu Resto Bar,"Chinese, Indian",Jalahalli,North Bengaluru,35,2500,3.8
+Kasipu Resto Bar,"Chinese, Indian",Jalahalli,North Bengaluru,35,2500,3.8
+The Spicy Plate,North Indian,HSR,South Bengaluru,25,2000,4.8
+The Spicy Plate,North Indian,HSR,South Bengaluru,25,2000,4.8
+ Amare - Patisserie by the scene,"Bakery, Desserts",JP Nagar,South Bengaluru,25,800,4.0
+ Amare - Patisserie by the scene,"Bakery, Desserts",JP Nagar,South Bengaluru,25,800,4.0
+Mosaic,Multicuisine,Hotel Country Inn,Bengaluru,35,2000,4.1
+Mosaic,Multicuisine,Hotel Country Inn,Bengaluru,35,2000,4.1
+Zaal Lounge & Kitchen,South Indian,Mahadevapura,Bengaluru,25,1200,4.0
+Zaal Lounge & Kitchen,South Indian,Mahadevapura,Bengaluru,25,1200,4.0
+Spice Cove,"Beverages, Multicuisine",Gandhi Nagar,Central Bengaluru,35,2000,3.5
+Spice Cove,"Beverages, Multicuisine",Gandhi Nagar,Central Bengaluru,35,2000,3.5
+Verve,Multicuisine,,,40,2000,4.2
+Verve,Multicuisine,,,40,2000,4.2
+The Clay Hut,Bengali,Koramangala,South Bengaluru,35,2000,3.9
+The Clay Hut,Bengali,Koramangala,South Bengaluru,35,2000,3.9
+Ancient Cafe,"Chinese, Thai, Vietnamese",Electronic City Phase 1,South Bengaluru,40,2000,4.7
+Ancient Cafe,"Chinese, Thai, Vietnamese",Electronic City Phase 1,South Bengaluru,40,2000,4.7
+Urban Dyne,Multicuisine,Chikkabellandur,East Bengaluru,25,2000,4.5
+Urban Dyne,Multicuisine,Chikkabellandur,East Bengaluru,25,2000,4.5
+Onyx ,Multicuisine,The HHI Select,Bengaluru,40,2000,4.3
+Onyx ,Multicuisine,The HHI Select,Bengaluru,40,2000,4.3
+Mesa Lounge Bar,"Chinese, North Indian",Svenska Design Hotel,Bengaluru,40,2000,4.0
+Mesa Lounge Bar,"Chinese, North Indian",Svenska Design Hotel,Bengaluru,40,2000,4.0
+Layover Bar,Multicuisine,Moxy,Bengaluru,40,2500,4.0
+Layover Bar,Multicuisine,Moxy,Bengaluru,40,2500,4.0
+Sai Food Palace,Multicuisine,JP Nagar,South Bengaluru,45,2000,5.0
+Sai Food Palace,Multicuisine,JP Nagar,South Bengaluru,45,2000,5.0
+Ambari Restaurant,Multicuisine,"Shivas Gateway Hotel, International Airport",Bengaluru,25,2000,3.0
+Ambari Restaurant,Multicuisine,"Shivas Gateway Hotel, International Airport",Bengaluru,25,2000,3.0
+Sea Meen Restaurant,Multicuisine,Koramangala,South Bengaluru,35,2000,4.3
+Sea Meen Restaurant,Multicuisine,Koramangala,South Bengaluru,35,2000,4.3
+Boozy Cove ,"Fast Food, Cafe",Sarjapur Road,South Bengaluru,25,2000,5.0
+Boozy Cove ,"Fast Food, Cafe",Sarjapur Road,South Bengaluru,25,2000,5.0
+Brahmadeva Foods,Multicuisine,Devanahalli,Bengaluru,45,2000,5.0
+Brahmadeva Foods,Multicuisine,Devanahalli,Bengaluru,45,2000,5.0
+Pure & Sure Organic Cafe,"Cafe, Indian, Vegan",Jayanagar,South Bengaluru,35,800,4.0
+Pure & Sure Organic Cafe,"Cafe, Indian, Vegan",Jayanagar,South Bengaluru,35,800,4.0
+Double Up,Finger Food,Hilton,Bengaluru,35,2500,4.5
+Double Up,Finger Food,Hilton,Bengaluru,35,2500,4.5
+Gallop Bar,"Finger Food, Cocktail Menu",Davanam Sarovar Portico Suites,Bengaluru,35,2000,4.3
+Gallop Bar,"Finger Food, Cocktail Menu",Davanam Sarovar Portico Suites,Bengaluru,35,2000,4.3
+Cheers Bar & Canteen,"European, Indian",Marathahalli,East Bengaluru,25,1000,4.5
+Cheers Bar & Canteen,"European, Indian",Marathahalli,East Bengaluru,25,1000,4.5
+Zoca Cafe,Multicuisine,Sahakara Nagar,North Bengaluru,40,2000,4.0
+Zoca Cafe,Multicuisine,Sahakara Nagar,North Bengaluru,40,2000,4.0
+Adhira & Appa Coffee,"Bakery, Cafe, Desserts",Old Madras Road,East Bengaluru,35,500,4.0
+Adhira & Appa Coffee,"Bakery, Cafe, Desserts",Old Madras Road,East Bengaluru,35,500,4.0
+Luxor Dine,Multicuisine,RT Nagar,North Bengaluru,25,1000,4.0
+Luxor Dine,Multicuisine,RT Nagar,North Bengaluru,25,1000,4.0
+Canyin Restaurant,Asian,New BEL Road,North Bengaluru,35,600,4.0
+Canyin Restaurant,Asian,New BEL Road,North Bengaluru,35,600,4.0
+Sky Lounge,"Chinese, Indian, Continental",Hotel Adora,Bengaluru,35,1200,4.0
+Sky Lounge,"Chinese, Indian, Continental",Hotel Adora,Bengaluru,35,1200,4.0
+Tandoori Wok,"North Indian, Chinese",Shanti Nagar,Central Bengaluru,35,2000,4.0
+Tandoori Wok,"North Indian, Chinese",Shanti Nagar,Central Bengaluru,35,2000,4.0
+Cinnamon,Multicuisine,Seshadripuram,Central Bengaluru,35,2000,4.0
+Cinnamon,Multicuisine,Seshadripuram,Central Bengaluru,35,2000,4.0
+Cafe Exhale,Multicuisine,Kalyan Nagar,North Bengaluru,35,2000,4.0
+Cafe Exhale,Multicuisine,Kalyan Nagar,North Bengaluru,35,2000,4.0
+MG's Fine Dining & Bar,Multicuisine,Springs Hotel & Spa,Bengaluru,35,2000,4.0
+MG's Fine Dining & Bar,Multicuisine,Springs Hotel & Spa,Bengaluru,35,2000,4.0
+Ivory Bar & Kitchen,"Cocktail Menu, Multicuisine",Gandhi Nagar,Central Bengaluru,35,2000,4.0
+Ivory Bar & Kitchen,"Cocktail Menu, Multicuisine",Gandhi Nagar,Central Bengaluru,35,2000,4.0
+Corel Family Lounge,Multicuisine,Gandhi Nagar,Central Bengaluru,35,2000,4.0
+Corel Family Lounge,Multicuisine,Gandhi Nagar,Central Bengaluru,35,2000,4.0
+Kanteen,Indian,Gandhi Nagar,Central Bengaluru,35,2000,4.0
+Kanteen,Indian,Gandhi Nagar,Central Bengaluru,35,2000,4.0
+Night Adda @ Onyx,Multicuisine,The HHI Select,Bengaluru,40,2000,4.0
+Night Adda @ Onyx,Multicuisine,The HHI Select,Bengaluru,40,2000,4.0
+Cafe Adda 43,European,Kalyan Nagar,North Bengaluru,35,2000,4.0
+Cafe Adda 43,European,Kalyan Nagar,North Bengaluru,35,2000,4.0
+Red chillies,Multicuisine,Hoodi,Bengaluru,35,700,4.0
+Red chillies,Multicuisine,Hoodi,Bengaluru,35,700,4.0
+Zaffran - North West Frontier Restaurant & Bar by TBC,North West Frontier,Marathahalli,East Bengaluru,25,2500,4.0
+Zaffran - North West Frontier Restaurant & Bar by TBC,North West Frontier,Marathahalli,East Bengaluru,25,2500,4.0
+Bekal,Multicuisine,Jeevan Bhima Nagar,East Bengaluru,35,2000,2.0
+Bekal,Multicuisine,Jeevan Bhima Nagar,East Bengaluru,35,2000,2.0
+Salut Gastropub,Multicuisine,Jayanagar,South Bengaluru,35,1000,4.2
+Salut Gastropub,Multicuisine,Jayanagar,South Bengaluru,35,1000,4.2
+Manbhavan Premium Thali Restaurant,Indian,Bhartiya Mall,Bengaluru,35,2000,4.0
+Manbhavan Premium Thali Restaurant,Indian,Bhartiya Mall,Bengaluru,35,2000,4.0
+Golden Metro Veg,Indian,Seshadripuram,Central Bengaluru,35,2000,3.8
+Golden Metro Veg,Indian,Seshadripuram,Central Bengaluru,35,2000,3.8
+Basaveshwar Khanavali,South Indian,Koramangala,South Bengaluru,25,2000,4.5
+Basaveshwar Khanavali,South Indian,Koramangala,South Bengaluru,25,2000,4.5
+Amritsar Haveli,Multicuisine,Yelahanka,North Bengaluru,25,2000,4.0
+Amritsar Haveli,Multicuisine,Yelahanka,North Bengaluru,25,2000,4.0
+Mixnosh Art Cafe,"Fusion, Continental","7th block, Jayanagar ",South Bengaluru,25,600,4.5
+Mixnosh Art Cafe,"Fusion, Continental","7th block, Jayanagar ",South Bengaluru,25,600,4.5
+Bamboo Cafe & Resto,Multicuisine,Koramangala 1st Block,South Bengaluru,35,2000,4.0
+Bamboo Cafe & Resto,Multicuisine,Koramangala 1st Block,South Bengaluru,35,2000,4.0
+Pavillion@Manyata,Multicuisine,Jakkur,Central Bengaluru,35,2500,4.0
+Pavillion@Manyata,Multicuisine,Jakkur,Central Bengaluru,35,2500,4.0
+Hotel Canton Family Restaurant & Bar,"Chinese, European",Jayanagar,South Bengaluru,35,2000,4.0
+Hotel Canton Family Restaurant & Bar,"Chinese, European",Jayanagar,South Bengaluru,35,2000,4.0
+D Square Restobar,"Andhra, Cocktail Menu",YN Hotels,Bengaluru,35,2000,4.0
+D Square Restobar,"Andhra, Cocktail Menu",YN Hotels,Bengaluru,35,2000,4.0
+Bento Bento,Pan Asian,Indiranagar,East Bengaluru,35,2000,3.7
+Bento Bento,Pan Asian,Indiranagar,East Bengaluru,35,2000,3.7
+Karavali Fisherman Mangalore Restaurant,Seafood,BTM,South Bengaluru,35,700,5.0
+Karavali Fisherman Mangalore Restaurant,Seafood,BTM,South Bengaluru,35,700,5.0
+Casa Piccosa,Multicuisine,JP Nagar,South Bengaluru,35,2000,3.3
+Casa Piccosa,Multicuisine,JP Nagar,South Bengaluru,35,2000,3.3
+Orbis Restaurant ,Multicuisine,Whitefield,East Bengaluru,40,2000,4.1
+Orbis Restaurant ,Multicuisine,Whitefield,East Bengaluru,40,2000,4.1
+The Studs Sports Bar,Multicuisine,Sahakara Nagar,North Bengaluru,25,1700,4.0
+The Studs Sports Bar,Multicuisine,Sahakara Nagar,North Bengaluru,25,1700,4.0
+Herbs & Spices,Indian,Whitefield,East Bengaluru,35,2000,3.9
+Herbs & Spices,Indian,Whitefield,East Bengaluru,35,2000,3.9
+Heritage,Multicuisine,Rajajinagar,West Bengaluru,25,2000,3.5
+Heritage,Multicuisine,Rajajinagar,West Bengaluru,25,2000,3.5
+Cafe E Fungi,Multicuisine, Bommanahalli,Bengaluru,40,2000,3.5
+Cafe E Fungi,Multicuisine, Bommanahalli,Bengaluru,40,2000,3.5
+Blurred,"Cocktail Menu, Multicuisine",Koramangala,South Bengaluru,35,2000,2.8
+Blurred,"Cocktail Menu, Multicuisine",Koramangala,South Bengaluru,35,2000,2.8
+Drinkology ,Multicuisine,"Gottigere, Bangalore",South Bengaluru,40,2000,4.0
+Drinkology ,Multicuisine,"Gottigere, Bangalore",South Bengaluru,40,2000,4.0
+Mad Doh,"Italian, Pizza",Electronic City,South Bengaluru,25,1100,4.0
+Mad Doh,"Italian, Pizza",Electronic City,South Bengaluru,25,1100,4.0
+Hebe's,Multicuisine,HSR,South Bengaluru,25,2000,4.5
+Hebe's,Multicuisine,HSR,South Bengaluru,25,2000,4.5
+Cakes Wagon,"Bakery, Desserts",Bellandur,South Bengaluru,45,2000,4.0
+Cakes Wagon,"Bakery, Desserts",Bellandur,South Bengaluru,45,2000,4.0
+Moxy Bar,Multicuisine,International Airport,North Bengaluru,45,2500,4.0
+Moxy Bar,Multicuisine,International Airport,North Bengaluru,45,2500,4.0
+Samosa Singh,Finger Food,Marathahalli,East Bengaluru,45,300,4.0
+Samosa Singh,Finger Food,Marathahalli,East Bengaluru,45,300,4.0
+Bakers Home,Desserts,Mahadevapura,Bengaluru,45,2000,4.0
+Bakers Home,Desserts,Mahadevapura,Bengaluru,45,2000,4.0
+Farm Fresh,Multicuisine,The Byke Signature,Bengaluru,40,1500,4.0
+Farm Fresh,Multicuisine,The Byke Signature,Bengaluru,40,1500,4.0
+MYKA Cafe & Boutique,Cafe,Rajarajeshwari Nagar,South Bengaluru,25,2000,5.0
+MYKA Cafe & Boutique,Cafe,Rajarajeshwari Nagar,South Bengaluru,25,2000,5.0
+Itihaas,"Chinese, Indian, South Indian",Chikkajala,Bengaluru,25,800,5.0
+Itihaas,"Chinese, Indian, South Indian",Chikkajala,Bengaluru,25,800,5.0
+Bangalore Cafe,Multicuisine,Chikkabellandur,East Bengaluru,25,800,5.0
+Bangalore Cafe,Multicuisine,Chikkabellandur,East Bengaluru,25,800,5.0
+Pizza Republic,Italian,Electronic City,South Bengaluru,40,2000,4.8
+Pizza Republic,Italian,Electronic City,South Bengaluru,40,2000,4.8
+Garci,Multicuisine,Jayanagar,South Bengaluru,25,1000,4.3
+Garci,Multicuisine,Jayanagar,South Bengaluru,25,1000,4.3
+Secret Sip Resto Bar,Multicuisine,Banashankari,South Bengaluru,25,2000,4.6
+Secret Sip Resto Bar,Multicuisine,Banashankari,South Bengaluru,25,2000,4.6
+Ambara Andhra,Multicuisine,T. Dasarahalli,Bengaluru,40,2000,3.8
+Ambara Andhra,Multicuisine,T. Dasarahalli,Bengaluru,40,2000,3.8
+Sarpanch Da Dhaba,Multicuisine,Akshayanagar,South Bengaluru,25,2000,4.2
+Sarpanch Da Dhaba,Multicuisine,Akshayanagar,South Bengaluru,25,2000,4.2
+Vijaywada Tiffins,Andhra,Brookefield,East Bengaluru,25,2000,4.7
+Vijaywada Tiffins,Andhra,Brookefield,East Bengaluru,25,2000,4.7
+Koozh House,"Chettinad, Chinese",Kammanahalli,East Bengaluru,35,2000,3.0
+Koozh House,"Chettinad, Chinese",Kammanahalli,East Bengaluru,35,2000,3.0
+Vape town,"European, Italian",HSR,South Bengaluru,40,2000,3.0
+Vape town,"European, Italian",HSR,South Bengaluru,40,2000,3.0
+Si Nonna's - The Original Sourdough Pizza | Koramangala | Bengaluru,Italian,Koramangala,South Bengaluru,25,1700,4.0
+Si Nonna's - The Original Sourdough Pizza | Koramangala | Bengaluru,Italian,Koramangala,South Bengaluru,25,1700,4.0
+Patiala Dhaba,"Chinese, North Indian",Electronic City Phase 1,South Bengaluru,35,400,4.0
+Patiala Dhaba,"Chinese, North Indian",Electronic City Phase 1,South Bengaluru,35,400,4.0
+Turahalli Hotel,Multicuisine,Banashankari,South Bengaluru,35,2000,5.0
+Turahalli Hotel,Multicuisine,Banashankari,South Bengaluru,35,2000,5.0
+Thamara Bar And Fine Dine,Multicuisine,Hotel Classic Comfort,Bengaluru,35,1200,5.0
+Thamara Bar And Fine Dine,Multicuisine,Hotel Classic Comfort,Bengaluru,35,1200,5.0
+Al fresco the grill,Global Cuisine,Jalahalli,North Bengaluru,25,3000,5.0
+Al fresco the grill,Global Cuisine,Jalahalli,North Bengaluru,25,3000,5.0
+Deewar Family Restaurant and Bar,"Seafood, Multicuisine",Vijay Nagar,West Bengaluru,25,2000,5.0
+Deewar Family Restaurant and Bar,"Seafood, Multicuisine",Vijay Nagar,West Bengaluru,25,2000,5.0
+WXYZ Bar,Multicuisine,Aloft,Bengaluru,35,2000,3.6
+WXYZ Bar,Multicuisine,Aloft,Bengaluru,35,2000,3.6
+Maa Da Dhaba,Multicuisine,Kempegowda International Airport,North Bengaluru,25,2000,4.2
+Maa Da Dhaba,Multicuisine,Kempegowda International Airport,North Bengaluru,25,2000,4.2
+Bearfoot Bistro,Continental,Koramangala,South Bengaluru,35,2000,4.0
+Bearfoot Bistro,Continental,Koramangala,South Bengaluru,35,2000,4.0
+G Super Club,Multicuisine,Koramangala,South Bengaluru,35,1500,4.0
+G Super Club,Multicuisine,Koramangala,South Bengaluru,35,1500,4.0
+Craving O Clock,European,BTM,South Bengaluru,35,300,4.0
+Craving O Clock,European,BTM,South Bengaluru,35,300,4.0
+Vaji's Kitchen,North Indian,Hennur,North Bengaluru,35,2000,4.0
+Vaji's Kitchen,North Indian,Hennur,North Bengaluru,35,2000,4.0
+BRUCE LEE'S,Chinese,BTM,South Bengaluru,35,2000,4.0
+BRUCE LEE'S,Chinese,BTM,South Bengaluru,35,2000,4.0
+WAT Bar,Finger Food,Sterlings Mac Hotel,Bengaluru,25,2600,4.9
+WAT Bar,Finger Food,Sterlings Mac Hotel,Bengaluru,25,2600,4.9
+Cremeux Pizza & Bakery Cafe,"Bakery, Cafe",BTM,South Bengaluru,35,2000,5.0
+Cremeux Pizza & Bakery Cafe,"Bakery, Cafe",BTM,South Bengaluru,35,2000,5.0
+Asia Seven,Asian,,,35,400,5.0
+Asia Seven,Asian,,,35,400,5.0
+Colates Cafe,"Cafe, Beverages",Ulsoor,East Bengaluru,35,2000,5.0
+Colates Cafe,"Cafe, Beverages",Ulsoor,East Bengaluru,35,2000,5.0
+Street Foods by Punjab Grill,"North Indian, Street Food",,,35,800,5.0
+Street Foods by Punjab Grill,"North Indian, Street Food",,,35,800,5.0
+Kelvin Scale,"Bakery, Desserts",Rammurthy Nagar,North Bengaluru,40,2000,5.0
+Kelvin Scale,"Bakery, Desserts",Rammurthy Nagar,North Bengaluru,40,2000,5.0
+D.Scam Cafe,Multicuisine,Jayanagar,South Bengaluru,35,2000,4.0
+D.Scam Cafe,Multicuisine,Jayanagar,South Bengaluru,35,2000,4.0
+Secret Spot Cafe,Multicuisine,Jayanagar,South Bengaluru,35,800,4.5
+Secret Spot Cafe,Multicuisine,Jayanagar,South Bengaluru,35,800,4.5
+Yeda Republic,Multicuisine,Koramangala,South Bengaluru,25,2000,1.0
+Yeda Republic,Multicuisine,Koramangala,South Bengaluru,25,2000,1.0
+Skylit,Multicuisine,,,35,2000,2.3
+Skylit,Multicuisine,,,35,2000,2.3
+Coffee Chemistry,"Cafe, Coffee",Jayanagar,South Bengaluru,25,2000,4.6
+Coffee Chemistry,"Cafe, Coffee",Jayanagar,South Bengaluru,25,2000,4.6
+Cre'me & Co,Multicuisine,Jayanagar,South Bengaluru,35,450,4.8
+Cre'me & Co,Multicuisine,Jayanagar,South Bengaluru,35,450,4.8
+Aurea - Elevated Dine-in,"European, North Indian",Subramanyapura,Bengaluru,25,900,4.0
+Aurea - Elevated Dine-in,"European, North Indian",Subramanyapura,Bengaluru,25,900,4.0
+9T Restobar,"Finger Food, Cocktail Menu",Kalyan Nagar,North Bengaluru,25,1000,4.0
+9T Restobar,"Finger Food, Cocktail Menu",Kalyan Nagar,North Bengaluru,25,1000,4.0
+The Dungeon Cafe,"Chinese, Indian",JP Nagar,South Bengaluru,25,1200,4.0
+The Dungeon Cafe,"Chinese, Indian",JP Nagar,South Bengaluru,25,1200,4.0
+Gnovi,"Italian, European",Jayanagar,South Bengaluru,25,800,4.5
+Gnovi,"Italian, European",Jayanagar,South Bengaluru,25,800,4.5
+Flavors,Multicuisine,"Regenta Inn Grand, ORR Mahadevapura",Bengaluru,40,2000,4.0
+Flavors,Multicuisine,"Regenta Inn Grand, ORR Mahadevapura",Bengaluru,40,2000,4.0
+Blue Dragon,Pan Asian,Kannamangala,Bengaluru,40,2000,4.0
+Blue Dragon,Pan Asian,Kannamangala,Bengaluru,40,2000,4.0
+Taste Of Coast,Seafood,Sanjay Nagar,North Bengaluru,25,2000,4.6
+Taste Of Coast,Seafood,Sanjay Nagar,North Bengaluru,25,2000,4.6
+B 64,Multicuisine,Ramada by Wyndham,Bengaluru,40,2000,4.0
+B 64,Multicuisine,Ramada by Wyndham,Bengaluru,40,2000,4.0
+La Pino'z Pizza,Italian,Koramangala,South Bengaluru,40,2000,4.4
+La Pino'z Pizza,Italian,Koramangala,South Bengaluru,40,2000,4.4
+Dot.yum ,Multicuisine,Aloft,Bengaluru,35,2500,3.8
+Dot.yum ,Multicuisine,Aloft,Bengaluru,35,2500,3.8
+Guntur Chilli,"Andhra, Biryani",Kalyan Nagar,North Bengaluru,35,2000,2.2
+Guntur Chilli,"Andhra, Biryani",Kalyan Nagar,North Bengaluru,35,2000,2.2
+Saffron by Sanmanaa ,"South Indian, Mughlai",Rajajinagar,West Bengaluru,25,2500,4.0
+Saffron by Sanmanaa ,"South Indian, Mughlai",Rajajinagar,West Bengaluru,25,2500,4.0
+Urban Flavours,Multicuisine,Yelahanka,North Bengaluru,25,2500,5.0
+Urban Flavours,Multicuisine,Yelahanka,North Bengaluru,25,2500,5.0
+KUBO,"Chinese, Pan Asian",JP Nagar,South Bengaluru,25,2000,4.5
+KUBO,"Chinese, Pan Asian",JP Nagar,South Bengaluru,25,2000,4.5
+Telugu Vilas,"Andhra, Biryani",Mahadevapura,Bengaluru,25,1000,4.0
+Telugu Vilas,"Andhra, Biryani",Mahadevapura,Bengaluru,25,1000,4.0
+Parsas,"Indian, Kashmiri",Koramangala,South Bengaluru,25,2000,4.4
+Parsas,"Indian, Kashmiri",Koramangala,South Bengaluru,25,2000,4.4
+TopFlo Restobar,Multicuisine,Hotel Classic Comfort,Bengaluru,35,1000,4.0
+TopFlo Restobar,Multicuisine,Hotel Classic Comfort,Bengaluru,35,1000,4.0
+One Whiskey Bar,Multicuisine,,,35,2000,4.0
+One Whiskey Bar,Multicuisine,,,35,2000,4.0
+Vishveshvara Grill 'N' Shake,Multicuisine,Nagarbhavi,West Bengaluru,35,2000,4.0
+Vishveshvara Grill 'N' Shake,Multicuisine,Nagarbhavi,West Bengaluru,35,2000,4.0
+The Deli,Bakery,The Den,Bengaluru,35,2000,4.0
+The Deli,Bakery,The Den,Bengaluru,35,2000,4.0
+Green Leaf Restaurant,"Chinese, Seafood, North Indian",Bannerghatta Road,South Bengaluru,35,2000,4.0
+Green Leaf Restaurant,"Chinese, Seafood, North Indian",Bannerghatta Road,South Bengaluru,35,2000,4.0
+Cafe Uncharted,Multicuisine,Rajarajeshwari Nagar,South Bengaluru,35,2000,5.0
+Cafe Uncharted,Multicuisine,Rajarajeshwari Nagar,South Bengaluru,35,2000,5.0
+Naveen’s Bapu ki Kutiya,North Indian,,,25,2000,3.8
+Naveen’s Bapu ki Kutiya,North Indian,,,25,2000,3.8
+Mega Bite,Multicuisine,The MGM Mark Whitefield,Bengaluru,35,2000,4.0
+Mega Bite,Multicuisine,The MGM Mark Whitefield,Bengaluru,35,2000,4.0
+Punjabi Adda,North Indian,Banaswadi,North Bengaluru,35,2000,4.0
+Punjabi Adda,North Indian,Banaswadi,North Bengaluru,35,2000,4.0
+Wow! Chicken,Fast Food,,,40,2000,4.0
+Wow! Chicken,Fast Food,,,40,2000,4.0
+Swirlyo,Desserts,Indiranagar,East Bengaluru,35,2000,4.0
+Swirlyo,Desserts,Indiranagar,East Bengaluru,35,2000,4.0
+MS Dosa Corner ,South Indian,Armane nagar,Bengaluru,35,2000,4.0
+MS Dosa Corner ,South Indian,Armane nagar,Bengaluru,35,2000,4.0
+Tealogy Cafe,Cafe,Malleshwaram,West Bengaluru,35,2000,4.0
+Tealogy Cafe,Cafe,Malleshwaram,West Bengaluru,35,2000,4.0
+Ihmites Momos,"Fast Food, Momos",Indiranagar,East Bengaluru,35,2000,4.0
+Ihmites Momos,"Fast Food, Momos",Indiranagar,East Bengaluru,35,2000,4.0
+Al-Zaitoon,"Arabian, Biryani, Chinese",Nagarbhavi,West Bengaluru,35,2000,4.0
+Al-Zaitoon,"Arabian, Biryani, Chinese",Nagarbhavi,West Bengaluru,35,2000,4.0
+Samosa Singh,Fast Food,,,35,300,4.0
+Samosa Singh,Fast Food,,,35,300,4.0
+My Marathi,Multicuisine,Koramangala,South Bengaluru,35,350,4.0
+My Marathi,Multicuisine,Koramangala,South Bengaluru,35,350,4.0
+Servira Cafe,"Coffee, American",Koramangala 4th Block,South Bengaluru,40,700,4.0
+Servira Cafe,"Coffee, American",Koramangala 4th Block,South Bengaluru,40,700,4.0
+Uniq Scoops,Cafe,Sadashiv Nagar,North Bengaluru,35,2000,4.0
+Uniq Scoops,Cafe,Sadashiv Nagar,North Bengaluru,35,2000,4.0
+Samosa Singh,"Fast Food, Street Food",,,35,300,4.0
+Samosa Singh,"Fast Food, Street Food",,,35,300,4.0
+The Indian Gourmet Company,Mughlai,Kammanahalli,East Bengaluru,35,2000,4.0
+The Indian Gourmet Company,Mughlai,Kammanahalli,East Bengaluru,35,2000,4.0
+Blue Moon Coffee,Multicuisine,Kalyan Nagar,North Bengaluru,35,2000,4.0
+Blue Moon Coffee,Multicuisine,Kalyan Nagar,North Bengaluru,35,2000,4.0
+Panch Mathar Morh,Cafe,Banaswadi,North Bengaluru,35,2000,4.0
+Panch Mathar Morh,Cafe,Banaswadi,North Bengaluru,35,2000,4.0
+Kunafa Bytes,Turkish,Kalyan Nagar,North Bengaluru,35,2000,4.0
+Kunafa Bytes,Turkish,Kalyan Nagar,North Bengaluru,35,2000,4.0
+Sutta Brake,"European, Fast Food",BTM,South Bengaluru,35,500,4.0
+Sutta Brake,"European, Fast Food",BTM,South Bengaluru,35,500,4.0
+Dominus Videt,Fast Food,Kammanahalli,East Bengaluru,35,600,4.0
+Dominus Videt,Fast Food,Kammanahalli,East Bengaluru,35,600,4.0
+Shine Restaurant,"Indian, Chinese", Bommanahalli,Bengaluru,35,2000,4.0
+Shine Restaurant,"Indian, Chinese", Bommanahalli,Bengaluru,35,2000,4.0
+Cafe De Verde,Mexican,Koramangala,South Bengaluru,35,800,4.0
+Cafe De Verde,Mexican,Koramangala,South Bengaluru,35,800,4.0
+Rolls On Wheels,Fast Food,,,35,300,4.0
+Rolls On Wheels,Fast Food,,,35,300,4.0
+Chai Craving,Sandwiches,Shanti Nagar,Central Bengaluru,35,2000,4.0
+Chai Craving,Sandwiches,Shanti Nagar,Central Bengaluru,35,2000,4.0
+Nammuru Oota,South Indian,Banaswadi,North Bengaluru,35,2000,4.0
+Nammuru Oota,South Indian,Banaswadi,North Bengaluru,35,2000,4.0
+Uncle Peter's Pancakes,Bakery,Indiranagar,East Bengaluru,35,350,4.0
+Uncle Peter's Pancakes,Bakery,Indiranagar,East Bengaluru,35,350,4.0
+The Estate Deli,Multicuisine,Indiranagar,East Bengaluru,25,800,4.7
+The Estate Deli,Multicuisine,Indiranagar,East Bengaluru,25,800,4.7
+Sarah's Resto-Cafe,Continental,Ramamurthy Nagar,North Bengaluru,35,2000,5.0
+Sarah's Resto-Cafe,Continental,Ramamurthy Nagar,North Bengaluru,35,2000,5.0
+Papa Pho,Pan Asian,New BEL Road,North Bengaluru,35,2000,4.9
+Papa Pho,Pan Asian,New BEL Road,North Bengaluru,35,2000,4.9
+Rosewood International Hotel,"Chinese, North Indian",Rosewood International Hotel,Bengaluru,35,2000,5.0
+Rosewood International Hotel,"Chinese, North Indian",Rosewood International Hotel,Bengaluru,35,2000,5.0
+Chandini Chowk Express,North Indian,Koramangala 6th Block,South Bengaluru,35,2000,4.0
+Chandini Chowk Express,North Indian,Koramangala 6th Block,South Bengaluru,35,2000,4.0
+Dal Tadkaa,Indian,Banashankari,South Bengaluru,35,2000,5.0
+Dal Tadkaa,Indian,Banashankari,South Bengaluru,35,2000,5.0
+Grill N Chill,Multicuisine,Kalyan Nagar,North Bengaluru,35,2000,4.0
+Grill N Chill,Multicuisine,Kalyan Nagar,North Bengaluru,35,2000,4.0
+Hotel Godavari,Multicuisine,BTM,South Bengaluru,35,400,5.0
+Hotel Godavari,Multicuisine,BTM,South Bengaluru,35,400,5.0
+Brewing Untold Stories,Fast Food,Jayanagar,South Bengaluru,35,2000,5.0
+Brewing Untold Stories,Fast Food,Jayanagar,South Bengaluru,35,2000,5.0
+House of Tapre,"Indian, Modern South Indian",Kalyan Nagar,North Bengaluru,35,600,5.0
+House of Tapre,"Indian, Modern South Indian",Kalyan Nagar,North Bengaluru,35,600,5.0
+Vaman's Rasoi,Multicuisine,Nagawara,North Bengaluru,35,2000,5.0
+Vaman's Rasoi,Multicuisine,Nagawara,North Bengaluru,35,2000,5.0
+Pristine Cafe And Restaurant ,Multicuisine,Jayanagar,South Bengaluru,35,250,5.0
+Pristine Cafe And Restaurant ,Multicuisine,Jayanagar,South Bengaluru,35,250,5.0
+Yum Yum Korean Bucket,Korean,BTM,South Bengaluru,35,500,5.0
+Yum Yum Korean Bucket,Korean,BTM,South Bengaluru,35,500,5.0
+Smokin Burg,Fast Food,New BEL Road,North Bengaluru,35,2000,4.0
+Smokin Burg,Fast Food,New BEL Road,North Bengaluru,35,2000,4.0
+TAWAZO - Cafe & Grill,Indian,Mathikere,Bengaluru,25,400,1.5
+TAWAZO - Cafe & Grill,Indian,Mathikere,Bengaluru,25,400,1.5
+Brewz Coffee,"Coffee, Cafe",BTM,South Bengaluru,35,2000,4.5
+Brewz Coffee,"Coffee, Cafe",BTM,South Bengaluru,35,2000,4.5
+Arna Multicuisine,Multicuisine,"4th Block, Jayanagar",South Bengaluru,35,1000,4.7
+Arna Multicuisine,Multicuisine,"4th Block, Jayanagar",South Bengaluru,35,1000,4.7
+Coastal Waves,Multicuisine,Chikkalakshmaiah Layout,Bengaluru,35,2000,3.7
+Coastal Waves,Multicuisine,Chikkalakshmaiah Layout,Bengaluru,35,2000,3.7
+Andhra Biryanis,Andhra,Doddanekkundi,Bengaluru,25,2000,3.5
+Andhra Biryanis,Andhra,Doddanekkundi,Bengaluru,25,2000,3.5
+Haru Asian Bistro,Multicuisine,Sahakara Nagar,North Bengaluru,35,2000,4.7
+Haru Asian Bistro,Multicuisine,Sahakara Nagar,North Bengaluru,35,2000,4.7
+Flavours Of Andhra,Indian,Marathahalli,East Bengaluru,35,1000,4.1
+Flavours Of Andhra,Indian,Marathahalli,East Bengaluru,35,1000,4.1
+Nuha Patisserie & Cafe,Multicuisine,Indiranagar,East Bengaluru,25,600,5.0
+Nuha Patisserie & Cafe,Multicuisine,Indiranagar,East Bengaluru,25,600,5.0
+Amore Gelato Cafe,Ice Cream,Jayanagar,South Bengaluru,35,300,4.5
+Amore Gelato Cafe,Ice Cream,Jayanagar,South Bengaluru,35,300,4.5
+Tango Kitchen & Bar,"Chinese, Indian, Continental",Mahadevapura,Bengaluru,35,1200,4.5
+Tango Kitchen & Bar,"Chinese, Indian, Continental",Mahadevapura,Bengaluru,35,1200,4.5
+Tiffanys,Multicuisine,Shanti Nagar,Central Bengaluru,25,2000,4.6
+Tiffanys,Multicuisine,Shanti Nagar,Central Bengaluru,25,2000,4.6
+The Brew Factory Sahakara Nagar,Multicuisine,Yelahanka,North Bengaluru,25,2500,5.0
+The Brew Factory Sahakara Nagar,Multicuisine,Yelahanka,North Bengaluru,25,2500,5.0
+Hyderabadi Bawarchi,Biryani,Yelahanka,North Bengaluru,40,2000,1.8
+Hyderabadi Bawarchi,Biryani,Yelahanka,North Bengaluru,40,2000,1.8
+Celeb's RestoBar,Multicuisine,Whitefield,East Bengaluru,35,2000,4.7
+Celeb's RestoBar,Multicuisine,Whitefield,East Bengaluru,35,2000,4.7
